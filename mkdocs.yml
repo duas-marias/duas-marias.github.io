@@ -18,6 +18,7 @@ extra_javascript:
 
 nav:
   - Home: index.md
+  - Lista Completa: all.md
   - Advogado: advogado.md
   - Alimentos: alimentos.md
   - Aquecedor: aquecedor.md
@@ -60,7 +61,6 @@ nav:
   - Laboratório: laboratorio.md
   - Lavanderia: lavanderia.md
   - Limpeza: limpeza.md
-  - Lista Completa: all.md
   - Marcenaria: marcenaria.md
   - Marmoraria: marmoraria.md
   - Massagista: massagista.md

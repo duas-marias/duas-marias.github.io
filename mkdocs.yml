@@ -18,7 +18,6 @@ extra_javascript:
 
 nav:
   - Home: index.md
-  - Lista Completa: all.md
   - Advogado: advogado.md
   - Alimentos: alimentos.md
   - Aquecedor: aquecedor.md
@@ -36,20 +35,19 @@ nav:
   - Construtor: construtor.md
   - Corretor de Imóveis: corretor_imoveis.md
   - Cortinas: cortinas.md
-  - Engenheiro Calculista: eng_calculista.md
-  - Stogare: storage.md
   - Costureira: costureira.md
   - CPFL: cpfl.md
   - Cuidador: cuidador.md
-  - Detetização: detetizacao.md
   - Dentista: dentista.md
   - Desentupidora: desentupidora.md
   - Despachante: despachante.md
+  - Detetização: detetizacao.md
   - Diarista: diarista.md
   - Doação: doacao.md
   - Eletricista: eletricista.md
   - Encanador: encanador.md
   - Energia Solar: energia_solar.md
+  - Engenheiro Calculista: eng_calculista.md
   - Espelhos: espelho.md
   - Esquadrias: esquadrias.md
   - Farmácia: farmacia.md
@@ -62,6 +60,7 @@ nav:
   - Laboratório: laboratorio.md
   - Lavanderia: lavanderia.md
   - Limpeza: limpeza.md
+  - Lista Completa: all.md
   - Marcenaria: marcenaria.md
   - Marmoraria: marmoraria.md
   - Massagista: massagista.md
@@ -83,6 +82,7 @@ nav:
   - Segurança: seguranca.md
   - Seguros: seguros.md
   - Serralheria: serralheria.md
+  - Stogare: storage.md
   - Tapeçaria: tapecaria.md
   - Telas de Proteção: telas.md
   - Toldos: toldos.md

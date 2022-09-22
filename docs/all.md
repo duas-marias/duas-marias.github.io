@@ -410,6 +410,7 @@
 | Marceneiro                    | Ricardo                                  |                          | (19) 93310-0310  |
 | Marceneiro                    | Valdir                                   | 9.9860.8978              | (19) 99860-8978  |
 | Marceneiro                    | Xavier Marcenaria                        |                          | (19) 99714-4717  |
+| Marceneiro                    | Galvão Marcenaria                        |                          | (11) 95629-3080  |
 | Marmoraria                    | André                                    |                          | (19) 97402-9533  |
 | Marmoraria                    | Gustavo Brigu                            |                          | (19) 99194-3844  |
 | Marmoraria                    | Indaiart                                 | André                    | (19) 97402-9533  |

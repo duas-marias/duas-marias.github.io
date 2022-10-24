@@ -582,7 +582,7 @@
 | Pintor                        | Valdir                                   |                          | (19) 99666-4419  |
 | Pintor                        | Adalton                                  | Adalton                  | (19) 97107-5809  |
 | Pintor Mão de obra            | Indaia Tintas                            | Laura                    | (19) 99948-0660  |
-| Pintor?                       | Viviane                                  |                          | (19) 99854-0797  |
+| Pintora                       | Viviane                                  |                          | (19) 99854-0797  |
 | Piscina manutenção            | Adelson                                  |                          | (19) 99995-8939  |
 | Piscina manutenção            | Alan (Aníbal aquecedores)                |                          | (19) 99627-2763  |
 | Piscina manutenção            | Alan bombas                              |                          | (19) 97410-5665  |
@@ -612,7 +612,7 @@
 | Portaria Duas Marias          |                                          | 9.9989.4379              | (19) 98346-0215  |
 | Portas                        | Exclusiva Portas                         | Aline                    | (19) 99774-6463  |
 | Portas                        | Pormade Hassam                           |                          | (19) 99131-4092  |
-| Propaganda ?                  | ETC I10                                  | Cassio Tavares           | (19) 98232-6561  |
+| Propaganda.                   | ETC I10                                  | Cassio Tavares           | (19) 98232-6561  |
 | Publicidade Marketing         |                                          |                          | (19) 98851-1903  |
 | Quadros instalador            | Fernandinho                              |                          | (19) 99846-4803  |
 | Reparação Automotiva - Chavão | Julinho                                  | Funilaria e pintura      | (19) 3885-1163   |

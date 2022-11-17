@@ -389,7 +389,6 @@
 | Limpeza Tapetes               | Poli Higienização                        | Silvia                   | (19) 99341-9181  |
 | Limpeza Tapetes sofás         | Rosana                                   | 3936.2969                | (19) 99991-5017  |
 | Limpeza Vidros                | Dona Resolve                             |                          | (19) 97407-0228  |
-| Limpeza Vidros                | Esterelimp                               | Cristian                 | (19) 98719-3408  |
 | Limpeza Vidros                | Ecolimp pós obra                         | Ricardo                  | (19) 98900-3973  |
 | Limpeza Vidros                | Lex/Adriana                              | 9.9638.9940              | (19) 99934-9940  |
 | Limpeza Vidros                | Qbom Limpezas                            | Adriana  e Alex          | (19) 99934-9940  |

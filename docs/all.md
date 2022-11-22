@@ -368,6 +368,7 @@
 | Lavanderia cortinas           | Adelaide                                 |                          | (19) 99763-2829  |
 | Lavanderia cortinas           | Fernanda Decor                           |                          | (19) 99340-3214  |
 | Lavanderia sofás/tapete       | Lavanderia Indaiá                        |                          | (19) 98449-7169  |
+| Lava Rapido - Estetica Auto   | Auto Giro                                |                          | (19) 99739-3917  |
 | Limpeza                       |                                          |                          | (19) 98747-2476  |
 | Limpeza                       | Rodrigo                                  |                          | (19) 97412-0380  |
 | Limpeza  tapete/sofá)         | Douglas                                  |                          | (19) 98721-1032  |

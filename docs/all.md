@@ -719,7 +719,6 @@
 | Varal doméstico                   | Varais Mazzoneto                         | Campinas                 | (19) 3237-7625   |
 | Vazamentos                        | Leak Inspection                          |                          | (19) 99193-6965  |
 | Veículos  Baterias                | Fabio                                    | Atende domicilio         | (19) 99832-3008  |
-| Veículos  Estética Autom.         | Auto Giro                                |                          | (19) 99739-3917  |
 | Veículos  Lava rápido             | Renato                                   |                          | (19) 99611-9754  |
 | Veículos  Mecânica                | EuroBar                                  | Visconde Indaiatuba      |                  |
 | Veículos  Mecânica                | Rodabens                                 | Parque ecológico         |                  |

@@ -925,7 +925,7 @@
 
 
 - Dicas Dengue: Meio copo de cloro e uma colher de sal, colocar nos ralos 2ª e 6ª feira 	
-- Horário de ônibus Indautuba : Indaiatuba.sp.gov.br /horários-de-onibus		
+- Horário de ônibus Indautuba : <https://indaiatuba.sp.gov.br/horarios-de-onibus/>
 - Desapegos novos e usados entre no grupo link :https://chat.whatsupp.com/FNxEs1lL4GN1JWKk7P600c	Andreia Bergamo	
 
 Versão 2.6 19/12/2022 17:27

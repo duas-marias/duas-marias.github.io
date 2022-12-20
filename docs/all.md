@@ -1,745 +1,931 @@
-| Tipo de Prestador                 | Nome PF ou PJ                            | Contato Referencia       | Telefone         |
-|-----------------------------------|------------------------------------------|--------------------------|------------------|
-| Advogado                          | Gabriela Contábil                        |                          | (19) 99222-5526  |
-| Advogado                          | Ana Claudia Trevisan                     |                          | (19) 98356-7222  |
-| Advogado                          | Fernando                                 |                          | (19) 99333-9566  |
-| Advogado                          | Fius                                     |                          | (19) 3252-6176   |
-| Alimentos Açai                    | Joaquim/Léo                              |                          | (19) 98108-7666  |
-| Alimentos Açaí Delivery           | Leonardo Reche                           | Léo                      | (19) 98276-8600  |
-| Alimentos bacalhau                | www. Facebook.com/bacalhaudomaumau       | bacalhaudomaumau         | (19) 98197-1341  |
-| Alimentos Bolo                    | Encanto de Doce                          | Vera                     | (19) 99173-3563  |
-| Alimentos Café da Manhã           | Officine Decor                           | Boutique Flores          | (19) 99832-0396  |
-| Alimentos Café da Manhã           | Padaria Real                             |                          | (19) 99953-9828  |
-| Alimentos Café da Manhã ?         | Zachello                                 |                          | (19) 99212-4242  |
-| Alimentos Café e PUB              | Brendan House                            |                          | (19) 98886-8618  |
-| Alimentos Café Manhã              | Aloha                                    |                          |                  |
-| Alimentos Café Manhã              | Boutique dos Pães                        |                          |                  |
-| Alimentos Café Manhã              | Edneia                                   |                          | (19) 99212-4242  |
-| Alimentos Café Manhã              | Feito Pão Itaici                         |                          |                  |
-| Alimentos Café Manhã              | Florde salinda                           | Celia                    | (19) 99890-0036  |
-| Alimentos Café Manhã              | Florde salinda                           |                          |                  |
-| Alimentos Café Manhã              | Laffe                                    |                          |                  |
-| Alimentos Café Manhã              | Padaria a Real                           | 3875.6334                | (19) 99953-9828  |
-| Alimentos Café Manhã              | Q’Nimos                                  |                          | (19) 99974-7601  |
-| Alimentos Carnes                  | Sapor Carnes                             | 9.9892.2657              | (19) 99601-2657  |
-| Alimentos Com. Japonesa           | dhaisorestaurante.com                    |                          |                  |
-| Alimentos Com. Japonesa           | Tobu                                     |                          |                  |
-| Alimentos Doces                   | Doce Lolla                               | Confeitaria              |                  |
-| Alimentos Doces                   | Gerbeli Bolos e Salgados                 |                          | (19) 99447-8873  |
-| Alimentos Doces                   | La Fée Café e Restô                      | Confeitaria              | (19) 3329-6949   |
-| Alimentos Doces                   | Loja Dias Chocolate                      | Fabricio                 | (19) 97121-0447  |
-| Alimentos Doces                   | Samnicoliconfeitaria                     |                          | (19) 98820-7346  |
-| Alimentos Doces                   | Katia Beltrame                           |                          | (19) 98968-8778  |
-| Alimentos Doces                   | Baronese Cake                            | Pati Creato              | (19) 99142-1363  |
-| Alimentos Doces                   | bem casado                               | Léo Reche                | (19) 98276-8600  |
-| Alimentos Doces                   | Patsserie                                |                          | (19) 98208-4420  |
-| Alimentos Doces                   | Pecado Maior                             | Bruna Sêga               | (19) 98960-6464  |
-| Alimentos Doces                   | Santa Fé Geleias e Doces                 | Cucas e etc              | (19) 99621-8860  |
-| Alimentos Doces                   | Sof Cake Confeitaria                     |                          | (19) 98181-3354  |
-| Alimentos Doces                   | bem casado                               | Samara                   | (19) 99494-4253  |
-| Alimentos Doces bolo rolo         | Oxe Nina Brasil                          |                          | (19) 99211-3771  |
-| Alimentos Eventual                | Sociedade Italiana                       | Rua 13 de maio 109       |                  |
-| Alimentos Feijoada                | Dona Lulu Só Sábados                     | Vegetariana também       | (19) 99792-7220  |
-| Alimentos Feijoada                | Rotary Club 18/06/2022                   | Solidária                | (19) 99177-0378  |
-| Alimentos Frango Assado           | Oriental Frangos                         |                          | (19) 99488-6964  |
-| Alimentos Frango Assado           | Rosa Moça                                | Kennedy                  | (19) 99925-1313  |
-| Alimentos horti frutti            | Goomer                                   | www.goomer.app           |                  |
-| Alimentos horti frutti            | Torre Laguna                             |                          | (19) 98285-0064  |
-| Alimentos ovos e queijos          | Palmar Marta                             | Entregam nas sextas      | (19) 98293-7719  |
-| Alimentos Padaria                 | Em frente portal Ipês                    |                          |                  |
-| Alimentos Padaria                 | Feito Pão                                | Aeram da Real            | (19) 98355-0284  |
-| Alimentos Padaria                 | Padaria Suíça                            |                          |                  |
-| Alimentos Padaria                 | Pane Delivery                            |                          | (19) 97805-1812  |
-| Alimentos Pães artesanais         | Duo Bakehouse                            | Zilda/Rafael             | (19) 98997-1386  |
-| Alimentos Pães artesanais         | Fabi Bakery                              |                          | (19) 99862-7556  |
-| Alimentos Pães artesanais         | Pão Integral Natural                     |                          | (19) 98766-3188  |
-| Alimentos pizza Eventual          | Apae Campanha                            |                          |                  |
-| Alimentos Pizza Home              | Local                                    |                          | (19) 99538-4333  |
-| Alimentos Pizzaria                | Monte Carlo                              |                          | (19) 3392-0830   |
-| Alimentos pizzaria                | 430                                      |                          |                  |
-| Alimentos pizzaria                | Forneria Paulistana                      | Carlos                   | (19) 99733-0059  |
-| Alimentos pizzaria                | La conquista                             |                          |                  |
-| Alimentos pizzaria                | Padaria Suíça                            |                          |                  |
-| Alimentos pizzaria                | Pizza Prime                              | Morador                  | (31) 99136-0575  |
-| Alimentos pizzaria                | Torre Laguna ?                           |                          |                  |
-| Alimentos queijos                 | Emerson                                  |                          | (19) 97816-8221  |
-| Alimentos Restaurante             | Amadeu                                   |                          | (19) 99488-0580  |
-| Alimentos Restaurante             | Barnabé                                  |                          |                  |
-| Alimentos Restaurante             | Caipirão                                 |                          |                  |
-| Alimentos Restaurante             | Delicias de minas                        |                          | (19) 99714-4609  |
-| Alimentos Restaurante             | Moqueca                                  |                          |                  |
-| Alimentos Restaurante             | Rica                                     |                          |                  |
-| Alimentos Restaurante             | Sapores do Nono                          |                          | (19) 98412-5868  |
-| Alimentos Restaurante             | Uenohara                                 |                          |                  |
-| Alimentos Salgados                | Agua na  Boca                            |                          | (19) 97159-8442  |
-| Alimentos Salgados                | Bona Boca                                |                          |                  |
-| Alimentos Salgados                | Cia Salgados ,Conceição,1718             | 3328.003                 | (19) 99302-4292  |
-| Alimentos salgados                | Divina Gula Esfihas                      | Feirinha 2M              | (19) 99862-2044  |
-| Alimentos Salgados                | Dona Lolla   tortas                      | massasdonalolla.com.br   |                  |
-| Alimentos Salgados                | Dona Lolla   tortas                      | massasdonalolla.com.br   |                  |
-| Alimentos Salgados                | Dona Maria (Mini churro)                 | 3894.2259                | (19) 99332-1438  |
-| Alimentos Salgados                | Espaço Atelie Espetinhos                 |                          | (19) 99277-6685  |
-| Alimentos Salgados                | Feijoada da Elô                          | Só retira                | (19) 9475-8027   |
-| Alimentos Salgados                | https://festivalsabores                  | da terra.com.br          |                  |
-| Alimentos Salgados                | Karamelada                               |                          | (19) 99684-6289  |
-| Alimentos Salgados                | Leonice Salgados                         | Ifood                    |                  |
-| Alimentos Salgados                | Gerbelli                                 |                          |                  |
-| Alimentos Salgados                | Lia Cozinheira da Graziela               | Sob encomenda            | (19) 97599-1002  |
-| Alimentos Salgados                | Marcia doces e salgados                  |                          | (19) 99757-1744  |
-| Alimentos Salgados                | Pão de Queijo                            | Fábio Manfredini         | (19) 97313-3248  |
-| Alimentos Salgados                | Samnicoliconfeitaria                     |                          | (19) 98820-7346  |
-| Alimentos Salgados                | Torta Banoffe                            |                          | (19) 99791-1203  |
-| Alimentos Salgados                |  ttps://www.instagram.com                | /camoleis.indaiatuba/    |                  |
-| Alimentos Salgados                | Vila Coxinha (Ifood)                     |                          |                  |
-| Alimentos Salgados                | Vivenda em casa                          | Congelados               | (19) 99324-1182  |
-| Alimentos Salgados  tortas        | Genova                                   |                          | (19) 3875-1069   |
-| APAE Indaiatuba                   | Presidente conselho                      | Gentil Pacioni           |                  |
-| Aquecedor                         | Alan (anibal)                            |                          | (19) 99627-2763  |
-| Aquecedor                         | Energia Indaiá                           | Leandro                  | (31) 9136-0575   |
-| Aquecedor                         | Engenharia da Eletricidade               | Júlio Eletricista ITU    | (19) 97050-0222  |
-| Aquecedor                         | Ernandes                                 |                          | (19) 99325-4761  |
-| Aquecedor                         | Indasol                                  | Ricardo                  | (19) 96612-9017  |
-| Aquecedor                         | Piscina.com                              | Jeferson                 | (19) 98927-5756  |
-| Aquecedor                         | Shelby Painel Solar                      |                          | (19) 98124-1233  |
-| Aquecedor                         | Solemax Energia solar                    | Fernando Ma.Dulc         | (19) 99660-1477  |
-| Aquecedor                         | Tek House                                |                          |                  |
-| Aquecedor /Pressurizador          | Ribeiro                                  |                          | (19) 99611-4879  |
-| Aquecedor Boiler                  | Ademir                                   |                          | (19) 97423-8015  |
-| Aquecedor Foto Voltaico           | I9Solar Fotovoltaica                     | Flavio Abreu             | (19) 95438-1919  |
-| Aquecedor Piscina                 | Fabio Bruni                              |                          | (11) 97558-4007  |
-| Aquecedor Piscina                 | www.indagua.com.br                       |                          |                  |
-| Aquecedor solar                   |  Helioteck                               | Ricardo                  | (19) 99184-1308  |
-| Aquecedor solar                   |  Helioteck                               | Ana                      | (19) 96612-9017  |
-| Aquecedor solar                   | Júlio                                    | ITU                      |                  |
-| Aquecedor solar                   | Michel Tabarini                          | Eletrica                 | (19) 97150-1618  |
-| Aquecedor solar  boiler           | Instalação e venda                       | Aníbal                   | (19) 99128-6174  |
-| Ar Condicionado                   | Adriano                                  |                          | (19) 99496-3060  |
-| Ar condicionado                   | AEG                                      | Ademir                   | (19) 99771-0440  |
-| Ar condicionado                   | Felipe                                   |                          | (19) 99961-6541  |
-| Ar condicionado                   | Leonardo AC Solution                     | 9.7414.2306              | (19) 97417-0101  |
-| Ar Condicionado                   | Lima ex Ar Clean                         |                          | (19) 99862-9660  |
-| Ar Condicionado                   | Lima Juliana                             | Lima                     | (19) 99862-9960  |
-| Ar condicionado                   | Santana                                  |                          | (19) 97112-1450  |
-| Ar Condicionado                   | Ulisses Borges                           |                          | (19) 99646-4671  |
-| Ar condicionado                   | AC- Junior Solution                      |                          | (19) 97407-5491  |
-| Ar Condicionado                   | Adriano Henrique                         | Mega Air                 | (19) 99514-0494  |
-| Ar condicionado                   | Barbara Calixto                          | Adriano                  | (19) 2122-2010   |
-| Ar condicionado                   | Bola Elétrica Faz Tudo                   |                          | (19) 98197-7441  |
-| Ar condicionado                   | Edison Moreto                            |                          | (19) 98232-3481  |
-| Ar condicionado                   | Elso /Elzo                               |                          | (19) 99806-5271  |
-| Armazenamento  móveis             | Ibox self  storage                       |                          |                  |
-| Arte Instagram                    | Bianca Lucchesi                          |                          | (19) 99714-4609  |
-| Assentamento de Piso              | Cosmo                                    |                          | (19) 99890-1006  |
-| Assist. Tec.                      | 100%Conserto 3016.5506                   | Maq. Lavar LG            | (19) 98129-6616  |
-| Assist. Tec.                      | Denis                                    | 9.7149.3765              | (19) 99722-8765  |
-| Assist. Tec.                      | Dinho Maq. Lavar                         |                          | (19) 99652-0043  |
-| Assist. Téc.  Brastemp            | Serve Sim /Consul                        | Meire                    | (19) 3875-9151   |
-| Assist. Téc.  Brastemp            | Serviceria Campinas                      |                          | (19) 2513-3782   |
-| Assist. Téc. Aspirador            | Rainbow                                  | Liliane                  | (19) 94755-0139  |
-| Assist. Tec. Celular              | phoneexpressindaiatuba.com.br            | Autoriz.Campinas         |                  |
-| Assist. Tec. Celular Aplle        | www.iprime.com.br                        | Autoriz.Campinas         |                  |
-| Assist. Tec. LG                   | Fernando maq. Lavar                      |                          | (19) 99689-1354  |
-| Assist. Tec. Samsung AOC          | Nishi Eletronica  (Philips)              | 3875.3831                | (19) 99847-0872  |
-| Assist.Téc. eletrodom.            | 100% Conserto (geladeira)                | Maq. lavar Samsung       | (19) 98129-6616  |
-| Assist.Téc. eletrodom.            | Cidão Maq. Lavar                         |                          | (19) 99853-3866  |
-| Assist.Téc. eletrodom.            | Denis                                    |                          | (19) 99722-8765  |
-| Assist.Téc. eletrodom.            | Doutor máquinas                          |                          | (19) 99241-4567  |
-| Assist.Téc. eletrodom.            | Freezer                                  |                          | (19) 99339-9953  |
-| Assist.Téc. eletrodom.            | Pinguim R. 11 junho1422                  | Chuveiro                 | (19) 3875-1623   |
-| Áudio                             | Conecta Itororó,377                      | Fernando                 | (19) 92516-3605  |
-| Áudio                             | Gustavo wittchind MS                     |                          | (19) 98344-3309  |
-| Áudio instalação                  | Clebao machines                          |                          | (19) 99291-1371  |
-| Barbearia                         | Babershop                                | R. Humaitá, 786          |                  |
-| Barbearia                         | Bilin rua Tuiuti prox.da                 | Kennedy                  | (19) 99779-2410  |
-| Barbearia                         | Duda R.13demaio prox.                    | 24 de maio               | (19) 99157-1278  |
-| Barbearia                         | Faustino Barber                          | Cristian                 | (19) 99500-1992  |
-| Barbearia                         | Campanari                                |                          | (19) 99414-9658  |
-| Barbearia                         | Charles                                  |                          | (19) 99293-1993  |
-| Bebidas Chopp                     | Beer Clock                               | Av conceição ,695        |                  |
-| Bebidas Chopp                     | Itaici Cervejaria                        |                          |                  |
-| Bebidas Chopp                     | The bieerhouse                           |                          |                  |
-| Beleza                            | Cabelo Maravilhoso                       | Ton Teles                | (19) 98121-1661  |
-| Beleza                            | Florença Cabelos                         |                          | (19) 98974-1627  |
-| Beleza                            | Trends Salon                             | 9.9361.9430              | (19) 98127-1619  |
-| Beleza                            | Francine Duarte Estética                 | Francine                 | (19) 98231-4343  |
-| Beleza                            | Néia Gronzi                              |                          | (19) 99760-1290  |
-| Beleza / Podóloga                 | Nice                                     |                          | (19) 99703-5147  |
-| Beleza /Podóloga                  | Célia                                    |                          | (19) 99269-1215  |
-| Beleza Cílios                     | Elaine                                   |                          | (19) 99678-1250  |
-| Beleza Cílios                     | JM                                       |                          | (19) 98951-8234  |
-| Beleza Cílios                     | Wedna                                    |                          | (19) 98199-4242  |
-| Beleza limpeza de pele            | Salão Casa S                             |                          | (19) 99350-5552  |
-| Beleza Podóloga                   | Wanda                                    |                          | (19) 98128-5216  |
-| Beleza Unhas                      | Alaíde                                   | R Ademar Barros 1069     | (19) 97406-0863  |
-| Beleza Unhas                      | Milena                                   |                          | (19) 98172-9998  |
-| Beleza Unhas                      | Nick                                     |                          | (19) 99260-3793  |
-| Beleza Unhas                      | Orfila                                   |                          | (19) 98842-2210  |
-| Beleza Unhas                      | Salão Casa S. (Podóloga)                 | Fabi e Maira             |                  |
-| Beleza Unhas                      | Wanda Manicure                           |                          | (19) 98128-5216  |
-| Beleza/ Podóloga                  | Espaço Ser                               | Nadir                    | (19) 99734-1650  |
-| Beleza/Podóloga                   | Nathalia                                 |                          | (19) 98996-3229  |
-| Beleza/Podóloga                   | Reinvente-se                             |                          | (19) 99124-1937  |
-| Beleza/Podóloga                   | Rosana                                   | Rosana Santos            | (19) 98943-6892  |
-| Beleza/Podóloga                   | Thais                                    |                          | (19) 99289-3599  |
-| Bike locação                      | Bike hotel/BeBike                        | Ambos no Parque          |                  |
-| Bike locação                      | Parque do mirim                          |                          |                  |
-| Bloquete p/ calcada               | Caio Santa Rita                          |                          | (19) 99289-3442  |
-| Bloquete p/ calcada               | Combloco Claudio                         | 3894.7001                | (19) 99381-9123  |
-| Buffet                            | Crepe                                    |                          | (19) 99300-6755  |
-| Caixas de Papelão                 | Indaiá Caixas                            |                          |                  |
-| Caixas de Papelão                 | Rua 11 junho ,1318                       | Na frente do correio     |                  |
-| Calhas                            | Calhas Souza Romildo                     |                          | (19) 99774-3011  |
-| Calhas                            | Smart Calhas                             | Ronaldo                  | (19) 99804-4958  |
-| Calhas                            | Cidão                                    | 9 7422 1246              | (19) 97411-7768  |
-| Calhas                            | Cris                                     |                          | (19) 99887-2021  |
-| Calhas                            | Diogo Zanotelo                           |                          | (19) 99338-4323  |
-| Calhas                            | Fenix Renato                             | 3834.6224                | (19) 99834-8829  |
-| Calhas                            | Romildo                                  |                          | (19) 99285-9231  |
-| Calhas                            | Sidnei Moisés                            |                          | (19) 97411-7768  |
-| Calhas                            | Smart                                    |                          | (19) 99808-7893  |
-| Chinelos                          | Simone sp                                | Sob encomenda            | (11) 96252-3086  |
-| Churrasco home                    |                                          | Cicero Bull              | (19) 98117-7545  |
-| Churrasco home                    |                                          | Tiago                    | (19) 99757-7471  |
-| Churrasco home                    |                                          | Davi 9.9777.4787         | (19) 98281-7441  |
-| Churrasco home                    |                                          | Valdir                   | (19) 98161-4616  |
-| Churrasco home                    |                                          | Moacyr                   | (19) 98135-4844  |
-| Churrasco Rotisserie              | Local                                    | Tito Paiola              | (19) 99811-9589  |
-| Churrasco/ Buffet                 |                                          | Andrea                   | (19) 99165-6931  |
-| Consultor Financeiro              | Marcos Elci Pereira                      | Marcoselci61@gmail.com   | (19) 99628-7814  |
-| Contador                          | Harmonia                                 |                          | (19) 3685-5622   |
-| Contador                          | https://linklis.bio/                     | escritorioavenida        | (19) 3875-6333   |
-| Contador                          | Libra                                    | Rogerio                  | (19) 97403-1632  |
-| Contador                          | Marco Aurélio                            |                          | (19) 99222-8616  |
-| Contador                          | NGV                                      |                          | (19) 3825-9290   |
-| Contador                          | Salla Dércio                             | 3800.3199                | (19) 99936-7596  |
-| Corretor de Imóveis               | Renan                                    |                          | (19) 99377-2262  |
-| Corretora de Imóveis              | www.elainemonaco.com.br                  | Elaine                   | (19) 98355-0284  |
-| Cortinas                          | Maria Rita Cortinas                      |                          | (19) 98383-8478  |
-| Costureira                        | Cantinho da Costura                      | 3016.7583                | (19) 98202-6173  |
-| Costureira                        | Nalva                                    |                          | (19) 99569-8664  |
-| Costureira                        | Sonia                                    |                          | (19) 98226-9003  |
-| Costureira                        | Ateliê da Gle                            |                          | (19) 98349-7356  |
-| Costureira Instagram              | fernandasibenedetti                      |                          |                  |
-| Costureira Instagram              | Casaamarelanoivas                        |                          |                  |
-| CPFL                              | Energia                                  |                          | 0800-0102-570    |
-| Criador de Conteúdos Digitais     | Vívian Djenane – Subida e Marketing      | Vivian                   | (19) 98528-0172  |
-| Decoração                         | Susi Decorações                          | Susi                     | (19) 99600-7415  |
-| Decoração                         | Elaine Office Decor                      |                          | (19) 99816-3660  |
-| Dedetização                       | Cristian                                 |                          | (19) 97410-0212  |
-| Dedetização                       | Inset Clean                              |                          |                  |
-| Dedetização Produto               | Lamthrine 10PM Inseticida                | Cuidado no uso           |                  |
-| Dentista                          | Dra. Andreia Bergamo                     | Ronco e Apneia           | (19) 99151-7458  |
-| Dentista                          | Silvia                                   | Office premium           | (19) 99898-0512  |
-| Dentista                          | ACS Odontologia                          | R. 11 de junho 1789      | 1998389?         |
-| Dentista                          | Assipro                                  | Dra Adriana              | (19) 99158-8629  |
-| Dentista                          | Daniele Bonfante Frozoni                 |                          | (19) 99733-1433  |
-| Dentista                          | Dra Maria Carolina                       |                          | (19) 98114-3881  |
-| Dentista                          | Glion Odonto                             | Dra Maria Angélica       | (19) 98975-6770  |
-| Dentista                          | Maria Angélica                           |                          | (19) 3834-2900   |
-| Dentista                          | Odonto Forti                             |                          | (19) 99604-9074  |
-| Dentista                          | Oral Center  24 hs                       | Kennedy, 1620            | (19) 98225-4000  |
-| Dentista                          | Patrícia                                 |                          | (19) 99975-2167  |
-| Dentista                          | Patrícia Bannwart                        |                          | (19) 99155-8081  |
-| Dentista                          | Scalet Odontologia                       | Dra Patricia Scallet     | (19) 99837-2581  |
-| Dentista                          | VCLavijo                                 | Victor Clavino           | (19) 98218-2924  |
-| Dentista Odonto pediatra          | Dra. Ana Luiza                           |                          | (13) 99701-4062  |
-| Dentista Ortodontista             | Dr. Waldyr                               | Dr. Waldyr               | (19) 99719-7564  |
-| Desentupidora                     | Desentupimento SAAE                      | Hidrojatemaneto          | (19) 9684-0549   |
-| Desentupidora                     | Líder (Aparecido)                        | 3936.3073                | (19) 97407-4560  |
-| Design Sobrancelha                | Studio Pamela Moura                      | @studiopamelamoura       | (19) 98985-3472  |
-| Diarista                          | Gislaine                                 |                          | (19) 97168-9885  |
-| Diarista                          | Katia                                    |                          | (19) 98720-8820  |
-| Diarista                          | Leidi                                    |                          | (19) 99127-0034  |
-| Diarista                          | Leticia                                  |                          | (19) 99597-5167  |
-| Diarista                          | Lilian                                   |                          | (19) 99242-5726  |
-| Diarista                          | Lucilene                                 |                          | (19) 98139-5050  |
-| Diarista                          | Marli                                    |                          | (19) 99398-4647  |
-| Diarista                          | Néia                                     |                          | (19) 98702-1223  |
-| Diarista                          | Neusa Basílio                            |                          | (19) 99632-2904  |
-| Diarista                          | Alessandra                               |                          | (19) 97594-0196  |
-| Diarista                          | Ariene                                   |                          | (19) 99826-3500  |
-| Diarista                          | Beth                                     |                          | (19) 98745-0251  |
-| Diarista                          | Elivania veio do Ceará                   | Cuidadora idosos         | (85) 8106-1961   |
-| Diarista                          | Fabiana Katia                            |                          | (19) 98158-7053  |
-| Diarista                          | Flor                                     |                          | (19) 99395-2950  |
-| Diarista                          | Francisca                                |                          | (19) 99716-0608  |
-| Diarista                          | Perla                                    |                          | (19) 99326-8416  |
-| Diarista                          | Raquel                                   |                          | (19) 98223-1017  |
-| Diarista                          | Rosangela Filha                          | Traz filha 18 anos       | (19) 97897-3485  |
-| Diarista                          | Sueli                                    |                          | (19) 99395-9192  |
-| Diarista                          | Vanessa                                  |                          | (19) 98961-6668  |
-| Diarista - Cozinheira             | Lia                                      |                          | (19) 97599-1002  |
-| Diarista /mensalista              | Ciçara cozinheira faxinei                |                          | (19) 9815-7261   |
-| Diarista /mensalista              | Cida                                     |                          | (19) 98205-2105  |
-| Diarista/ mensalista              | Luzia                                    |                          | (19) 94514-8623  |
-| Diarista/empregada                | Perla                                    |                          | (19) 99326-8416  |
-| Doação                            | Bazar do Bem                             | Joice Simões             | (19) 98888-1507  |
-| Doação                            | casadaprovidencia.org.br                 |                          |                  |
-| Doação                            | APAE  Indaiatuba                         |                          | (19) 99200-3165  |
-| Doação                            | Roseli                                   |                          | (19) 98818-6434  |
-| Ecoponto Descarte                 | João Pioli                               |                          |                  |
-| Educação escola                   | LEPERINI                                 |                          | (19) 3825-2056   |
-| Educação escola Inf.              | Mapple Bear                              | Nathalia Puccia          | (19) 99134-2084  |
-| Educação escola Infantil          | Objetivo                                 |  integral e bilíngue     |                  |
-| Educação escola Infantil          | Progresso                                |                          |                  |
-| Educação escola Infantil          | Renovação                                |                          |                  |
-| Educação escola Infantil          | Rodin                                    |                          |                  |
-| Educação Inglês                   | Professora  Inglês                       | Gessana                  | (19) 99145-6230  |
-| Educação Inglês                   | Professora  Inglês                       | Ana                      | (19) 98287-0234  |
-| Educação Inglês                   | Professora  Inglês ?                     | Lu Traldi                | (19) 99603-2323  |
-| Educação Italiano                 | Professora  Italiano                     | Luigia Monti             | (19) 99722-0864  |
-| Educação musica                   | Projeto Guri                             | Oferece cursos grátis    | (19) 3825-2056   |
-| Elétrica                          | Omicro                                   |                          |                  |
-| Eletricista                       | Bira                                     | 9.9217.5816              | (19) 99217-5816  |
-| Eletricista                       | Davi                                     |                          | (19) 98878-0167  |
-| Eletricista                       | Edgar inclusive ar cond.                 | encanador                | (19) 99245-2367  |
-| Eletricista                       | Engpolo Sidione                          |                          | (19) 98275-0252  |
-| Eletricista                       | Fabio                                    |                          | (19) 98155-0926  |
-| Eletricista                       | Ivo (Ivair)                              |                          | (19) 99734-8273  |
-| Eletricista                       | Júlio Fechadura                          | ITU                      | (19) 97050-0222  |
-| Eletricista                       | Lucas                                    |                          | (19) 99400-7804  |
-| Eletricista                       | Renan                                    |                          | (19) 99326-2985  |
-| Eletricista                       | Ronaldo                                  |                          | (19) 99106-4917  |
-| Eletricista                       | Thales/Pedro                             |                          | (19) 99491-5020  |
-| Encanador                         | Hidracom                                 | R.Dos Indaias,1142       | (19) 3834-2308   |
-| Encanador                         | Hydroluz                                 | Reginaldo                | (19) 99336-5228  |
-| Encanador                         | Valdomiro                                |                          | (19) 99715-1464  |
-| Encanador                         | Wagner                                   |                          | (19) 98289-2852  |
-| Encanador caça vazam.             | Nelson                                   |                          | (19) 99336-5228  |
-| Encanador/Eletricista             | Ailton                                   |                          | (19) 97418-8185  |
-| Encanador/Eletricista             | Carlos                                   | 9.8970.8819              | (19) 99239-7490  |
-| Energia solar                     | (eletricista)                            | Michel Tabarini          | (19) 97150-1618  |
-| Energia solar                     | Eco Solari fotovoltaica                  | Ronaldo Pepi             | (19) 99837-0990  |
-| Energia solar                     | Energy Brasil Salto                      | Anderson Inácio          | (11) 93344-2554  |
-| Energia solar                     | I9                                       | Flavio Abreu             | (19) 95438-1919  |
-| Energia solar                     | Sole Max aquecedor                       | Fernando                 | (19) 99660-1477  |
-| Energia solar                     | Vettor fotovoltaica                      |                          | (19) 98358-0744  |
-| Energia Solar                     | Evolution Solar                          | Eduardo                  | (16) 99768-2703  |
-| Energia solar                     | Indasol                                  | Ricardo                  | (19) 99184-1308  |
-| Engenheiro obra                   | Eduardo Tonin                            | Aprovação 3875.6000      | (19) 99774-3011  |
-| Esporte natação                   | Gaivota                                  |                          |                  |
-| Esporte natação                   | Performance                              |                          |                  |
-| Faz tudo                          | Donda                                    |                          | (19) 98876-1339  |
-| Gás entrega                       | Conceição Gás                            | 3894.6444                |                  |
-| Gás entrega                       | Ultragaz                                 | 3834.7855                | (19) 99387-6523  |
-| Gás entrega                       | Ultragaz Elcio                           | 9.8180.7150              | (19) 98367-2811  |
-| Gás Instalação                    | MB Eletro                                | Marco                    | (19) 97405-4256  |
-| Gás instalação                    | Paulo Cezar Ferrar                       |                          | (19) 99111-2126  |
-| Gás instalação/vazam              | Bull Fogões                              | Reginaldo                | (19) 99161-5772  |
-| Gesseiro                          | Ucélio                                   |                          | (19) 97141-1046  |
-| Informática                       | Adiel                                    |                          | (19) 99249-9594  |
-| Informática                       | balaoindaiatuba.com.br                   | Balão Informática        | (19) 98281-6460  |
-| Informática                       | Infoexpert                               | Rodinei /Tania           | (19) 99116-4395  |
-| Informática                       | Jeferson Continental                     |                          | (19) 98114-1175  |
-| Informática                       | Ricardo Lucio Caramma                    | Infotech                 | (19) 99715-6920  |
-| Informática                       | Safety TI                                | Junior                   | (19) 99931-7334  |
-| Informática e Câmeras             | Uil Marcondes redes                      | Marcondes sistemas       | (19) 99902-0595  |
-| Informática Manutenção            | Conserto Notebook                        | Jeferson Continental     | (19) 98114-1175  |
-| Internet  provedor                | AR Telecom fibra ótica                   |                          | (19) 3656-1736   |
-| Internet  provedor radio          | American Net                             | André                    | (19) 99710-3010  |
-| Internet  técnico                 | William                                  |                          | (19) 97160-2845  |
-| Internet provedor                 | Claudete                                 | Vivo Fibra               | (19) 99660-3159  |
-| Internet provedor                 | Vivo Julia                               |                          |                  |
-| Internet técnico                  | Fernando Connecta                        | 2516.3605                | (19) 97406-6462  |
-| Internet Técnico                  | Junior Safetyi TI                        |                          | (19) 99931-7334  |
-| Internet Vivo                     | Thais                                    | Vivo 10315               | (19) 97423-3582  |
-| Internet Vivo  melhorar sinal     | Dicas baixar App                         |                          | 10315            |
-| Irrigação                         | Brunofilho/Jarbas pai                    | 3544.4781                | (19) 97407-8542  |
-| Jardinagem                        | J1Paisagismo                             | Jacson                   | (19) 97419-5470  |
-| Jardinagem                        | Marcos                                   |                          | (19) 98743-1126  |
-| Jardinagem                        | Pedro R. Tomaz                           |                          | (19) 99703-5393  |
-| Jardinagem                        | Silas Palmeiras                          |                          | (19) 97417-7644  |
-| Jardinagem                        | www.I9tekh.com.br                        | Jacson                   |                  |
-| Jardinagem /Paisagismo            | Leo Pé de Café                           |                          | (19) 99668-3278  |
-| Jardinagem Plantas                | Orquidário das Pedras                    | Ana Perto dSwift         | (19) 98821-9074  |
-| Jardinagem Poda                   | Luiz Henrique                            |                          | (19) 99552-1215  |
-| Jardineiro                        | //instagram.com/nino.paisagismo          | ?utm._medium=copy_link   | (19) 99615-4997  |
-| Jardineiro                        | Celso                                    |                          | (19) 99798-0120  |
-| Jardineiro                        | Felipe                                   |                          | (19) 97111-7860  |
-| Jardineiro                        | Gelson                                   |                          | (19) 99615-4997  |
-| Jardineiro                        | Genilson                                 |                          |                  |
-| Jardineiro                        | Jailson                                  |                          | (19) 99175-2220  |
-| Jardineiro                        | Jose Bento                               | Mata formigas etc        | (19) 99271-8298  |
-| Jardineiro                        | Marcos                                   |                          | (19) 98743-1126  |
-| Jardineiro                        | Mizael                                   |                          | (19) 98604-9303  |
-| Lava Rapido - Estetica Automotiva | Auto Giro                                |                          | (19) 99739-3917  |
-| Lavanderia                        |                                          |                          | (19) 98449-7169  |
-| Lavanderia                        |                                          |                          | (19) 98449-7169  |
-| Lavanderia                        | 5 a sec                                  | Rosa                     | (19) 99462-9561  |
-| Lavanderia                        | Adelaide                                 |                          | (19) 99763-2829  |
-| Lavanderia                        | Dryclean                                 |                          | (19) 3834-6111   |
-| Lavanderia cortinas               | Adelaide                                 |                          | (19) 99763-2829  |
-| Lavanderia cortinas               | Fernanda Decor                           |                          | (19) 99340-3214  |
-| Lavanderia sofás/tapete           | Lavanderia Indaiá                        |                          | (19) 98449-7169  |
-| Limpeza                           |                                          |                          | (19) 98747-2476  |
-| Limpeza                           | Rodrigo                                  |                          | (19) 97412-0380  |
-| Limpeza  tapete/sofá)             | Douglas                                  |                          | (19) 98721-1032  |
-| Limpeza Dedetização               | DDMAX                                    |                          | (19) 99606-5314  |
-| Limpeza Diarista pós obra         | Vania                                    | 9.9172.5607              | (19) 98907-7349  |
-| Limpeza estofados                 | Silvia  Impermeabiliza                   |                          | (19) 99341-9181  |
-| Limpeza Fulget                    | Silvio                                   |                          | (19) 95424-5970  |
-| Limpeza pós obra                  | Irmãos                                   | 9.9663.1652              | (19) 99827-3484  |
-| Limpeza pós obra                  | Lucimar Limpa Fulget etc                 | 9.7102.5395              | (19) 99348-6654  |
-| Limpeza pós obra                  | NGa Carina                               | 9.9448.8558              | (19) 99190-0039  |
-| Limpeza Produtos                  | João Pai do Anderson                     | 3834.7896                | (19) 99477-5223  |
-| Limpeza sofás                     | Alemão                                   |                          | (19) 98943-7286  |
-| Limpeza sofás                     | Sofá Limpo                               |                          | (19) 97111-8400  |
-| Limpeza sofás colchão             | Jesus                                    |                          | (19) 99920-4015  |
-| Limpeza Sofás Cortinas            | All Clean Sofás                          | Edson                    | (19) 99655-3603  |
-| Limpeza tapete/sofá)              | Antônio Piconi                           |                          | (19) 99732-1249  |
-| Limpeza tapete/sofá)              | Poli Limpeza Estofados                   |                          | (19) 99341-9181  |
-| Limpeza Tapetes                   | João Natany                              | Silvia                   | (19) 98350-3965  |
-| Limpeza Tapetes                   | Poli Higienização                        | Silvia                   | (19) 99341-9181  |
-| Limpeza Tapetes sofás             | Rosana                                   | 3936.2969                | (19) 99991-5017  |
-| Limpeza Vidros                    | Dona Resolve                             |                          | (19) 97407-0228  |
-| Limpeza Vidros                    | Esterelimp                               | Cristian                 | (19) 98719-3408  |
-| Limpeza Vidros                    | Ecolimp pós obra                         | Ricardo                  | (19) 98900-3973  |
-| Limpeza Vidros                    | Lex/Adriana                              | 9.9638.9940              | (19) 99934-9940  |
-| Limpeza Vidros                    | Qbom Limpezas                            | Adriana  e Alex          | (19) 99934-9940  |
-| Locação Salas                     | Espaço Viana                             | Memeh coworking          | (19) 99155-8624  |
-| Lumino-tecnico projeto            | Allan Toledo                             |                          | (19) 99526-0077  |
-| Lumino-tecnico projeto            | Cris                                     | 17 3343.3597             | (17) 99627-2010  |
-| Lumino-tecnico projeto            | Luzion Rosany                            | 9.8396.1600              | (19) 98844-0159  |
-| Madeireira Portas                 | Fenix (phenix)                           |                          |                  |
-| Madeireira Portas                 | Madelaska                                | Junior                   | (19) 99293-6994  |
-| Maquiagem                         | Teka Make Loja de maquiagem e cosméticos | Teka Make                | (19) 93816-5881  |
-| Marcenaria                        | Casa do marceneiro Al.Com                | Dr.Santoto Mirone,830    | (19) 99341-3737  |
-| Marcenaria                        | Cia da Madeira                           |                          | (19) 99341-3737  |
-| Marcenaria                        | Sátiro                                   |                          |                  |
-| Marcenaria assoalhos              | Fabio Rodrigues                          |                          | (19) 99292-4435  |
-| Marceneiro                        | Edson Fabiano Piemon                     |                          | (19) 95398-5696  |
-| Marceneiro                        | Alan Paciente                            |                          | (19) 99266-1213  |
-| Marceneiro                        | Fábio Assoalhos                          |                          | (19) 99292-4435  |
-| Marceneiro                        | Ricardo                                  |                          | (19) 93310-0310  |
-| Marceneiro                        | Valdir                                   | 9.9860.8978              | (19) 99860-8978  |
-| Marceneiro                        | Xavier Marcenaria                        |                          | (19) 99714-4717  |
-| Marmoraria                        | André                                    |                          | (19) 97402-9533  |
-| Marmoraria                        | Gustavo Brigu                            |                          | (19) 99194-3844  |
-| Marmoraria                        | Indaiart                                 | André                    | (19) 97402-9533  |
-| Marmoraria                        | Irmãos Antunes                           |                          | (19) 98160-0232  |
-| Marmoraria                        | Rafael Mármore                           |                          | (19) 98181-0515  |
-| Marmoraria                        | Toque de Classe                          | Nubia/luiz               | (19) 99544-5960  |
-| Marmoraria                        | 2 Irmãos                                 |                          |                  |
-| Marmoraria                        | Faby                                     |                          | (19) 99122-4187  |
-| Marmoraria                        | Geraldini                                | André                    | (19) 97402-9553  |
-| Marmoraria                        | Vitoria                                  | Fernanda 3935.6150       | (19) 99838-3259  |
-| Massagista                        | Dalva Macioti                            | Dalva                    | (19) 99795-9974  |
-| Massagista                        | Roberto                                  | 9.9902.7490              | (19) 99714-2750  |
-| Médico                            | Dr. Natalie Cavalcante                   |                          |                  |
-| Médico  Clinico Geral             | Dra Thais Wilmers                        |                          | (19) 99830-4366  |
-| Médico Acupuntura                 |                                          |                          | (19) 99662-3390  |
-| Médico Acupuntura                 |                                          | Joyce                    | (19) 99768-4981  |
-| Médico Acupuntura                 | Fabi                                     |                          | (19) 99293-9704  |
-| Médico Acupuntura                 | Isis                                     |                          | (19) 99955-6214  |
-| Médico Acupuntura                 | Leve Saúde e Bem Est                     | Erika                    |                  |
-| Medico Cardiologista              | Clinia Pro Cardio                        |                          |                  |
-| Medico Cardiologista              | Clinica Batistuci                        | Dra Batistuci            | (19) 3801-3812   |
-| Médico Cardiologista              | CardioCenter                             | Dr. Paulo Vinicius       | (19) 97600-0051  |
-| Médico Cir. Plástico              | Carlos Scarfon                           | Campinas                 | (11) 98825-1515  |
-| Médico Dermatologista             | Alittá Clinique                          | Dra Thais Bradesco       | (19) 3318-0313   |
-| Médico Dermatologista             | Clinica Vitessi                          | Dra Carolina             | (19) 3834-9300   |
-| Médico Dermatologista             | Dr. Elemir                               | Campinas?                | (19) 3262-0656   |
-| Médico Dermatologista             | Dr. Emir Rogerio Oliveira                | 3875.9935                | (19) 98968-5100  |
-| Médico Dermatologista             | Dr. Reinaldo                             | R.Pedro Gonçalves 429    | (19) 3834-5046   |
-| Médico Dermatologista             | Dr. Reinaldo Cekannauskas                |                          |                  |
-| Médico Dermatologista             | Dra Juricema Perrony                     | 3329.27                  | (19) 97419-1739  |
-| Médico Dermatologista             | Dra.  Fernanda Furlanetti                | 9.9171.7782              | (19) 98976-3577  |
-| Médico Endócrino                  | Lygia Delboni Marches                    |                          | (19) 3392-7524   |
-| Médico Fisioterapia               | Ana Paula Haidamus                       |                          | (19) 99662-4761  |
-| Médico Fisioterapia               | Ana Salomão                              | 9.9910.8010              | (19) 9948-2072   |
-| Médico Fisioterapia               | Fatima Gianco                            | Quiropraxia              | (19) 99100-9553  |
-| Médico Fisioterapia               | FisioPop                                 | Elenice                  | (19) 99856-4748  |
-| Médico Fisioterapia               | Malu                                     | Vila Suíça               | (19) 99128-1211  |
-| Médico Fisioterapia               | Maria Fernanda                           | Fisio Osteopata          | (19) 98221-5665  |
-| Médico Fisioterapia               | Rafaela Terapeuta colun                  |                          | (35) 8411-6374   |
-| Médico Fisioterapia               | Raquel Pilates                           |                          | (19) 99109-4585  |
-| Médico Fisioterapia               | Rosa                                     | Quiropraxia              | (19) 99203-9371  |
-| Médico Fisioterapia               | Stifter  atende sul américa              | 38752523                 | (19) 99280-9594  |
-| Médico Ginecologista              | Centro Otorrino/Ofalmo                   | Dra Andrea Moura         | (19) 97153-7709  |
-| Médico Ginecologista              | Dr. Alexandre Rossani                    | Torre medical            |                  |
-| Médico Ginecologista              | Dr. Cassio Campinas                      | Vera Cruz /Maternidade   | (19) 97412-3316  |
-| Médico Ginecologista              | Dra monica Martins                       |                          |                  |
-| Medico Massag. SPA                | buddhaspa.com.br                         | Cerqueira César 300      | (19) 99806-3040  |
-| Médico Massagem                   | Bete Massagem                            | Elizabeth                | (19) 98195-0110  |
-| Médico Massagem                   | Beth                                     |                          |                  |
-| Medico Massoterapeuta             | Leve Saúde                               | Rua Xingu  138           |                  |
-| Médico Nefrologia                 | Marcelo Pinelli                          | Av. Fabio Ferraz Bi      | (19) 3318-2928   |
-| Médico Neuro                      | Clinica Candelária                       | Daniel                   |                  |
-| Médico Neuro                      | Gilmar G Telas                           |                          | (19) 99449-1033  |
-| Médico Neuro                      | Andreia C. Pires                         |                          | (19) 98199-9121  |
-| Médico Neuro Pediatra             | Maria Luiza Ardinghi                     | campinas                 | (19) 9914-3786   |
-| Médico Nutróloga                  | Campinas 9.8184.6655                     | Dra.  Flávia Manbrini    | (19) 98404-0203  |
-| Médico Nutrólogo                  | Medicina integrativa                     | Lincoln Hashimoto        | (19) 99976-4748  |
-| Medico Oftalmol.                  | Osmar Morador                            |                          | (19) 99910-8010  |
-| Médico Oftalmol.                  | Dr. Laercio Mitsuaki                     |                          | (19) 3834-3948   |
-| Medico Ortopedista                | Cirurgião Cliniti.com.br                 | Raphael Netto            | (11) 99760-6135  |
-| Médico Ortopedista                | axcar.com.br                             |                          |                  |
-| Médico Ortopedista                | Domingues Ordem Pro                      |                          | (19) 99697-3088  |
-| Médico Ortopedista                | Ortolife Rafael Barnal                   |                          | (19) 9972-3038   |
-| Médico Ortopedista                | Ricardo Lara Campos                      |                          | (19) 3894-5568   |
-| Medico ortopedista                | Cliniti                                  | Raphael neto             |                  |
-| Médico osteopata                  | Daniel Paduan                            |                          | (19) 99888-1817  |
-| Médico osteopata                  | Dra Erica Acupuntura                     |                          | (19) 97120-4011  |
-| Médico Otorrino                   | Dr Gui (Wilson)                          |                          | (19) 99795-4002  |
-| Médico Otorrino                   | Dr. Américo 3017.0640                    | R.Tuiuti, 752 C.Nova     | (19) 99826-3500  |
-| Médico Otorrino                   | Dr. Edilson Zancanella                   | Núcleo Persono           | (19) 99620-5599  |
-| Médico Otorrino                   | Pró Medica Dra. Ilana                    | 9.9406.2626              | (19) 97415-1890  |
-| Medico Pilates                    | Débora                                   |                          | (19) 98162-3568  |
-| Medico Pilates                    | Débora                                   |                          | (19) 98162-3568  |
-| Medico Pilates                    | Débora                                   |                          | (19) 98162-3568  |
-| Medico Pilates                    | Espaço zen                               | Juliana                  | (19) 99678-5936  |
-| Medico Pilates                    | Pro Evolution                            |                          |                  |
-| Médico Pilates                    | Ama Pilates                              |                          | (19) 99470-9848  |
-| Médico Pilates                    | Ana Salomão                              |                          | (19) 99948-2072  |
-| Médico Pilates                    | Endy Pilates                             |                          | (19) 99482-7197  |
-| Médico Pilates                    | Priscila Pazelli                         | Pri                      | (19) 97541-3838  |
-| Médico Pilates                    | Débora                                   | Débora                   | (91) 8162-3568   |
-| Médico Pilates                    | Pilates Zen                              | Juliana                  | (19) 99678-5936  |
-| Médico Pilates                    | Raquel Fisio e Pilates                   | Raquel                   | (19) 99109-4585  |
-| Médico Pneumologista              | Cliniti Luciane Pneumk                   | Dra Luciane              | (19) 99835-6686  |
-| Médico Pneumologista              | Conmed Laura Deltregia                   | Dr.Deltregia /Filha      | (19) 98364-0084  |
-| Médico Pneumologista              | DR Aurélio                               | Campinas                 | (19) 99106-4882  |
-| Médico Pneumologista              | Julia Duek                               | Comed clinica            |                  |
-| Médico Pneumologista              | Paulo Deltregia                          | Comed clinica            |                  |
-| Medico Proctologista              | Marido Dra. Andrea Moura                 |                          |                  |
-| Médico Pronto Socorro             | Vera Cruz                                |                          |                  |
-| Médico Quiropraxia                | Cavalieri Acupuntura                     | Hipnoterapia             | (19) 3835-5064   |
-| Médico Reumatol. Coluna           | Dr. Jose Rob. Provenza                   | Cerqueira Cezar,315      | (19) 3894-5766   |
-| Médico Urologista                 |                                          | Gustavo Bordenali        | (19) 3875-2655   |
-| Médico Urologista                 | Carlos Sierra                            | Campinas                 |                  |
-| Médico Urologista                 | DR. Khaled Ahmed                         | 3328.3776                | (19) 99250-0468  |
-| Médico Urologista                 | Thiago Rodrigues                         | Em frente Frans Café     |                  |
-| Móveis                            | Renova  Mad. Lei                         |                          |                  |
-| Móveis Montador                   | João                                     |                          | (19) 98256-3026  |
-| Móveis Montador                   | Leôncio                                  |                          | (19) 98283-9525  |
-| Moveis Planejados                 | Alan Paciente                            |  Ex func. Oliver         | (19) 99266-1213  |
-| Moveis Planejados                 | Antônio                                  |                          | (19) 99808-3391  |
-| Moveis Planejados                 | Natacha Ochsendorf                       |                          | (19) 99123-3667  |
-| Moveis Planejados                 | Thiago Marceneiro                        |                          | (14) 99827-0731  |
-| Móveis Planejados                 | Lumina                                   | Zuleika                  | (19) 99429-3511  |
-| Móveis Reforma                    | Época Reforma                            |                          | (19) 99168-3732  |
-| Móveis Reforma                    | Lilian (Cadeiras Mesas)                  |                          | (19) 99280-4875  |
-| Móveis Reforma                    | Roca                                     |                          |                  |
-| Moveis Reforma/ Montag.           | SOS Home Eduardo                         | https://adobe.ly/3m8cztk | (19) 97411-1755  |
-| Móveis?                           |                                          | Elaine Mônaco            |                  |
-| Musica cantor                     | Dinhinho                                 |                          | (19) 99363-2154  |
-| Musica cantor                     | Luik e Rafael                            | Nathan 9.8368.7513       | (19) 99284-4643  |
-| Musica cantor                     | Michel Samba                             |                          | (19) 99158-5951  |
-| Nutricionista                     | Alessandra Cavalari                      |                          | (19) 99359-1109  |
-| Nutricionista                     | Amália Novais                            |                          | (19) 97497-7707  |
-| Nutricionista                     | Carla Rebouças                           |                          | (19) 98439-7142  |
-| Nutricionista                     | Nutriqualy                               | Tatiana                  | (19) 99283-5476  |
-| Nutricionista ?                   | Cris                                     |                          | (19) 96997-0007  |
-| Obra                              | Homero Victor Scaletti                   | 3875.9299                | (19) 99166-3519  |
-| Obra Arquiteta                    |                                          | Fernanda Delgado         | (19) 97405-3481  |
-| Obra Calculista Engenheiro        | Omicro                                   | Fran                     | (19) 98148-6077  |
-| Obra Construtor                   | Empreiteira Garcia                       | Alexandre Garcia         | (19) 97407-4239  |
-| Obra construtora                  | Encelho                                  |                          |                  |
-| Obra construtora                  | Scanton                                  |                          |                  |
-| Obra Fundação/Sondagem            | HVS                                      | Marcela                  | (19) 99104-2739  |
-| Obra Gesso                        | Gilmar                                   | Erik Batista             | (19) 97402-0748  |
-| Obra Gesso                        | Reginaldo                                |                          | (19) 98255-2602  |
-| Obra Gesso                        | Gabriel                                  |                          | (19) 99631-4001  |
-| Obra Gesso                        | Ney                                      |                          | (19) 99741-1173  |
-| Obra Gesso                        | Zé Gesso                                 | 9.8454.7038              | (19) 99833-2569  |
-| Obra Hidráulica  Projetos         | Empreiteira Garcia                       | Ricardo Soares           | (199) 74150-0019 |
-| Obra Impermeabilização            | Casa da Vedação                          | Anderson                 | (19) 97412-2132  |
-| Obra Medição/Eletr.               | Michel Tabarini                          |  Demarcação              | (19) 97150-1816  |
-| Obra Portas  instalador           | Livil up                                 | 11 9 9610 2178           | (11) 99620-2178  |
-| Obra Projetos                     |                                          | Wilson Engel             | (19) 99112-9199  |
-| Obra Topografia                   | Cleber (São José0                        | 9.9779.3629              | (19) 99204-6188  |
-| Obra Topografia                   | Luis Carlos                              |                          | (19) 99219-7786  |
-| Organização                       | roseliyamauti.com.br                     | Personal Organizer       | (19) 98339-7673  |
-| Papel de Parede                   | Da Vinci                                 |                          |                  |
-| Papel Parede                      | Super Jardim                             | Candelária 1863          | (19) 99148-3322  |
-| Passadeira                        | Silvinha                                 |                          | (19) 98163-8136  |
-| Passadeira                        | Thais                                    |                          | (19) 99392-7869  |
-| Passadeira de Roupas              | Celia                                    |                          | (19) 97156-5019  |
-| Passadeira de Roupas              | Marli                                    | Cobra 25,00 a hora       | (19) 98902-2801  |
-| Passadeira de Roupas              | Silvia                                   |                          | (19) 98163-8136  |
-| Passadeira de Roupas              | Val Passa Express                        |                          | (19) 98144-4774  |
-| Pedreiro   Piso                   | Milton colocador                         |                          | (19) 99891-4675  |
-| Pedreiro   Piso                   | Elismar                                  |                          | (19) 99236-6598  |
-| Pedreiro - Reboco                 | José                                     |                          | (19) 99477-7732  |
-| Pet                               | Lea PET                                  |                          | (19) 99105-6865  |
-| Pet                               | Lila Pet Car                             |                          | (19) 98367-1900  |
-| Pet                               | Madame  PET                              |                          | (19) 98936-1257  |
-| Pet                               | Shanadu                                  |                          | (19) 99108-6332  |
-| Pet                               | Studio Dog Pet Shop                      |                          | (19) 99712-2002  |
-| Pet                               | Transfirma Cão PET                       |                          | (19) 99929-2910  |
-| Pet                               | Agro Pet’s Indaiá                        |                          | (19) 99840-6883  |
-| Pet  Veterinária                  | Ana Helena                               |                          | (19) 99676-2999  |
-| Pet adestrador                    | Marcelo                                  |                          | (19) 99790-5510  |
-| Pet cuidadora                     | Karine                                   |                          | (19) 98439-0211  |
-| Pet Móvel                         | Vet Van Re Luppi                         |                          | (19) 99691-8282  |
-| Pet Móvel                         | Josi Pet Móvel                           |                          | (19) 98938-4836  |
-| Pet Móvel                         | Lila Pet Care                            | Claudio                  | (19) 98367-1900  |
-| Pet passeio                       | Audrey                                   | 9. 8950.0999             | (19) 98176-6205  |
-| Pintor                            | Gilmar                                   |                          | (19) 98172-2046  |
-| Pintor                            | Guilherme                                |                          | (19) 99618-5603  |
-| Pintor                            | João Pedro                               |                          | (19) 99610-7225  |
-| Pintor                            | Paulinho                                 |                          | (19) 98917-2336  |
-| Pintor                            | Rogerio                                  |                          | (19) 99451-2231  |
-| Pintor                            | Rubens                                   |                          | (19) 99704-9888  |
-| Pintor                            | Valdir                                   |                          | (19) 99666-4419  |
-| Pintor                            | Adalton                                  | Adalton                  | (19) 97107-5809  |
-| Pintor Mão de obra                | Indaia Tintas                            | Laura                    | (19) 99948-0660  |
-| Pintor?                           | Viviane                                  |                          | (19) 99854-0797  |
-| Piscina manutenção                | Adelson                                  |                          | (19) 99995-8939  |
-| Piscina manutenção                | Alan (Aníbal aquecedores)                |                          | (19) 99627-2763  |
-| Piscina manutenção                | Alan bombas                              |                          | (19) 97410-5665  |
-| Piscina manutenção                | José Sales                               |                          | (19) 99195-5454  |
-| Piscina manutenção                | Piscina.com                              |                          |                  |
-| Piscina manutenção                | Tudo piscinas                            |                          | (19) 98959-3632  |
-| Piscina Manutenção                | Allan Zanini                             | motor /aquecedor         | (19) 97410-5665  |
-| Piscina Produtos                  | Itaici                                   | Rogério                  | (19) 99842-2238  |
-| Piscineiro                        | Adelson                                  |                          | (19) 99995-8939  |
-| Piscineiro                        | Cicero                                   |                          | (19) 97149-4174  |
-| Piscineiro                        | Elias                                    |                          | (19) 99196-6446  |
-| Piscineiro                        | Jean Marcel                              |                          | (19) 98762-8001  |
-| Piscineiro                        | Marcos Souza                             |                          | (19) 98821-9734  |
-| Piscineiro                        | Ney                                      | 9.4772.6758?             | (19) 9894-6701   |
-| Piscineiro                        | Rodrigo Bersan                           |                          | (19) 99746-7644  |
-| Piscineiro                        | Tuca                                     | 9.9655.2174              | (19) 99777-8047  |
-| Piscineiro                        | Rafael                                   |                          | (19) 99174-4783  |
-| Piscineiro                        | Robson                                   |                          |                  |
-| Piscineiro/ jardim                | João carlos                              |                          | (19) 98166-0520  |
-| Piso Fulget                       | Uni piso Luiz Fulget                     |                          | (19) 9702-3774   |
-| Piso laminado/vinilico            | IndaiaFlor                               |                          |                  |
-| Piso Piscina                      | revesto.com.br                           | Antiderrap/térmico       |                  |
-| Piso Piscina                      | Pedra caxambu Indicada                   |                          |                  |
-| Plotagem /Copias                  | Casa das Copias                          |                          | (19) 98277-4145  |
-| Plotagem /Copias                  | Ploter e Cia                             |                          | (19) 99977-1816  |
-| Podóloga                          |                                          | Nadir Alencar            | (19) 99734-1650  |
-| Portaria Duas Marias              |                                          | 9.9989.4379              | (19) 98346-0215  |
-| Portas                            | Exclusiva Portas                         | Aline                    | (19) 99774-6463  |
-| Portas                            | Pormade Hassam                           |                          | (19) 99131-4092  |
-| Propaganda ?                      | ETC I10                                  | Cassio Tavares           | (19) 98232-6561  |
-| Publicidade Marketing             |                                          |                          | (19) 98851-1903  |
-| Quadros instalador                | Fernandinho                              |                          | (19) 99846-4803  |
-| Reparação Automotiva - Chavão     | Julinho                                  | Funilaria e pintura      | (19) 3885-1163   |
-| Roupas a Domicílio                | Analu                                    | Anas e Marias            | (19) 98456-0724  |
-| Roupas e Acessórios               | Vanessa Machado                          | @vanessamachadogarcia    | (19) 99232-0643  |
-| SAAE Indaiatuba  agua             |                                          |                          | (19) 99615-8035  |
-| Saúde  Farmácia Delivery          | Farma Vida                               | Renata Pitarelo          | (19) 3935-2337   |
-| Saúde Clinica de Idosos           | Benveni_residencial_                     | Priscyla Novaes          | (19) 99890-1698  |
-| Saúde Cuidadora                   |                                          | Luciana                  | (67) 9672-3326   |
-| Saúde Cuidadora                   | @renata cacarrascoza                     |                          | (19) 98199-9121  |
-| Saúde Cuidadora                   | Nenzinho novo                            |                          | (19) 99544-7306  |
-| Saúde Exames Laborat.             | MF diagnósticos                          |                          |                  |
-| Saúde Exames Laborator.           | Confiance                                | Watts 3727.3393          | (19) 3727-3393   |
-| Saúde Exames Laborator.           | Controlab                                |                          |                  |
-| Saúde exames Laboratór.           | Dra. Edna Jaguaribe                      |                          | (19) 99588-1539  |
-| Saúde Farmácia Delivery           | Drogal                                   |                          | 0800-3470000     |
-| Saúde Farmácia Delivery           | Ifood                                    |                          |                  |
-| Saúde Personal training           | Luciane                                  |                          | (19) 99655-2615  |
-| Saúde Personal training           | Priscila Pazelli                         | Formada ed. Física       | (19) 97541-3838  |
-| Saúde Personal training           | Robson                                   |                          | (19) 99251-0497  |
-| Saúde Plano                       | https://tinyurl.com/3zmu223r             | Irmã da Criss            |                  |
-| Saúde Vacinas                     | Ymuno Master                             |                          | (19) 99150-5521  |
-| Saúde Vacinas                     | Imuno Vacin                              |                          | (19) 99491-5696  |
-| Segurança                         | Astha                                    | Brito                    | (19) 99613-2209  |
-| Segurança                         | Atlas Monitoramento                      | Carlos                   | (19) 98856-3936  |
-| Segurança                         |                                          |                          |                  |
-| Segurança                         | Gibin                                    | Júlio                    | (19) 98177-0240  |
-| Segurança                         | Unit                                     | 9.9205.2901              | (19) 99983-9019  |
-| Segurança                         | Unit Segurança                           | Leôncio Costa            | (19) 97403-8523  |
-| Seguro                            | SJD Corretora                            | Jackson                  | (11) 99472-1855  |
-| Seguro                            | Renan Bergamo                            |                          | (19) 99377-2262  |
-| Seguros                           | Paulo Teixeira                           |                          | (19) 99757-0737  |
-| Seguros                           | Pigato                                   |                          | (19) 99710-0641  |
-| Seguros                           | Up4corporate                             | Eduardo Ferrari          | (19) 3835-0814   |
-| Seguros                           | BDA                                      |                          | (19) 97092-5870  |
-| Seguros                           | BlindSeg                                 | Valdecir                 | (19) 99720-3049  |
-| Seguros                           | Giom Corretora                           | www.giomseguro           | (19) 99109-6470  |
-| Seguros                           | Glotler                                  | Drielle                  | (19) 97100-0078  |
-| Seguros                           | Ideale                                   |                          | (19) 99287-9019  |
-| Seguros                           | Rubens SOS                               |                          | (19) 98906-0201  |
-| Seguros                           | Porto Seguro                             | Tania                    | (19) 99653-2656  |
-| Semijoias                         | Joie joias e semijoias                   | Shirley Reis             | (19) 99825-6706  |
-| Serralheiro                       | Jandeir                                  |                          | (19) 98986-4454  |
-| Serralheiro                       | Silvio                                   |                          | (19) 99108-2740  |
-| Serralheiro/ Conserto.            | GP Porta/Janela Autom                    | Fernando                 | (19) 97415-0061  |
-| Serralheiro/ Conserto.            | Sandro Zanuleto                          | Porta Autom              | (19) 97412-3102  |
-| Serralheiro/Conserto              | Ailton assist. Pvc/Alum                  | Porta Autom.             | (19) 97826-9342  |
-| Serralheria                       | Iverson Salto                            |                          | (19) 97312-5548  |
-| Serralheria                       | RC Serralheria                           |                          |                  |
-| Serralheria                       | alufran.aluminios@                       | yahoo.com.br             |                  |
-| Serralheria                       | Betamelo                                 |                          | (19) 99764-9227  |
-| Serralheria                       | Robinho                                  |                          | (19) 99616-5303  |
-| Serralheria /Esquadrias           | Diego                                    | Persianas elétrica       | (19) 98238-6822  |
-| Serralheria /Esquadrias           | Gilson                                   | Guarda Corpo             | (19) 99661-7506  |
-| Serralheria /Esquadrias           | Inovaty Esq. Alumínio                    | Paulo Cesar              | (19) 99786-1827  |
-| Serralheria /Esquadrias           | Jandeir                                  |                          | (19) 98986-4454  |
-| Serralheria /Esquadrias           | Prisma Esq.                              | Vagner                   | (19) 99769-8086  |
-| Serralheria/Esquadrias            | Alexandre Garcia                         | Telhado                  | (19) 97407-4239  |
-| Serralheria/Esquadrias            | Da Vinci Decorações                      | Reparo controle          | (19) 2516-3030   |
-| Serralheria/Esquadrias            | Fernando Alumipro                        | Campinas                 | (19) 97404-3834  |
-| Serralheria/Esquadrias            | Genildo                                  |                          | (19) 99269-1503  |
-| Serralheria/Esquadrias            | Oscar Allinn                             |                          | (19) 99844-0630  |
-| Serralheria/Esquadrias            | Ph                                       | Rosi                     | (19) 98243-0002  |
-| Serralheria/Esquadrias            | Quality                                  |                          | (19) 99325-1330  |
-| Serralheria/Esquadrias            | Rhema Alumin clidemar                    | Reparo Controle          | (199) 74082-0036 |
-| Serralheria/Esquadrias            | Sandro Zanutello                         | Reparo controle          | (19) 97412-3102  |
-| Serralheria/Vidros                | Juliano Vidros                           |                          | (19) 99795-7888  |
-| Serviços faz tudo reforma         | Geninho                                  |                          | (19) 99613-5618  |
-| Sindica Duas Marias               | Andreia                                  |                          | (19) 99909-8550  |
-| Tapeçaria                         | Angel                                    |                          |                  |
-| Tapeçaria                         | Domingos                                 |                          | (19) 98781-4978  |
-| Tapeçaria                         | Domingos                                 |                          | (19) 98781-4978  |
-| Tapeçaria                         | Israel                                   |                          | (19) 99410-6988  |
-| Tapeçaria                         | Líder Léia Oliveira                      | 9.8931.6000              | (19) 98919-7770  |
-| Tapeçaria                         | Sueli                                    |                          | (19) 98135-0240  |
-| Tapeçaria                         | Irmael                                   |                          | (19) 99410-6988  |
-| Tapeçaria Estofados               | Salvador King Estofado                   |                          | (19) 99636-4020  |
-| Tapeçaria Kennedy                 | Isael                                    |                          | (19) 3885-0768   |
-| Tapetes                           | Rosana                                   |                          | (19) 98986-3484  |
-| Telas de Proteção                 | Redes Paraiso                            | Claudionor               | (19) 3834-8079   |
-| Toldos                            | Esplanada                                | Edson                    | (19) 99763-0860  |
-| Toldos                            | Mundial                                  | Josiane 3816.7551        | (19) 97410-0323  |
-| Toldos                            | Toldos Esplanada                         | Edson                    |                  |
-| Transporte                        | Fiorati                                  |                          | (19) 99705-4080  |
-| Transporte mudança                | Alessandro                               |                          | (19) 97402-3570  |
-| Transporte mudança                | carlinhosmudancas .com.br                |                          |                  |
-| Transporte mudança                | Silvio Transportes                       |                          | (19) 99132-7860  |
-| Transporte taxi                   | Dinho                                    |                          | (19) 98831-5886  |
-| Transporte Taxi                   | Fabio                                    |                          | (35) 9248-0284   |
-| Transporte taxi                   | Magalhães                                |                          | (19) 99789-2388  |
-| Transporte Taxi                   | Solange                                  |                          | (19) 97406-1580  |
-| Transporte Taxi                   | Elton                                    |                          | (19) 99216-4655  |
-| Transporte Taxi                   | Moraes                                   |                          | (19) 99267-9795  |
-| Transporte Taxi                   | Sebastião                                |                          | (19) 99789-2388  |
-| Transporte Taxi                   | Tarcísio                                 |                          | (19) 99214-4704  |
-| Transporte Taxi Uber              | Valdeci                                  | Atende SP                | (38) 9137-2332   |
-| Transporte Taxi Van               | Carlinhos                                |                          | (19) 97573-4486  |
-| Transporte Van                    | Emanuelle                                | Manu                     | (19) 99348-0608  |
-| Transporte Van                    | Robson Van                               |                          | (19) 99282-1336  |
-| Transporte Van                    | Solange                                  |                          | (19) 99283-7841  |
-| Transporte Van                    | Tia Claudia                              |                          | (19) 99185-7696  |
-| Varal doméstico                   | Varais Mazzoneto                         | Campinas                 | (19) 3237-7625   |
-| Vazamentos                        | Leak Inspection                          |                          | (19) 99193-6965  |
-| Veículos  Baterias                | Fabio                                    | Atende domicilio         | (19) 99832-3008  |
-| Veículos  Lava rápido             | Renato                                   |                          | (19) 99611-9754  |
-| Veículos  Mecânica                | EuroBar                                  | Visconde Indaiatuba      |                  |
-| Veículos  Mecânica                | Rodabens                                 | Parque ecológico         |                  |
-| Veículos  Mecânica                | Valdinei                                 |                          | (19) 99391-3214  |
-| Veículos Auto Escola              | Casa grande                              |                          | (19) 99362-8716  |
-| Veículos Auto Escola              | Nato Auto Escola                         |                          | (19) 3894-3730   |
-| Vende tudo                        |                                          | 9.8804.60069             | (19) 99499-9498  |
-| Vidraçaria                        | São Luiz                                 | 3875.6569                | (19) 98965-2090  |
-| Vidraçaria                        | SP                                       |                          | (19) 99800-6372  |
-| Vidraçaria                        |                                          |                          | (19) 99800-6372  |
-| Vidraçaria Espelhos               | Aline Vidros                             |                          | (19) 97411-0807  |
-| Vidraçaria Espelhos               | Juliano Vidros                           |                          | (19) 99795-7888  |
-| Vidraçaria Espelhos               | Ronaldo Cabral                           |                          | (19) 97420-2908  |
-| Vidraçaria Espelhos               | Vertical Vidros                          | Raquel                   | (19) 97402-4702  |
-| Vinhos                            | Baco Wine Shop                           |                          | (19) 99990-5759  |
-| Vinhos                            | Giana Dicorpo                            |                          | (19) 9683-0874   |
-| Vinhos                            | Overwine                                 | Silvia                   | (19) 98280-0120  |
-| Vinhos                            | RR Valinhos do sul                       | Roberto                  | (19) 99194-0296  |
-| Vinhos ?                          | Gui Moradora                             |                          | (19) 99131-6203  |
-| Yoga                              | Jean Emana                               |                          | (19) 98908-1184  |
-| Zelador Duas Marias               | Celio                                    |                          | (19) 99128-4373  |
-| Zoológico                         | Sorocaba                                 |                          |                  |
-| Zoológico                         | Campinas                                 |                          |                  |
-| Zooparque                         | Itatiba                                  |
+| Tipo de Prestador             | Nome PF ou PJ                    | Contato Referencia       | DDD | Número Telefone   | Indicação                                 | Observação                         |
+|-------------------------------|----------------------------------|--------------------------|-----|-------------------|-------------------------------------------|------------------------------------|
+| Advogado                      | Ana Claudia Trevisan             |                          | 19  | 9.8356.7222       | Cintia 2M                                 |                                    |
+| Advogado                      | Fernando                         |                          | 19  | 9.9333.9566       | Mariana 9.9700.2602                       | Dedicado (Novo)                    |
+| Advogado                      | Fius                             |                          | 19  | 3252.6176         | Silvania 2M                               |                                    |
+| Advogado civil e imobiliário  | Bruno Bergamo                    |                          | 19  | 9.9289.3700       | Andreia Bergamo 9.9976.4748               |                                    |
+| Advogado civil e imobiliário  | Clarissa                         |                          | 19  | 9.9659.0608       | Eng. DU 9.9774.3011                       |                                    |
+| Advogado INSS                 | Jane Barros                      |                          | 16  | 9.9708.8996       | Silvani...9.9542.4887                     |                                    |
+| Advogado INSS                 | Lucia Benito                     |                          | 19  | 9.9850.0606       | Luiz M. 9.98624678                        |                                    |
+| Advogado INSS                 | Rubens Robélio                   | 9.8160.6485              | 19  | 9.8847.2444       | Maria do C...9.8163.6224                  |                                    |
+| Advogado?                     | Gabriela Contábil                |                          | 19  | 9.9222.5526       | Johnny 2M                                 |                                    |
+| Alimentos Açaí                | Joaquim/Léo                      |                          | 19  | 9.8108.7666       | José 9.4772.6758                          | Ótimo                              |
+| Alimentos Açaí Delivery       | Leonardo Reche                   | Léo                      | 19  | 9.8276.8600       | Josye 2M                                  |                                    |
+| Alimentos Apiário             | Apiário Itaici                   | Remove enxame            | 19  | 9.8855.1593       | Marga... 9.9118.6849/Mariliz...           | Muito bons                         |
+| Alimentos Apiário             | João Apicultor                   | Remove enxame            | 19  | 9.7409.0836       | Gera 9.9933.3824                          | Top nisso                          |
+| Alimentos Café e PUB          | Brendan House                    |                          | 19  | 9.8886.8618       | Laís 9.8808.9219                          |                                    |
+| Alimentos Café Manhã          | Aloha                            |                          | 19  |                   | Bruna 9.9609.0180                         |                                    |
+| Alimentos Café Manhã          | Boutique dos Pães                |                          | 19  |                   | Bruna 9.9609.0180                         |                                    |
+| Alimentos Café Manhã          | Edneia                           |                          | 19  | 9.9212.4242       | Tha 9.8291.4949                           |                                    |
+| Alimentos Café Manhã          | Feito Pão Itaici                 |                          | 19  |                   | Thais P 9.9122.9999                       | Cesta maravilhosa                  |
+| Alimentos Café Manhã          | Flor de Salinda                  | Celia                    | 19  | 9.9890.0036       | 9.8363.3801                               |                                    |
+| Alimentos Café Manhã          | Frans Café                       |                          | 19  |                   | Bruna 9.9609.0180                         |                                    |
+| Alimentos Café Manhã          | Laffe                            |                          | 19  |                   | Bruna 9.9609.0180                         |                                    |
+| Alimentos Café Manhã          | Miloca Cestas                    |                          | 19  | 9.9995.3980       | Bia Pa...9.8181.9639                      |                                    |
+| Alimentos Café Manhã          | Officine Decor                   | Boutique Flores          | 19  | 9.9832.0396       | Silvania 9.9542.4887                      |                                    |
+| Alimentos Café Manhã          | Padaria a Real                   | 3875.6334                | 19  | 9.9953.9828       | Sindica/Josye 9.87087194                  |                                    |
+| Alimentos Café Manhã          | Padaria Real                     |                          | 19  | 9.9953.9828       | Josye 9.8708.7194                         |                                    |
+| Alimentos Café Manhã          | Q’Nimos                          |                          | 19  | 9.9974.7601       | 9.9222.5526                               |                                    |
+| Alimentos Café Manhã ?        | Zachello                         |                          | 19  | 9.9212.4242       | Andreia Bergamo                           | Tradicional                        |
+| Alimentos Carnes              | Sapor Carnes Especiais           | 9.9892.2657              | 19  | 9.9601.2657       | Dirceu https://saporcarnesnobres.com/     | Top/Morador                        |
+| Alimentos Com. Japonesa       | dhaisorestaurante.com            |                          |     |                   | Monyse 9.9289.0195/Graziella              | Gosto muito                        |
+| Alimentos Com. Japonesa       | Tobu                             |                          |     |                   | Graziella 9.8363.3801                     | Favorito                           |
+| Alimentos Doces               | Baronese Cake                    | Pati Creato              | 19  | 9.9142.1363       | Andreia Sindica                           |                                    |
+| Alimentos Doces               | Bem casado                       | Samara                   | 19  | 9.9494.4253       | Marcia 2m                                 |                                    |
+| Alimentos Doces               | Bem casado                       | Léo Reche                | 19  | 9.8276.8600       | Josye 2M                                  |                                    |
+| Alimentos Doces               | Booleria Indaiatuba              |                          | 19  |                   | BernardeteWern...9.9177.0378              | Excelente                          |
+| Alimentos Doces               | Doce Lolla                       | Confeitaria              | 19  |                   | Lucas                                     |                                    |
+| Alimentos Doces               | Encanto de Doce Bolo             | Vera                     | 19  | 9.9173.3563       | Tha  9.8270.2994                          | Bolo Maravilhoso                   |
+| Alimentos Doces               | Gerbeli Bolos e Salgados         |                          | 19  | 9.9447.8873       | Flavia G 9.4179.4042                      | Tudo lá é gostoso                  |
+| Alimentos Doces               | La Fée Café e Restô              | Confeitaria              | 19  | 3329.6949         | Mariusa 9.9136..0059                      | Tudo lá é gostoso                  |
+| Alimentos Doces               | Loja Dias Chocolate              | Fabricio                 | 19  | 9.7121.0447       | Margare 9.9118.6849                       | Muito Bom                          |
+| Alimentos Doces               | Oxe Nina Brasil                  | Bolo Rolo                | 19  | 9.9211.3771       | Graziella 9.7829.1699/Silvania            | /Deliciosos                        |
+| Alimentos Doces               | Pâtisserie                       |                          | 19  | 9.8208.4420       | Andreia Sindica                           |                                    |
+| Alimentos Doces               | Pecado Maior                     | Bruna Sêga               | 19  | 928960.6464       | Thais P 9.9122.9999                       |                                    |
+| Alimentos Doces               | Samnicoliconfeitaria             |                          | 19  | 9.8820.7346       | Andreia Sindica                           |                                    |
+| Alimentos Doces               | Santa Fé Geleias e Doces         | Cucas e etc              | 19  | 9.9621.8860       | Sindica                                   |                                    |
+| Alimentos Doces               | Sof Cake Confeitaria             |                          | 19  | 9.8181.3354       | Andreia Sindica                           |                                    |
+| Alimentos Doces ?             | Katia Beltrame                   |                          | 19  | 9.8968.8778       | Bernade 9.9177.0378                       |                                    |
+| Alimentos Empório             | Palmar Ovos queijos etc          | Marcos & Marta           | 19  | 9.8293.7719       | Nori 9.9602.1039                          | Itaici av. ant.Stan,1215           |
+| Alimentos Empório             | Seo Lorenzo  Offner              |                          | 19  | 9.9283..4048      | Anfrea Sindica                            | 10% de desconto                    |
+| Alimentos Eventual            | Sociedade Italiana               | Rua 13 de maio 109       | 19  |                   | Michela h10 9.8595.2626                   |                                    |
+| Alimentos Feijoada            | Dona Lulu Só Sábados             | Vegetariana também       | 19  | 9.9792.7220       | Gentil 9.9304.7680 / Homero               | /Gostamos Simples Light            |
+| Alimentos Feijoada            | Feijoada da Elô                  | Só retira                | 19  | 9.475.8027        | 9.8270.2994                               |                                    |
+| Alimentos Feijoada            | Rotary Club 18/06/2022           | Solidária                | 19  | 9.9177.0378       | Ber                                       |                                    |
+| Alimentos Frango Assado       | Frangão Food’s                   | Entrega partir50,00      | 19  |                   | Andreia Sindica                           |                                    |
+| Alimentos Frango Assado       | Oriental Frangos                 |                          | 19  | 9.9488.6964       | Jaime                                     |                                    |
+| Alimentos Frango Assado       | Rosa Moça                        | Kennedy                  | 19  | 9.9925.1313       | Andreia Sindica 2M                        |                                    |
+| Alimentos Horti frutti        | Goomer                           | www.goomer.app           | 19  |                   | Gabriela 9.9222.5526                      | Entrega 5as feiras                 |
+| Alimentos Horti frutti        | Orlando Uvas Rosadas             | 5kg 40                   | 19  | 9.9651.7157       | Andreia Sindica                           | Entrega até 22/12/22               |
+| Alimentos Horti frutti        | Torre Laguna                     |                          | 19  | 9.8285.0064       | Gabriela 9.9222.5526                      |                                    |
+| Alimentos Orgânicos           | Organicosrancholindo             |                          | 19  | 9.9846.7583       | Lilian Fons... 9.9220.9996                |                                    |
+| Alimentos Padaria             | Em frente portal Ipês            |                          | 19  | ?                 | André 2M                                  |                                    |
+| Alimentos Padaria             | Feito Pão                        | Aeram da Real            | 19  | ?9.8355.0284      | Thais P 9.9122.9999                       | Maravilhosa                        |
+| Alimentos Padaria             | Padaria Suíça                    |                          | 19  |                   |                                           |                                    |
+| Alimentos Padaria             | Pane Delivery                    |                          | 19  | 9.7805.1812       | Thais 2M                                  |                                    |
+| Alimentos Pães artesanais     | Duo Bakehouse                    | Zilda/Rafael             | 19  | 9.8997.1386       | Nori 9.9602.1039                          | Adoramos                           |
+| Alimentos Pães artesanais     | Fabi Bakery                      |                          | 19  | 9.9862.7556       | Rosa 9.8135.0175                          | Adorei                             |
+| Alimentos Pães artesanais     | Pão Caseiro e outros             |                          | 19  | 9.9567.8722       | Cintia 9.88507144                         | Super indico Maravilhoso           |
+| Alimentos Pães artesanais     | Pão Integral Natural             |                          | 19  | 9.8766.3188       | Beti... 9.9979.4748                       |                                    |
+| Alimentos pizza em casa       | Caseirinhos da Alê               |                          | 19  | 9.8272.0859       | Bruno 9.9289.3700                         | Gostamos                           |
+| Alimentos Pizza em casa       | Local                            |                          | 19  | 9.9538.4333       | Josye 2M                                  |                                    |
+| Alimentos pizza Eventual      | Apae Campanha                    |                          | 19  |                   | Gentil 9.9304..7680                       | Gostamos                           |
+| Alimentos pizzaria            | 430                              |                          | 19  |                   | Bruno 9.9289.3700                         | Gostamos                           |
+| Alimentos pizzaria            | Forneria Paulistana              | Carlos                   | 19  | 9.9733.0059       | Sandra /Nori9.9602.1039/Dennys            | Gosto Muito                        |
+| Alimentos pizzaria            | La conquista                     |                          | 19  |                   | Graziella 9.8363.3801                     |                                    |
+| Alimentos Pizzaria            | Monte Carlo                      |                          | 19  | 3392.083          | Erika 2M 9.9601.8340                      | Massa deliciosa                    |
+| Alimentos pizzaria            | Padaria Suíça                    |                          | 19  |                   | Erika                                     | Custo benefício                    |
+| Alimentos pizzaria            | Pizza Prime                      | 3394.1000 Loja           | 31  | 9.9136.0575       | Fernandes /Ana P 9.9662.4711              | Morador                            |
+| Alimentos pizzaria            | Torre Laguna ?                   |                          | 19  |                   | Ari 9.9826.3500                           |                                    |
+| Alimentos pizzaria Padaria    | Pizza e Arte                     |                          | 19  | 9.9796.9051       | Graziella Budacs 9.7829.1699              | Ótima bom preço rápida             |
+| Alimentos Restaurante         | Amadeu                           |                          | 19  | 9.9488.0580       | Nori 9.9602.1039                          |                                    |
+| Alimentos Restaurante         | Barnabé                          |                          | 19  |                   | Nori 9.9602.1039                          |                                    |
+| Alimentos Restaurante         | Caipirão                         |                          | 19  |                   | Wagner 9.8413.6555/Nori                   |                                    |
+| Alimentos Restaurante         | Delicias de minas                |                          | 19  | 9.9714.4609       | 2M                                        |                                    |
+| Alimentos Restaurante         | Moqueca                          |                          | 19  |                   | Nori 9.9602.1039                          |                                    |
+| Alimentos Restaurante         | Rica                             |                          | 19  |                   | Nori 9.9602.1039                          |                                    |
+| Alimentos Restaurante         | Sapores do Nono                  |                          | 19  | 9.8412.5868       | ?                                         | Sem taxa entrega                   |
+| Alimentos Restaurante         | Uenohara                         |                          | 19  |                   | Nori 9.9602.1039                          |                                    |
+| Alimentos Salgados            | Agua na  Boca                    |                          | 19  | 9.7159.8442       | Margare 9.9118.6849                       |                                    |
+| Alimentos salgados            | bacalhaudomaumau                 | www. Facebook.com/       | 19  | 9.8197.1341       | 9.8355.0284                               | Parece especial                    |
+| Alimentos Salgados            | Bona Boca                        |                          | 19  |                   | Mariliz 2M                                |                                    |
+| Alimentos Salgados            | Cia Salgados ,Conceição,1718     | 3328.003                 | 19  | 9.9302.4292       | Graziela 9.8363.3801                      | Deliveri gosto muito               |
+| Alimentos salgados            | Divina Gula Esfihas              | Feirinha 2M              | 19  | 9.9862.2044       | Gab 2M                                    |                                    |
+| Alimentos Salgados            | Dona Lolla   tortas              | massasdonalolla.com.br   | 19  |                   | Graziella 9.8363.3801                     |                                    |
+| Alimentos Salgados            | Dona Lulu feijoada e etc         | Só aos sábados           | 19  | 9.9792.7220       | Gentil 9.9304.7680/Thais                  | Caprichosa                         |
+| Alimentos Salgados            | Dona Maria (Mini churro)         | 3894.2259                | 19  | 9.9332.1438       | Monyse 9.9289.0195/Thais                  | Deliciosos faz p/ Gerbelli         |
+| Alimentos Salgados            | Espaço Atelie Espetinhos         |                          | 19  | 9.9277.6685       | Tha Carf 9.8825.1515                      |                                    |
+| Alimentos Salgados            | Gerbelli                         |                          | 19  |                   |                                           |                                    |
+| Alimentos Salgados            | https://festivalsabores          | da terra.com.br          | 19  |                   |                                           |                                    |
+| Alimentos Salgados            | Karamelada                       |                          | 19  | 9.9684..6289      | Daniela 9.9638.1424                       | Adoramos (torta de frango)         |
+| Alimentos Salgados            | Leonice Salgados                 | Ifood                    | 19  |                   | Fabiana 9.7109..5363                      |                                    |
+| Alimentos Salgados            | Lia Cozinheira da Graziela       | Sob encomenda            | 19  | 9.7599.1002       | Graziela 9.8181.5070                      |                                    |
+| Alimentos Salgados            | maludelicias.com.br              | Sob encomenda            | 19  | 9.8914.8490       | Andreia Sindica                           |                                    |
+| Alimentos Salgados            | Pão de Queijo                    | Fábio Manfredini         | 19  | 9.7313.3248       | Gabriela 9.9222.5526                      |                                    |
+| Alimentos Salgados            | Torta Banoffe                    |                          | 19  | 9.9791.1203       | Camila 9.9815.7157                        |                                    |
+| Alimentos Salgados            |  ttps://www.instagram.com        | /camoleis.indaiatuba/    | 19  |                   | Gabriela 9.9222.5526                      |                                    |
+| Alimentos Salgados            | Vila Coxinha (Ifood)             |                          | 19  |                   | Graziela 2M9.8363.3801                    |                                    |
+| Alimentos Salgados            | Vivenda em casa                  | Congelados               | 19  | 9.9324.1182       | Thais 9.9221.3439                         |                                    |
+| Alimentos Salgados Doces      | Andreia                          |                          | 19  | 9.8991.9590       | Bianca 9.9714.4609                        |                                    |
+| Alimentos Salgados Doces      | Marcia doces e salgados          |                          | 19  | 9.9757.1744       | Sindica                                   |                                    |
+| Alimentos Salgados Doces      | Samnicoliconfeitaria             |                          | 19  | 9.8820.7346       | Andreia Sindica                           |                                    |
+| Alimentos salgados Queijos    | Emerson                          |                          | 19  | 9.7816.8221       | Danielle 9.9928.1714                      |                                    |
+| Alimentos salgados Queijos    | Palmar Marta                     | Entregam nas sextas      | 19  | 9.8293.7719       | Rosa 9.8135.0175                          | Ótimos ovos e etc                  |
+| Alimentos Salgados Tortas     | Genova                           |                          | 19  | 3875.1069         | Sandra 9.9984.7799                        | ótima                              |
+| APAE Indaiatuba               | Presidente conselho              | Gentil Pacioni           | 19  |                   | 9.9304.7680                               | Ser Bom Faz Bem Morador            |
+| Aquecedor                     | Alan (Anibal)                    |                          | 19  | 9.9627.2763       | Felipe                                    |                                    |
+| Aquecedor                     | Energia Indaiá                   | Leandro                  | 31  | 9136.0575         | Fernandes 2M                              |                                    |
+| Aquecedor                     | Engenharia da Eletricidade       | Júlio Eletricista ITU    | 19  | 9.7050.0222       | Sandro 9.8875.5300                        | Fez  trabalhos bacanas             |
+| Aquecedor                     | Ernandes                         |                          | 19  | 9.9325.4761       | Patrícia/Andre 9.9431.0001                |                                    |
+| Aquecedor                     | Indasol                          | Ricardo                  | 19  | 9.6612.9017       | Gentil 9.9304.7680                        | Sistema completo bosh              |
+| Aquecedor                     | Piscina.com instala Vende        | Jeferson                 | 19  | 9.8927.5756       | Fernandes 31 9136.0575                    |                                    |
+| Aquecedor                     | Shelby Painel Solar              |                          | 19  | 9.8124.1233       | Renat 2M                                  |                                    |
+| Aquecedor                     | Solemax Energia solar            | Fernando Ma.Dulc         | 19  | 9.9660.1477       | Ferrari 2m                                |                                    |
+| Aquecedor                     | Tek House                        |                          | 19  |                   |                                           |                                    |
+| Aquecedor /Pressurizador      | Ribeiro                          | Faz automação            | 19  | 9.9611.4879       | Homero 11 9.53850202                      | Muito bom                          |
+| Aquecedor Boiler              | Ademir                           |                          | 19  | 9.7423.8015       | Marcelo9.9701.3010                        | Bom preço rápido fez 3 instalações |
+| Aquecedor Foto Voltaico       | I9Solar Fotovoltaica             | Flavio Abreu             | 19  | 9.5438.1919       | Jaime/Silvanet 9.9722.2254                | Bem atendido/super indico          |
+| Aquecedor Piscina             | Fabio Bruni                      |                          | 11  | 9.7558.4007       | Fabiano 9.9538.6694                       | Bom preço                          |
+| Aquecedor Piscina             | www.indagua.com.br               |                          | 19  |                   | Daniel 9.8867.7887                        |                                    |
+| Aquecedor solar               |  Helioteck 1                     | Ricardo                  | 19  | 9.9184.1308       | André 9.9431.0001                         |                                    |
+| Aquecedor solar               |  Helioteck 2                     | Ana                      | 19  | 9.6612.9017       | André 9.9431.0001                         | Top                                |
+| Aquecedor solar               | Júlio                            | ITU                      | 19  |                   | Sandro 9.8875.5300                        |                                    |
+| Aquecedor solar               | Michel Tabarini                  | Eletrica                 | 19  | 9.7150.1618       | Marcelo 9.9701.3010                       |                                    |
+| Aquecedor solar  boiler       | Aníbal Instalação e venda        |                          | 19  | 9.9128.6174       | Luiz Fernando 2m                          |                                    |
+| Ar condicionado               | AC- Junior Solution              |                          | 19  | 9.7407.-5491      | Margaret                                  |                                    |
+| Ar Condicionado               | Adriano                          |                          | 19  | 9.9496.3060       | Nori 9.9602.1039/Gustavo                  |                                    |
+| Ar Condicionado               | Adriano Henrique                 | Mega Air                 | 19  | 9.9514.0494       | Dirceu 2M 9.9892.2657                     | Excelente serviço e outros         |
+| Ar condicionado               | AEG                              | Ademir                   | 19  | 9.9771.0440       | Gentil  atende as empresas                | Top                                |
+| Ar condicionado               | Barbara Calixto                  | Adriano                  | 19  | 2122.201          | Ronaldo Smart Calhas                      |                                    |
+| Ar condicionado               | Bola Elétrica Faz Tudo           |                          | 19  | 9.81977441        | Felipe                                    |                                    |
+| Ar condicionado               | Edison Moreto                    |                          | 19  | 9.8232.3481       | Wilson /Homero                            |                                    |
+| Ar condicionado               | Elso /Elzo                       |                          | 19  | 9.9806.5271       | Patrícia /Valéria 9.8162.6106             | Excelente                          |
+| Ar condicionado               | Felipe                           |                          | 19  | 9.9961.6541       | Valdete                                   |                                    |
+| Ar condicionado               | Leonardo AC Solution             | 9.7414.2306              | 19  | 9.7417.0101       | Ferrari 9.8184..6655                      |                                    |
+| Ar Condicionado               | Lima ex Ar Clean/Juliana         |                          | 19  | 9.9862.9660       | Bruna 9.9609.0180                         |                                    |
+| Ar condicionado               | Santana                          |                          | 19  | 9.7112.1450       | Rosa 9.8135.0175/Mary51.98135.0175        | ótimos                             |
+| Ar Condicionado               | Ulisses Borges                   |                          | 19  | 9.9646.4671       | Thais 9.8270.2994                         |                                    |
+| Armazenamento  móveis         | Ibox self  storage               |                          | 19  |                   | R. Homero P. L. Barnabé, 35               |                                    |
+| Arte Instagram                | Bianca Lucchesi                  |                          | 19  | 9.9714.4609       | bianca_lucchesi_de_oliveira               | Bacana entre Homero                |
+| Assist. Tec.                  | 100%Conserto 3016.5506           | Maq. Lavar LG            | 19  | 9.8129.6616       | Thais 9.8270.2994                         |                                    |
+| Assist. Tec.                  | DDTEC                            |                          | 19  | 9.8968.2555       | Carla 9.9294.6144                         |                                    |
+| Assist. Tec.                  | Denis                            | 9.7149.3765              | 19  | 9.9722.8765       | Alex 2M                                   |                                    |
+| Assist. Tec.                  | Dinho Maq. Lavar                 |                          | 19  | 9.9652.0043       | Juliana 9.9958.0309/Rosa 9.8135.0175      |                                    |
+| Assist. Téc.  Brastemp        | Serve Sim /Consul                | Meire                    | 19  | 3875.9151         | Bianca /Monyse 9.9289.0195                |                                    |
+| Assist. Téc.  Brastemp        | Serviceria Campinas              |                          | 19  | 2513.3782         | Marcelo 2M                                |                                    |
+| Assist. Téc. Aspirador        | Rainbow                          | Liliane                  | 19  | 9.4755.0139       | Mariana 2 M                               | Melhor                             |
+| Assist. Tec. Celular          | phoneexpressindaiatuba.com.br    | Autoriz.Campinas         | 19  |                   | Gabriel 9.8204.7225                       |                                    |
+| Assist. Tec. Celular Aplle    | www.iprime.com.br                | Autoriz.Campinas         | 19  |                   | Gabriel 9.8204.7225                       |                                    |
+| Assist. Tec. LG               | Fernando maq. Lavar              |                          | 19  | 9.9689.1354       | Bianca 2M 9.9714.4609                     |                                    |
+| Assist. Tec. Samsung AOC      | Nishi Eletrônica  (Philips)      | 3875.3831                |     | 9.9847.0872       | Nad 9.9933.7995                           |                                    |
+| Assist.Téc. eletrodom.        | 100% Conserto (geladeira)        | Maq. lavar Samsung       | 19  | 9.8129.6616       | Ari 2M/thais 9.8270.2994/                 | Paulo excelente                    |
+| Assist.Téc. eletrodom.        | Cidão Maq. Lavar                 |                          | 19  | 9.9853.3866       | Ari 2M                                    |                                    |
+| Assist.Téc. eletrodom.        | Denis                            |                          | 19  | 9.9722.8765       | Alex 2M/Bianca 9.9714.4609                | Nota dez                           |
+| Assist.Téc. eletrodom.        | Doutor máquinas                  |                          | 19  | 9.9241.4567       | Ari 2M                                    |                                    |
+| Assist.Téc. eletrodom.        | Freezer                          |                          | 19  | 9.9339.9953       | Daniela 9.9720..6177                      |                                    |
+| Assist.Téc. eletrodom.        | Pinguim R. 11 junho1422          | Chuveiro                 | 19  | 3875.1623         | Nori 2M/José 9.4772.6758                  |                                    |
+| Assist.Téc. Persiana eletr.   | Fabio Vidros                     |                          | 19  | 9.9250.0117       | Dra. Patrícia 9.8155.8081                 |                                    |
+| Assist.Téc. Persiana eletr.   | Oscar All in Esquadrias          |                          | 19  | 9.9844.0630       | Thais 9.8270..2994                        |                                    |
+| Áudio                         | Conecta Itororó,377              | Fernando                 | 19  | 9.2516.3605       | Nori 2M                                   |                                    |
+| Áudio                         | Gustavo wittchind MS             |                          | 19  | 9.8344.3309       | Lucas Construtor 2M                       |                                    |
+| Áudio instalação              | Clebão Machines                  |                          | 19  | 9.9291.1371       | Tha... 9.8291.4949                        | Super conhecido otimo              |
+| Barbearia                     | Babershop                        | R. Humaitá, 786          | 19  |                   | Júlio 2M                                  | Agendar                            |
+| Barbearia                     | Bilin rua Tuiuti prox.da         | Kennedy                  | 19  | 9.9779.2410       | Renan 2M / Gentil 2M                      | Agendar                            |
+| Barbearia                     | Campanari                        |                          | 19  | 9.9414.9658       | Tha 9.8270.2994                           |                                    |
+| Barbearia                     | Charles                          |                          | 19  | 9.9293.1993       | Daniela 2M/Luciene 2M                     | Agendar                            |
+| Barbearia                     | Duda R.13demaio prox.            | 24 de maio               | 19  | 9.9157.1278       | Renato                                    |                                    |
+| Barbearia                     | Faustino Barber                  | Cristian                 | 19  | 9.9500.1992       |                                           |                                    |
+| Bebidas Chopp                 | Beer Clock                       | Av. Conceição 695        | 19  |                   | Beti 9.9976.4748                          |                                    |
+| Bebidas Chopp                 | Beercicleta                      | Murilo                   | 19  | 9.9566.5656       | Ferrari9.8184.6655                        | Chopp de campinas muito bom        |
+| Bebidas Chopp                 | Box Beer Chopp                   | Delivery                 | 19  | 3392.7841         | Bruna Decoratto                           |                                    |
+| Bebidas Chopp                 | Itaici Cervejaria                |                          | 19  |                   | Av. Cel. Ant. Estanislau Amaral 261       |                                    |
+| Bebidas Chopp                 | The bieerhouse                   |                          | 19  | 9.9165.4487       | Monyse Barche.. 9.9289.0195               |                                    |
+| Beleza                        | Cabelo Maravilhoso               | Ton Teles                | 19  | 9.8121.1661       | Margarete 9.9118.6849                     |                                    |
+| Beleza                        | Florença Cabelos                 |                          | 19  | 9.8974.1627       | Renata 9.8199.9121/Silvania/Sandra        | //Gostei                           |
+| Beleza                        | Francine Duarte Estética         | Francine                 | 19  | 9.8231.4343       | Graziella 9.8181.5070                     | Adorei                             |
+| Beleza                        | Néia Gronzi                      |                          | 19  | ?9.9760.1290      | Margaret 9.9118.6849                      | Unha Perfeita                      |
+| Beleza                        | Trends Salon                     | 9.9361.9430              | 19  | 9.8127.1619       | Thais 9.9122.9999                         |                                    |
+| Beleza / Podóloga             | Nice                             |                          | 19  | 9.9703.5147       | Beti 9.9976.4748                          | Excelente                          |
+| Beleza /Podóloga              | Célia                            |                          | 19  | 9.9269.1215       | Gentil P2M                                | Falar nome                         |
+| Beleza /Podóloga              | Wanda                            |                          | 19  | 9.8128.5216       | Sara 2M/Tha 9.8270.2994                   |                                    |
+| Beleza Cílios                 | Elaine                           |                          | 19  | 9.9678.1250       | Bia Pas 9.8181.9639                       | Ótima                              |
+| Beleza Cílios                 | JM                               |                          | 19  | 9.89.51.8234      | Rafa  9.8196.7101                         | Ótima                              |
+| Beleza Cílios                 | Wedna                            |                          | 19  | 98199.4242        | Thais 9.8270.294                          |                                    |
+| Beleza limpeza de pele        | Salão Casa S                     |                          | 19  | 9.9350.5552       | Tha 9.270.2994/Milena 9136.0208           | Gostei do Gabriel                  |
+| Beleza Maquiadora             | Thaiscairesmakeup?igshid=        |                          | 19  |                   | Thais 9.8270.294                          | Ótima                              |
+| Beleza Unhas                  | Alaíde                           | R Ademar Barros 1069     | 19  | 9.7406.0863       | Elaine 9.8355.0284                        | Ótima                              |
+| Beleza Unhas                  | Milena                           | Faz domicilio            | 19  | 9.8172.9998       | Josye 9.8708.7194/Mariane                 | Ótima adoro                        |
+| Beleza Unhas                  | Nick                             |                          | 19  | 9.9260.3793       | Marcia 9.9186.2225                        | Fera em coloração é Mestre         |
+| Beleza Unhas                  | Orfila                           |                          | 19  | 9.8842.2210       | Graziella 9.8363.3801                     |                                    |
+| Beleza Unhas                  | Salão Casa S. (Podóloga)         | Fabi e Maira             | 19  |                   | Milena MI                                 |                                    |
+| Beleza Unhas                  | Wanda Manicure                   |                          | 19  | 9.8128.5216       | Thais 9.8270.8873                         |                                    |
+| Beleza/ Podóloga              | Espaço Ser                       | Nadir Alencar            | 19  | 9.9734.1650       | Valdete 9.9390.4764/Jaime                 |                                    |
+| Beleza/Podóloga               | Nathalia                         |                          | 19  | 9.8996.3229       | Bianca 2M                                 |                                    |
+| Beleza/Podóloga               | Reinvente-se                     |                          | 19  | 9.9124.1937       | Silvania 9.9542.4887                      |                                    |
+| Beleza/Podóloga               | Rosana                           | Rosana Santos            | 19  | 9.8943.6892       | Bernarde...                               |                                    |
+| Beleza/Podóloga               | Thais                            |                          | 19  | 9.9289.3599       | Lucas  9.8168.7852                        | Muito Boa                          |
+| Bike locação                  | Bike hotel/BeBike                | Ambos no Parque          |     |                   | Bia Pasc.. 9.8181.9639/ThaCarf            |                                    |
+| Bike locação                  | Parque do mirim                  |                          |     |                   | Thais  9.9221.3439                        |                                    |
+| Bike manutenção               | Estrela Bike  Dorival            |                          | 19  | 9.9763.0877       | Dennys 9.9800.9298                        |                                    |
+| Bike manutenção               | Shalao Bike                      |                          | 19  | 9.9245.9949       | Ferrari 9.8184.6655                       |                                    |
+| Brindes                       | Brindes do Dia                   |                          | 19  | 9.9601.5000       | Renat...9.8199.9121                       |                                    |
+| Brindes                       | Renato Rebelato                  |                          | 19  | 9.8724.8530       | Grazi..  9.7829.1699                      |                                    |
+| Caixas de Papelão             | Indaiá Caixas                    |                          | 19  |                   | Eng. DU 9.9774.3011                       |                                    |
+| Caixas de Papelão             | Rua 11 junho ,1318               | Na frente do correio     | 19  |                   | Silvania 9.9542.4887                      |                                    |
+| Calhas                        | Calhas Souza Romildo             |                          | 19  | 9.9774.3011       | Henrique 2M                               |                                    |
+| Calhas                        | Cidão                            | 9 7422 1246              | 19  | 9 7411.7768       | Gentil 2M/Homero/Fernandes                | Afianço/endosso                    |
+| Calhas                        | Cris                             |                          | 19  | 9.9887.2021       | Sindica                                   |                                    |
+| Calhas                        | Diogo Zanotelo                   |                          | 19  | 9 9338 4323       | Dennys 2M falar meu nome                  | Esse é fera                        |
+| Calhas                        | Fenix Renato                     | 3834.6224                | 19  | 9.9834.8829       | Luiz Fer9.9177.0371                       |                                    |
+| Calhas                        | Imperial  Calhas e coifas        |                          | 19  | 2516.19           | 9.8777.7276                               | gostamos                           |
+| Calhas                        | Romildo                          |                          | 19  | 9.9285.9231       | Alejandro 9.9652.7123                     |                                    |
+| Calhas                        | Sidnei Moisés                    |                          | 19  | 9 7411.7768       | Michela 2M                                |                                    |
+| Calhas                        | Smart                            |                          | 19  | 9 9808 7893       | Renato/Lucas 2M                           | Bom                                |
+| Calhas                        | Smart Calhas                     | Ronaldo                  | 19  | 9.9804.4958       | Margarete 9.9118.6849                     | Excelente                          |
+| Cep 2M                        | Av. João Ambiel, 860             | 13.333-540               | 19  | Deve ser portaria | Ana Paula 2M/Celio Zelador                |                                    |
+| Chaveiro                      | Indaia                           |                          | 19  | 9.9763.1528       |                                           |                                    |
+| Chinelos                      | Simone sp                        | Sob encomenda            | 11  | 9.6252.3086       | Elaine9.8355.0284                         |                                    |
+| Churrasco home                |                                  | Cicero Bull              | 19  | 9.8117.7545       | Gabriela 2M                               |                                    |
+| Churrasco home                |                                  | Tiago                    | 19  | 9.9757.7471       | Gabriela 2M                               |                                    |
+| Churrasco home                |                                  | Davi 9.9777.4787         | 19  | 9.8281.7441       | Dirceu  9.9892.2657/Renato9.9148.3322     |                                    |
+| Churrasco home                |                                  | Valdir                   | 19  | 9.8161.4616       | Gabriela 2M                               |                                    |
+| Churrasco home                |                                  | Moacyr                   | 19  | 9.8135.4844       | Dirceu 2M                                 |                                    |
+| Churrasco Rotisserie          | Local                            | Tito Paiola              | 19  | 9.9811.9589       | Gentil P2M                                |                                    |
+| Churrasco/ Buffet             |                                  | Andrea                   | 19  | 9.9165.6931       | Gentil 2M                                 | Fez  vários                        |
+| Contador                      | Gabriela/Marco QA                | 9.9222.8616 Marco        | 19  | 9.9222.5526       |                                           | Morador                            |
+| Contador                      | Harmonia                         |                          | 19  | 3685.5622         | Graziella 2M 9.8363.3801                  |                                    |
+| Contador                      | https://linklis.bio/             | escritorioavenida        | 19  | .3875.6333        | Tha 9.8270.2994                           | Ótimas                             |
+| Contador                      | Libra                            | Rogerio                  | 19  | 9.7403.1632       | Bernade 9.9177.0378                       | Excelente                          |
+| Contador                      | Marco Aurélio                    |                          | 19  | 9.9222.8616       | Johnny 9.8848.5418                        | O melhor Indaiá                    |
+| Contador                      | NGV                              |                          | 19  | 3825.929          | Wagner 9.8413.9555                        | Cliente 20 anos                    |
+| Contador                      | Salla Dércio                     | 3800.3199                | 19  | 9.9936.7596       | Bruno 9.9289.3700/Andreia B/ Gentil       | Excelente/Ótimo Morador            |
+| Corretor de Imóveis           | Renan                            |                          | 19  | 9.9377.2262       | Renan Morador                             |                                    |
+| Corretora de Imóveis          | www.elainemonaco.com.br          | Elaine                   | 19  | 9.8355.0284       | Elaine 2M Moradora                        |                                    |
+| Cortinas                      | Maria Rita Cortinas              |                          | 19  | 9.8383.8478       | Thais 2M                                  | Amei o trabalho                    |
+| Costureira                    | Ateliê da Gle                    |                          | 19  | 9.8349.7356       | Silvania 9.9545.4887 2M                   |                                    |
+| Costureira                    | Cantinho da Costura              | 3016.7583                | 19  | 9.8202.6173       | Gentil 9.9304.7680?                       |                                    |
+| Costureira                    | Nalva                            |                          | 19  | 9.9569.8664       | Mariusa 31 9136.0059                      |                                    |
+| Costureira                    | Sonia                            |                          | 19  | 9.8226.9003       | Andreia Bergamo 9.9760.1290               |                                    |
+| Costureira Instagram          | Casaamarelanoivas                |                          | 19  |                   | Margareth 2M                              |                                    |
+| Costureira Instagram          | fernandasibenedetti              |                          |     |                   | Silvania 2M                               |                                    |
+| CPFL                          | Energia                          |                          | 19  | 8000102570        | Wilson 2M                                 |                                    |
+| Decoração                     | Cola Decora                      | Leo                      | 19  | 9.9339.9872       | Paulo VI 9.8203.5994                      |                                    |
+| Decoração                     | Elaine Office Decor              |                          | 19  | 9.9816.3660       | Silvania 9.9542.4887                      |                                    |
+| Decoração                     | Susi Decorações                  | Susi                     | 19  | 9.9600.7415       | Silvania 9.9542.4887                      |                                    |
+| Decoração  Móveis             | Decoratto                        | 3894.6688                | 19  | 9.9371.7133       | Sandra 11 953850333                       | Qualidade bom gosto                |
+| Dedetização                   | Cristian                         |                          | 19  | 9.7410.0212       | Eng. Edu 2M                               |                                    |
+| Dedetização                   | Inset Clean                      |                          | 19  |                   | Lucas 2M                                  | Gostou                             |
+| Dedetização                   | Inset Clean                      | Carlos                   | 19  |                   | Lucas 9.8168.7852                         | Recolhe distribui                  |
+| Dedetização Produto           | Lamthrine 10PM Inseticida        | Cuidado no uso           | 19  |                   | Marcelo 9.9701.3010                       | Combate escorpião                  |
+| Dentista                      | ACS Odontologia                  | R. 11 de junho 1789      | 19  | 9.8389.?          | Nádia /Thais P9.9122.2626                 | Melhor                             |
+| Dentista                      | Andreia Bergamo Dra.             | Ronco e Apneia           | 19  | 9.9151.7458       | Ana Paula 2M/Sindica                      | Moradora Impecável excel.          |
+| Dentista                      | Assipro                          | Dra Adriana              | 19  | 9.9158.8629       | Graziela 9.8181.5070                      | Excelente especialista Orto        |
+| Dentista                      | Daniele Bonfante Frozoni         |                          | 19  | 9.9733.1433       | Nori 2M                                   | Gosta muito                        |
+| Dentista                      | Glion Odonto                     | Dra Maria Angélica       | 19  | 9.8975.6770       | Margare 9.9118.6849                       | Maravilhosa                        |
+| Dentista                      | Maria Angélica                   |                          | 19  | 3834.29           | Margareth 2M                              |                                    |
+| Dentista                      | Maria Carolina Dra.              |                          | 19  | 9.8114.3881       | Glaucio 9.8612.0805                       |                                    |
+| Dentista                      | Odonto Forti                     |                          | 19  | 9.9604.9074       | Danielle                                  |                                    |
+| Dentista                      | Oral Center  24 hs               | Kennedy, 1620            | 19  | 9.8225.4000       | Danielle/ Gabriela 9.9222.5526            | Excelentes gosto muito             |
+| Dentista                      | Patrícia Bannwart                |                          | 19  | 9.8155.8081       | Luiz Ma 2M/9.9783.0143                    | Moradora                           |
+| Dentista                      | Patrícia Dra                     |                          | 19  | 9.9975.2167       | 9.9783.0143/José 9.4772.6758              | Moradora                           |
+| Dentista                      | Politano Odontopediatria         | Campinas Kelly           | 19  | .9727.2904        | Grazie.. 9.7829.1699                      | Gabriel dono fantastico            |
+| Dentista                      | Scalet Odontologia               | Dra. Patrícia Scallet    | 19  | 9.9837.2581       | Margaret 9.9118.6849/Beti 9.99764748      | Ótima                              |
+| Dentista                      | Silvia                           | Office Premium           | 19  | 9.9898.0512       | Graziella 9.8181.5070                     | Maravilhosa . Equipada             |
+| Dentista                      | VCLavijo                         | Victor Clavino           | 19  | 9.8218.2          | Mariane 9.8121.6691                       | Morador                            |
+| Dentista Odonto pediatra      | Ana Luiza Dra.                   |                          | 13  | ?9.9701.4062      | Gabriela 9.9222.5526                      | excelentes                         |
+| Dentista Ortodontista         |  Waldyr Dr.                      |                          | 19  | 9.9719.7564       | Thais 9.8270.2994                         |                                    |
+| Desentupidora                 | Desentupimento SAAE              | Hidrojatemaneto          | 19  | 9.684.0549        |                                           |                                    |
+| Desentupidora                 | Líder (Aparecido)                | 3936.3073                | 19  | 9.7407.4560       | Silvania 9.9542.4887/Gentil/Andre         |                                    |
+| Despachante                   | Nuno Simão                       |                          | 19  | 9.7119.7515       | Daniela/ Jaime 2M                         |                                    |
+| Diarista                      | Alessandra                       |                          | 19  | 9.7594.0196       | Tha Carf 9.8825.1515                      |                                    |
+| Diarista                      | Ana Sikorski                     |                          | 19  | 9.7157.4540       | Silvan...9.9722.2254                      |                                    |
+| Diarista                      | Ariene                           |                          | 19  | 9.9826.3500       | Daniela 9.9638.1424                       |                                    |
+| Diarista                      | Beth                             |                          | 19  | 9.8745.0251       | Fabiana9.7109.5363/Juliana                |                                    |
+| Diarista                      | Elivania veio do Ceará           | Cuidadora idosos         | 85  | 8106.1961         | Andreia Sindica                           |                                    |
+| Diarista                      | Fabiana Katia                    |                          | 19  | 9.8158.7053       | Michela 9.8595.2626                       | Competente confiança               |
+| Diarista                      | Fatima                           |                          | 19  | 9.9317.5469       | Andreia Sindica                           |                                    |
+| Diarista                      | Flor                             |                          | 19  | 9.9395.2950       | Andreia Sindica                           |                                    |
+| Diarista                      | Floripes Maria                   |                          | 19  | 6.9371.6247       | Elaine 9.8355.0284                        |                                    |
+| Diarista                      | Francisca                        |                          | 19  | 9 9716 0608       | Mariana                                   |                                    |
+| Diarista                      | Gislaine                         |                          | 19  | 9.7168.9885       | Sara 2M                                   | Não conhece                        |
+| Diarista                      | Katia                            |                          | 19  | 9 8720 8820       | Mariana/Juliana/Marcelo9 9701 3010        |                                    |
+| Diarista                      | Leidi                            |                          | 19  | 9.9127.0034       | Leandro 9.7237.7634/Ricardo 9.3060.1430   | Excelente confiança                |
+| Diarista                      | Leticia                          |                          | 19  | 9.9597.5167       | Sandro 9.8875.5300                        |                                    |
+| Diarista                      | Lilian                           |                          | 19  | 9.9242.5726       | Tha 9.8291.4949                           |                                    |
+| Diarista                      | Lucia Enz                        |                          | 19  | 9.7139.9008       | Bianca 9.9714.4609                        |                                    |
+| Diarista                      | Lucilene                         |                          | 19  | 9.8139.5050       | Mariliz 9.8819.0087                       |                                    |
+| Diarista                      | Maria                            |                          | 19  | 9.9116.1590       | Lilian.. 9.9220.9996                      |                                    |
+| Diarista                      | Marli                            |                          | 19  | 9.9398..4647      | Graziella 9.8363.3801                     | Ótima confiança                    |
+| Diarista                      | Marly                            |                          | 19  | 9.9114.6515       | Sara 9.4309.0866                          |                                    |
+| Diarista                      | Néia                             |                          | 19  | 9 8702 1223       | Mariana 2M                                |                                    |
+| Diarista                      | Neusa Basílio                    |                          | 19  | 9.9632.29.04      | Marcelo 2M                                |                                    |
+| Diarista                      | Perla                            |                          | 19  | 9.9326.8416       | Lilian fo 9.9220.9996                     |                                    |
+| Diarista                      | Raquel                           |                          | 19  | 9.8223.1017       | Monyse  9.9289.0195                       |                                    |
+| Diarista                      | Rosangela Filha                  | Traz filha 18 anos       | 19  | 9.7897.3485       | Graziela 2M                               |                                    |
+| Diarista                      | Ruth                             |                          | 19  | 9.8174.0398       | Mariliz...9.8819.0087                     |                                    |
+| Diarista                      | Rose                             |                          | 19  | 9.9841.8846       | Andreia Sindica                           | Caprichosa, honesta                |
+| Diarista                      | Sueli                            |                          | 19  | 9.9395.9192       | 9.8685.6135nãoaprecenome                  |                                    |
+| Diarista                      | Taciane                          |                          | 19  | 9.8817.7635       | Beti ...9776..4748                        |                                    |
+| Diarista                      | Vanessa                          |                          | 19  | 9.8961.6668       | Pri ...2M                                 |                                    |
+| Diarista - Cozinheira         | Lia                              |                          | 19  | 9.7599.1002       | Graziela 9.8181.5070                      |                                    |
+| Diarista /mensalista          | Ciçera cozinheira faxinei        |                          | 19  | 9.8157.261        | Thais 9.9221.3439                         | Tem referência                     |
+| Diarista /mensalista          | Cida                             |                          | 19  | 9.8205.2105       | Marcelo 9.9701.3010                       | Tem referência                     |
+| Diarista/ mensalista          | Luzia                            |                          | 19  | 9.4514.8623       | Andreia sindica                           | confiança                          |
+| Diarista/ Passadeira          | Celia                            |                          | 19  | 9.7156.5019       | Grazie...9.7829.1699                      |                                    |
+| Diarista/empregada            | Perla                            |                          | 19  | 9.9326.8416       | Daniela 9.9638.1424                       |                                    |
+| Diversão Colônia Ferias       | SuperFun Lazer Recreaçã          |                          | 19  |                   | Carol 9.6737.0870                         |                                    |
+| Doação                        | APAE  Indaiatuba                 |                          | 19  | 9.9200.3165       | Gentil 2M                                 |                                    |
+| Doação                        | Bazar do Bem                     | Joice Simões             | 19  | 9.8888.1507       | Gabriela                                  |                                    |
+| Doação                        | casadaprovidencia.org.br         |                          | 19  |                   | Thais 2M/Daniel 9.9638.1424               |                                    |
+| Doação                        | Roseli                           |                          | 19  | 9.8818.6434       | Graziella 9.8363.3801                     | Recolhe distribui                  |
+| Ecoponto Descarte             | João Pioli                       |                          | 19  |                   | Gabriel 9.8168.7852                       |                                    |
+| Educação escola               | LEPERINI                         |                          | 19  | 3825.2056         | Graziela 981815070/tha981815070/bruna     | Gostamos muito/gratidão            |
+| Educação escola Familiar      | https://tutoracursos.com.br/     |                          | 19  |                   | Felipe                                    |                                    |
+| Educação escola Inf.          | Mapple Bear                      | Nathalia Puccia          | 19  | 9.9134.2084       | Sindica                                   |                                    |
+| Educação escola Infantil      | Objetivo                         |  integral e bilíngue     | 19  |                   | Mary 9.9904.5079?                         | /Gosto muito                       |
+| Educação escola Infantil      | Progresso                        |                          | 19  |                   |                                           | Gosto muito                        |
+| Educação escola Infantil      | Renovação                        |                          | 19  |                   | Renata 9.8199.9121/Daniela 9.96381424     | Parceiros ensino bom /amando       |
+| Educação escola Infantil      | Rodin                            |                          | 19  |                   |                                           | Gosto muito                        |
+| Educação Francês              | Professora  Francês              | Ana Moraes               | 19  | 9.7418.2107       | MIh ba...9.8131.2824                      |                                    |
+| Educação Francês              | Professora  Francês              | Cristina                 | 19  | 9.5342.5774       | MIh ba...9.8131.2824                      |                                    |
+| Educação Inglês               | Professora  Inglês               | Gessana                  | 19  | 9.9145.6230       | Tha 9.8270.2994                           |                                    |
+| Educação Inglês               | Professora  Inglês               | Ana                      | 19  | 9.8287.0234       | Gabriela  9.9222.5526/Sivanet 9.9722.2254 | adorando                           |
+| Educação Inglês               | Professora  Inglês ?             | Lu Traldi                | 19  | 9.9603.2323       | Nori  9.9602.1039                         | Adoram                             |
+| Educação Italiano             | Professora  Italiano             | Luigia Monti             | 19  | 9.9722.0864       | Fernando Maison Du Park                   |                                    |
+| Educação musica               | Projeto Guri                     | Oferece cursos grátis    | 19  | 3825.2056         | Fernando Maison Du Park                   |                                    |
+| Elétrica                      | Omicro                           |                          | 19  |                   | Gentil 2M                                 |                                    |
+| Eletricista                   | Bira                             | 9.9217.5816              | 19  | 9.9217.5816       | Sandro9.8875.5300                         | Ótimo                              |
+| Eletricista                   | Davi                             |                          | 19  | 9.8878.0167       | Margaret 9.9118.6849                      |                                    |
+| Eletricista                   | Décio                            | Mora Portal Acácias      | 19  | 9.8358.8895       | Thais                                     |                                    |
+| Eletricista                   | Edgar inclusive ar cond.         | encanador                | 19  | 9.9245.2367       | Customi 9.9700.2601                       | Ótimo faz tudo                     |
+| Eletricista                   | Engpolo Sidione                  |                          | 19  | 9.8275.0252       | Eng. DU 9.9774.3011                       |                                    |
+| Eletricista                   | Fabio                            |                          | 19  | 9.8155.0926       | Renata 2M                                 | Muito profissional                 |
+| Eletricista                   | Ivo (Ivair)                      |                          | 19  | 9.9734.8273       | Fernando Maison Park/Homero               | Muito Bom                          |
+| Eletricista                   | Júlio Fechadura                  | ITU                      | 19  | 9.7050.0222       | André 2M/Sandro 9.8875.5300               |                                    |
+| Eletricista                   | Lucas                            |                          | 19  | 9.9400.7804       | Beti 2M                                   |                                    |
+| Eletricista                   | Renan                            |                          | 19  | 9.9326.2985       | Marcelo 9.9701.3010                       | Muito Bom                          |
+| Eletricista                   | Ronaldo                          |                          | 19  | 9.9106.4917       | Lucas 9.8168.7852/Nori9.9602.1039         | Excelente                          |
+| Eletricista                   | Thales/Pedro                     |                          | 19  | 9.9491.5020       | Milena 2M                                 | Ótimos                             |
+| Encanador                     | Chicão Tila                      |                          | 19  | 9.8163.5184       | Eng. Du 9.9774.3011                       |                                    |
+| Encanador                     | Hidracom                         | R.Dos Indaias,1142       | 19  | 3834.2308         | Pri 9.5550.2121                           | Perfeitos Profissionais            |
+| Encanador                     | Hydroluz                         | Reginaldo                | 19  | 9.9336.5228       | Margaret 9.9118.6849                      | Muito bom                          |
+| Encanador                     | Mariano                          |                          | 19  | 9.9228.0872       | Sara 9.4309.0866/Marcelo                  |                                    |
+| Encanador                     | Valdomiro                        |                          | 19  | 9.9715.1464       | Bruno/eng.du2M                            | bom                                |
+| Encanador                     | Wagner                           |                          | 19  | 9.8289.2852       | Silvania /Sara 9.4309.0866                |                                    |
+| Encanador Banheira            | Prettyjet                        | Eduardo                  | 19  | 9.6118.4649       | Eng. DU 9.9774.3011                       | bom                                |
+| Encanador caça vazam.         | Nelson                           | Piscina                  | 19  | 9.9336.5228       | Michela  9.8595.2626                      | Elogiado honesto                   |
+| Encanador Vazamentos          | Leak Inspection                  |                          | 19  | 9.9193.6965       | 9.8155.8081 patricia                      |                                    |
+| Encanador/Eletricista         | Ailton                           |                          | 19  | 9.7418 8185       | Mauricio Obra esquina 2M                  |                                    |
+| Encanador/Eletricista         | Carlos                           | 9.8970.8819              | 19  | 9.9239.7490       | Bianca L 2M                               |                                    |
+| Energia solar                 | Eco Solari fotovoltaica          | Ronaldo Pepi             | 19  | 9.9837.0990       | 9.9783.043 2M                             |                                    |
+| Energia solar                 | Energy Brasil Salto              | Anderson Inácio          | 11  | 9.3344.2554       | ? 9.9783..0143                            |                                    |
+| Energia Solar                 | Evolution Solar                  | Eduardo                  | 16  | 9.9768.2703       | Gentil 2M                                 | Super top                          |
+| Energia solar                 | I9                               | Flavio Abreu             | 19  | 9.5438.1919       | Alexandre 2M                              |                                    |
+| Energia solar                 | Indasol                          | Ricardo                  | 19  | 9.9184.1308       | Lucas 2M                                  |                                    |
+| Energia solar                 | Sole Max aquecedor               | Fernando                 | 19  | 9.9660.1477       | Ferrari 2M                                |                                    |
+| Energia solar                 | Vettor fotovoltaica              |                          | 19  | 9.8358.0744       | Daniel 2M                                 |                                    |
+| Energia solar Eletricista     | Michel Tabarini                  |                          | 19  | 9.7150.1618       | Marcelo 2M                                |                                    |
+| Energia solar/Aquecedor       | Hidroluz fotovoltaico            | Reginaldo                | 19  | 9.9186.1547       | José 9.4772.6758                          |                                    |
+| Engenheiro obra               | Eduardo Tonin                    | Aprovação 3875.6000      | 19  | 9.9774.3011       | Felipe /Jonny  9.8848.5418                | Morador/É Top Candelária, 1334     |
+| Esporte natação               | Gaivota                          |                          |     |                   | Bruno F 9.9847.4346                       | Acesso fácil Filha Gosta           |
+| Esporte natação               | Performance                      |                          |     |                   | Gabriela 9.9222.5526                      | Filhas adoravam                    |
+| Faz tudo                      | Donda                            |                          | 19  | 9.8876.1339       | Monyse 9.9289.0195                        |                                    |
+| Festa  barracas               | Bela Festa                       | Barraca pipoca e etc     | 19  | 9.9309.8667       | Thais 9.9122.9999                         |                                    |
+| Festa  Eventos                | Tiago Churrasco                  |                          | 19  | 9.9757.7471       | Sergio 9.8179.2121                        |                                    |
+| Festa  Eventos Buffet         | Moraes Eventos                   | Alexandre                | 19  | 9.9733.9985       | Luiz W. 9.9177.0371                       | Fez Churrasco                      |
+| Festa  locação chácara        | Chácara                          | Monyse                   | 19  | 9.9289.0195       | Silvania Sampaio 9.9542.4887              |                                    |
+| Festa  locação chácara        | Chácara Viracopos                | Sara                     | 19  | 9.8299.7188       | Sara 9.4309.0866                          | limpinho                           |
+| Festa  locação chácara        | Chácarado juka.com               | Juka-Indaiatuba@         | 19  |                   | Monyse Barche..9.9289.0195                |                                    |
+| Festa  locação chácara        | Suely Scalf                      | 3894.8489                | 19  | 9.9779.2276       | Bernadete 9.9177.0378                     |                                    |
+| Festas Buffet                 | Crepe                            |                          | 19  | 99300.6755        | Sideneia 2M                               |                                    |
+| Floricultura                  | Officine Decor                   |                          | 19  | 9.9832.0396       | Silvani..9.9542.4887                      |                                    |
+| Gás entrega                   | Cassio Calonga                   |                          | 19  | 3875.2912         | Monys.. 9.9289.0195                       | Empresa antiga                     |
+| Gás entrega                   | Conceição Gás                    | 3894.6444                | 19  |                   | Silvania 99542.4887                       |                                    |
+| Gás entrega                   | Ultragaz                         | 3834.7855                | 19  | 9.9387.6523       | Daniela 9.9720.6177                       |                                    |
+| Gás entrega                   | Ultragaz Élcio                   | 9.8180.7150              | 19  | 9.8367.2811       | Andreia Sindica                           |                                    |
+| Gás Instalação                | MB Eletro                        | Marco                    | 19  | 9.7405.4256       | Homero 119.5385.0202                      | Gostei  outros serviços tb         |
+| Gás instalação                | Paulo Cezar Ferrar               |                          | 19  | 9.9111.2126       | Gentil/Eng DU/thais 9.8291.4949           | Muito Bom                          |
+| Gás instalação/vazam          | Bull Fogões                      | Reginaldo                | 19  | 9.9161.5772       | Tha 9.8291.4949                           |                                    |
+| Impermeabilização             | VR                               |                          | 19  |                   | Felipe 9.9720.6177                        |                                    |
+| Informática                   | Adiel                            |                          | 19  | 9.9249.9594       | Maria D 2m /Sergio C                      |                                    |
+| Informática                   | balaoindaiatuba.com.br           | Balão Informática        | 19  | 9.8281.6460       | Graziella 9.8363.3801                     | Gosto Muito                        |
+| Informática                   | Carlos rede e internet           |                          | 11  | 9.9897.0194       | Cassio 9.8232.6561                        |                                    |
+| Informática                   | Cezar RS Serviços Bruce          |                          | 19  | 9.6253.3532       | Thais 9.8270.2994                         |                                    |
+| Informática                   | Infoexpert                       | Rodinei /Tania           | 19  | 9.9116.4395       | Luiz Fer 2M                               |                                    |
+| Informática                   | Jeferson Continental             |                          | 19  | 9.8114.1175       | Bruno F 9.9847.4346                       | Fez p/ muitos no 2Marias           |
+| Informática                   | Ricardo Lucio Caramma            | Infotech                 | 19  | 9.9715.6920       | Gentil P 9.9304.7680                      |                                    |
+| Informática                   | Safety TI                        | Junior                   | 19  | 9.9931.7334       | Fernandes 2M                              |                                    |
+| Informática e Câmeras         | Uil Marcondes redes              | Marcondes sistemas       | 19  | 9.9902.0595       | Felipe                                    |                                    |
+| Informática Manutenção        | Conserto Notebook                | Jeferson Continental     | 19  | 9.8114.1175       | Bruno F 99847.4346                        |                                    |
+| Internet  provedor            | AR Telecom fibra ótica           |                          | 19  | 3656.1736         | Marcia 2M                                 |                                    |
+| Internet  provedor radio      | American Net                     | André                    | 19  | 9.9710.3010       | Fabio2M                                   |                                    |
+| Internet  técnico             | William                          |                          | 19  | 9.7160.2845       | Patrícia 9.8155.8081                      | É técnico da vivo e faz outros     |
+| Internet provedor             | Claudete Vivo Fibra              |                          | 19  | 9.9660.3159       | Felipe 2M                                 |                                    |
+| Internet provedor             | Julia  Vivo                      |                          | 19  |                   | Rute SP 19 9.8306.9292                    |                                    |
+| Internet provedor             | Thais vivo                       | Vivo 10315               | 19  | 9.7423.3582       | Sandro 2M                                 |                                    |
+| Internet técnico              | Fernando Connecta                | 2516.3605                | 19  | 9.7406.6462       | Nori 9.9602.1039/Eng.Du9.9774.3011        | /Ótimo                             |
+| Internet Técnico              | Junior Safetyi TI                |                          | 19  | 9.9931.7334       | Fernandes 031 9136.0575                   | É ótimo                            |
+| Internet Vivo  melhorar sinal | Dicas baixar App                 |                          | 19  | 10315             |                                           |                                    |
+| Irrigação                     | Bruno filho/Jarbas pai           | 3544.4781                | 19  | 9.7407.8542       | Bruna 9.9609.0180                         | competentes                        |
+| Jardinagem                    | J1Paisagismo                     | Jacson                   | 19  | 9.7419.5470       | Francine 2M                               | Satisfeita                         |
+| Jardinagem                    | Jardim Pauligramas               |                          | 19  | 9.9118.3014       | Dennys 9.9800.9298                        |                                    |
+| Jardinagem                    | Marcos                           |                          | 19  | 9.8743.1126       | ?                                         | Muito bom                          |
+| Jardinagem                    | Pedro R. Tomaz                   |                          | 19  | 9.9703.5393       | Margaret 9.9118.6849                      | Dedicado e entendido               |
+| Jardinagem                    | Silas Palmeiras                  |                          | 19  | 9.7417.7644       | Maria D9.99688.6234                       |                                    |
+| Jardinagem                    | www.I9tekh.com.br                | Jacson                   | 19  |                   | Gabriela 9.922.5526                       | Satisfeita                         |
+| Jardinagem /Paisagismo        | Leo Pé de Café                   |                          | 19  | 9.9668.3278       | Margaret 9.9118.6849                      |                                    |
+| Jardinagem /Paisagismo        | Riqueza Jardinagem               |                          | 19  | 9.9609.6347       | 9.8777.7276                               |                                    |
+| Jardinagem /Paisagismo        | Século Verde                     |                          | 19  | 9.9968.9092       | MIh ba ...9.8131.2824                     |                                    |
+| Jardinagem /Paisagismo        | Terra Viva                       | Eric                     | 19  | 9.9495.9781       | Thais                                     |                                    |
+| Jardinagem Plantas            | Orquidário das Pedras            | Ana Perto Swift          | 19  | 9.8821.9074       | Thais 9.9221.3439                         |                                    |
+| Jardinagem Poda               | Luiz Henrique                    |                          | 19  | 9.9552.1215       | Homero 11 9.53850202                      | Top                                |
+| Jardineiro                    | Celso                            |                          | 19  | 9.9798.0120       | Bia Pas /Mariusa/Marcia/Milena MI         | Confiável/Ótimo                    |
+| Jardineiro                    | Daniel                           |                          | 19  | 9.8233.2040       | Thais 9.8270.2994                         |                                    |
+| Jardineiro                    | Felipe                           |                          | 19  | 9.7111.7860       | Monyse 9.9983.0398                        |                                    |
+| Jardineiro                    | Gelson                           |                          | 19  | 9.9615.4997       | Monyse 9.9289.0195/Eng.DU9.9774.3011      |                                    |
+| Jardineiro                    | Genilson                         |                          | 19  |                   | Margaret 9.9118.6849                      | Lord gentil profissional           |
+| Jardineiro                    | Jailson ou José?                 |                          | 19  | 9.7410.9467       | Thais /Marcelo 9.9701.3010                | houve não recomendação             |
+| Jardineiro                    | José                             |                          | 19  | 9.9175.2220       | Marcelo 2M / Jaime                        | Competente                         |
+| Jardineiro                    | Jose Bento                       | Mata formigas etc        | 19  | 9.9271.8298       | Tha 9.8270.2994/Pri9.95550.2121           | Cuidadoso amor de pessoa           |
+| Jardineiro                    | Marcos                           |                          | 19  | 9.8743.1126       | Marcelo 2M/9.9783.0143                    | /Justo e cuidadoso                 |
+| Jardineiro                    | Mizael                           |                          | 19  | 9.8604.9303       | Customi... 9.9155.2731                    | Ótimo gosto muito                  |
+| Jardineiro/Paisagismo         | //instagram.com/nino. Paisagismo | ?utm._medium=copy_link   | 19  | 9.9615.4997       | Monyse 9.9289.0195/Eng.DU9.9774.3011      |                                    |
+| Lavanderia                    | ?                                |                          | 19  | 9.8449.7169       | Marcelo 2M                                |                                    |
+| Lavanderia                    | ?                                |                          | 19  | 9.8449.7169       | Daniela 9.9638.1424/Silvania 9.9542.4887  | Gostei muito preço excel.          |
+| Lavanderia                    | 5 a sec                          | Rosa                     | 19  | 9.9462.9561       | Bruna 9.9609.0180                         |                                    |
+| Lavanderia                    | Adelaide                         |                          | 19  | 9.9763.2829       | Andreia Sindica                           |                                    |
+| Lavanderia                    | Dryclean                         |                          | 19  | 3834.6111         | Daniela 9.9638.1424/Silvania 9.9542.4887  | Gostei muito preço excel.          |
+| Lavanderia  tapetes           | Silvia                           |                          | 19  | 9.9341.9181       | Mariusa 31 9136.0059                      |                                    |
+| Lavanderia cortinas           | Adelaide                         |                          | 19  | 9.9763.2829       | Gabriela 9.9222.5526                      |                                    |
+| Lavanderia cortinas           | Fernanda Decor                   |                          | 19  | 9.9340.3214       | Alexandre                                 | 9.7298.5432                        |
+| Lavanderia sofás/tapete       | Lavanderia Indaiá                |                          | 19  | 9.8449.7169       | Marcelo9.9701.3010                        |                                    |
+| Limpeza                       | ?                                |                          | 19  | 9.8747.2476       | Juliana9.9656.3854                        | Ótima confiança                    |
+| Limpeza                       | Rodrigo                          |                          | 19  | 9.8275.3828       | Jose 94772.6758                           |                                    |
+| Limpeza  tapete/sofá)         | Douglas                          |                          | 19  | 9.8721.1032       | THA 9.8270.2994                           |                                    |
+| Limpeza casa e pós obra       | Carla Bianca                     |                          | 19  | 9.0232.0325       | Elaine 9.8355.0284                        |                                    |
+| Limpeza Dedetização           | DDMAX                            |                          | 19  | 9.9606.5314       | 9.9392.5216vanessa                        |                                    |
+| Limpeza Diarista pós obra     | Vania                            | 9.9172.5607              | 19  | 9.8907.7349       | Felipe                                    | Limpa bem parte pesada             |
+| Limpeza Fornece Produtos      | João Pai do Anderson             | 3834.7896                | 19  | 9.9477.5223       | Elaine 9.8355.0284                        |                                    |
+| Limpeza geral industrial      | Esterelimp                       | Cristian                 | 19  | 9.8719.3408       | Lucas 2M                                  | Muito bom                          |
+| Limpeza piso Fulget           | Silvio                           |                          | 19  | 9.5424.5970       | Rosa 9.8135.0175                          |                                    |
+| Limpeza pós obra              | Irmãos                           | 9.9663.1652              | 19  | 9.98273484        | Graziella 9.8181.5070                     |                                    |
+| Limpeza pós obra              | Lucimar Limpa Fulget etc         | 9.7102.5395              | 19  | 9.9348.6654       | 9.9289.0195                               |                                    |
+| Limpeza pós obra              | Mara                             |                          | 19  | 9.8345.2677       | Elaine 9.8355.0284                        |                                    |
+| Limpeza pós obra              | NGa Carina                       | 9.9448.8558              | 19  | 9.9190.0039       | Andreia Sindica                           |                                    |
+| Limpeza pós obra              | Unic Pós Obra                    | Armando                  | 19  | 9.8878..0205      | Marga...9.9118.6849                       |                                    |
+| Limpeza pós obra              | Valdirene                        |                          | 19  | 9.9975.5181       | Marcelo 9.9701.3010                       |                                    |
+| Limpeza sofás                 | Alemão                           |                          | 19  | 9.8943.7286       | Gabriela9.9222.5526                       |                                    |
+| Limpeza sofás                 | Multi Clean                      |                          | 19  | 9.9914.7585       | Elaine Mônaco 9.8355.0284                 |                                    |
+| Limpeza sofás                 | Sofá Limpo                       |                          | 19  | 9.7111.8400       | Thais P 9.9122.9999                       |                                    |
+| Limpeza sofás /estofados      | Silvia  Impermeabiliza           |                          | 19  | 9.9341.9181       | Gabriela9.9222.5526/Graziella 9.8363.3801 |                                    |
+| Limpeza sofás colchão         | Jesus                            |                          | 19  | 9.9920.4015       | Vanessa 9.9392.5216                       | Impressionada perfeito             |
+| Limpeza Sofás Cortinas        | All Clean Sofás                  | Edson                    | 19  | 9.9655.3603       | Tha 9.8270.2994                           |                                    |
+| Limpeza sofás e outros        | Higienização (colchões)          | Marcio Firmino           | 19  | 9.8953.6720       | Mariliz..9.8819.0087                      |                                    |
+| Limpeza Tapete                | João Natany                      | Silvia                   | 19  | 9.8350.3965       | Valdete 9.9390.4764                       | Não conhece                        |
+| Limpeza Tapete                | Poli Higienização                | Silvia                   | 19  | 9.9341.9181       | Mariusa 2m Monyse9.9289.0195              | Gostei muito                       |
+| Limpeza tapete/ sofá          | Rodrigo Prado Machado            |                          | 19  | 9.7412.0380       | Michela 9.8595.2626                       |                                    |
+| Limpeza tapete/sofá           | Antônio Piconi                   |                          | 19  | 9.9732.1249       | Andreia Sindica                           |                                    |
+| Limpeza tapete/sofá           | Poli Limpeza Estofados           |                          | 19  | 9.9341.9181       | Valéria 9.8162.6106/Monyse                |                                    |
+| Limpeza Tapete/sofá           | Rosana                           | 3936.2969                | 19  | 9.9991.5017       | Graziella 9.8181.5070                     | Cadeiras super indico              |
+| Limpeza Vidros                | Dona Resolve                     |                          | 19  | 9.7407.0228       | Customi 9.9155.2731 /Monyse 99289.0195    | Maria                              |
+| Limpeza Vidros                | Ecolimp pós obra                 | Ricardo                  | 19  | 9.8900.3973       | Valéria 9.8162.6106/Juliana 9.9656.3854   |                                    |
+| Limpeza Vidros                | Lex/Adriana                      | 9.9638.9940              | 19  | 9.9934.9940       | Silvania 9.9542.4887                      |                                    |
+| Limpeza Vidros                | Qbom Limpezas                    | Adrianao e Alex          | 19  | 9.9934.9940       | Marcelo .9701.3010/Bruna/Monyse           | Criss não recomenda                |
+| Locação Salas                 | Espaço Viana                     | Memeh coworking          | 19  | 9.9155.8624       | Lilian Fo 2M                              |                                    |
+| Lumino-tecnico projeto        | Allan Toledo                     |                          | 19  | 9.9526.0077       | Jonny 9.8848.5418                         |                                    |
+| Lumino-tecnico projeto        | Cris                             | 17 3343.3597             | 17  | 9.9627.2010       | Eng DU 9.9431.0001                        |                                    |
+| Lumino-tecnico projeto        | Luzion Rosany                    | 9.8396.1600              | 19  | 9.8844.0159       | Margaret9.9118.6849                       |                                    |
+| Madeireira Portas             | Fenix (phenix)                   |                          | 19  |                   | Wilson                                    |                                    |
+| Madeireira Portas             | Madelaska                        | Junior                   | 19  | 9.9293.6994       | Renato 9.9148.3322                        |                                    |
+| Marcenaria                    | 3 irmãos  Bruno                  | Marcenaria Rustica       | 14  | 9.9627.5409       | Graziella Budacs 9.7829.1699              | Capricho rápido preço justo        |
+| Marcenaria                    | Casa do marceneiro Al.Com        | Dr.Santoto Mirone,830    | 19  | 9.9341.3737       | Mariusa 2M/ GUI /Cassio                   | De primeira                        |
+| Marcenaria                    | Cia da Madeira                   |                          | 19  | 9.9341.3737       | Mariusa 2M/ GUI /Cassio                   | De primeira                        |
+| Marcenaria                    | Imperial                         | Amilton                  | 19  | 9.9108.6665       | Thais                                     |                                    |
+| Marcenaria                    | Maluna móveis                    | Ilson do Carmo           | 19  | 9.9793.5005       | Thais 9.8270.2994                         |                                    |
+| Marcenaria                    | Sátiro                           |                          | 19  |                   | Fabiana 2M                                |                                    |
+| Marcenaria assoalhos          | Fabio Rodrigues                  |                          | 19  | 9.9292.4435       | Silvania 9.9542.4887/Gentil/Marg          | Top recomendo                      |
+| Marceneiro                    | Alan Paciente                    |                          | 19  | 9.9266.1213       | Patrícia 9.8155.8081                      |                                    |
+| Marceneiro                    | Edson Fabiano Piemon             |                          | 19  | 9.5398.5696       | Marcelo 2M                                |                                    |
+| Marceneiro                    | Fábio Assoalhos                  |                          | 19  | 9.9292.4435       | Gentil/Margaretti Silvan..99542.4887      | Ótimo                              |
+| Marceneiro                    | Ricardo                          |                          | 19  | 9.3310.0310       | Airton D 9.9894.7271                      |                                    |
+| Marceneiro                    | Valdir                           | 9.9860.8978              | 19  | 9.9860.8978       | Tiago 9.9196.9140                         | Confiança                          |
+| Marceneiro                    | Xavier Marcenaria                |                          | 19  | 9.9714.4717       | Gentil 2m                                 |                                    |
+| Marceneiro / Carpinteiro      | Romildo forro madeira            |                          | 19  | 9.9233.7839       | Gentil 9.9304.7680                        | Top                                |
+| Marceneiro /Carpinteiro       | Cia da Madeira                   | Adriana Tampa Piscina    | 19  | 9.9341.3737       | Leo 9.8915.5436                           | Recomendo alta qualidade           |
+| Marmoraria                    | 2 Irmãos                         |                          | 19  |                   | Nori 2M                                   |                                    |
+| Marmoraria                    | André                            |                          | 19  | 9.7402.9533       | Margare 9.9118.6849                       | Excelente                          |
+| Marmoraria                    | Faby                             |                          | 19  | 9.9122.4187       | Daniela 9.9638.1424                       |                                    |
+| Marmoraria                    | Geraldini                        | André                    | 19  | 9.7402.9553       | Renato Margaret 9.9118.6849               |                                    |
+| Marmoraria                    | Gustavo Brigu                    |                          | 19  | 9.9194.3844       | Johnny 9.8848.5418                        |                                    |
+| Marmoraria                    | Indaiart                         | André                    | 19  | 9.7402.9533       | Margare 9.9118.6849                       | Excelente                          |
+| Marmoraria                    | Irmãos Antunes                   |                          | 19  | 9.8160.0232       | Tha 9.82702994                            |                                    |
+| Marmoraria                    | Rafael Mármore                   |                          | 19  | 9.8181.0515       | Marcia 9.9186.2225                        |                                    |
+| Marmoraria                    | Toque de Classe                  | Nubia/luiz               | 19  | 9.9544.5960       | Osmar 9.9910.8010                         |                                    |
+| Marmoraria                    | Vitoria                          | Fernanda 3935.6150       | 19  | 9.9838.3259       | Wilson/ Homero/Thais/Renan                | André=Top                          |
+| Massagista                    | Beth                             |                          | 19  | 9.8195.0110       | Nori 2M                                   |                                    |
+| Massagista                    | Roberto                          | 9.9902.7490              | 19  | 9.9714.2750       | Júlio 2m (vizinho Frente)                 |                                    |
+| Material elétrico fios        | Vitor matérias elétricos         |                          | 19  | 9.9341.3737       | Bruno 9.9289.3700                         |                                    |
+| Médico                        | Dr. Natalie Cavalcante           |                          | 19  |                   |                                           |                                    |
+| Médico  Clinico Geral         | Thais Wilmers Dra                |                          | 19  | 9.9830.4366       | Heloisa/Isabel C 9.8187.1455              | Excelente                          |
+| Médico /Fisioterapeuta        | Aline Stein                      | Crossfit Fratelli        | 19  | 9.9171..4805      | Bia Pa... 9.81814.9639                    |                                    |
+| Médico /Fisioterapeuta        | Ama Pilates e estética           |                          | 19  | 9.9470.9848       | Nori9.9602.1039                           |  Amamos                            |
+| Médico /Fisioterapeuta        | Ana Salomão                      | 9.9910.8010              | 19  | 9.948.2072        | Maria D 9.8163.6224/Osmar R               |  Amamos                            |
+| Médico /Fisioterapeuta        | Fatima Gianco                    | Quiropraxia              | 19  | 9.9100.9553       | Gentil 9.9304.7680                        |  no prumo Atende em americana      |
+| Médico /Fisioterapeuta        | FisioPop                         | Elenice                  | 19  | 9.9856.4748       | Milena Mi 31 9136.0208?                   | Ótima Maravilhosa                  |
+| Médico /Fisioterapeuta        | Lucas  Pilates                   |                          | 19  | 9.9863.8879       | Marga... 9.9118.6849                      |                                    |
+| Médico /Fisioterapeuta        | Malu                             | Vila Suíça               | 19  | 9.9128.1211       | Patrícia 9.8155.8081                      | Ótima                              |
+| Médico /Fisioterapeuta        | Maria Fernanda                   | Fisio Osteopata          | 19  | 9.8221.5665       | Thais P 9.9122.9999                       | Excelente                          |
+| Médico /Fisioterapeuta        | Rafaela Terapeuta colun          |                          | 35  | 8411.6374         | Margaret9118.6849                         | Excelente                          |
+| Médico /Fisioterapeuta        | Raquel Pilates                   |                          | 19  | 9.9109.4585       | Graziella 9.8363.3801                     | Ótima                              |
+| Médico /Fisioterapeuta        | Rosa                             | Quiropraxia              | 19  | 9.9203.9371       | Mariusa 31 9136.0059                      |                                    |
+| Médico /Fisioterapeuta        | Stifter  atende sul américa      | 38752523                 | 19  | 9.9280.9594       | Bernadete 9.9177.0378                     |                                    |
+| Médico /Fisioterapeuta        | Thales Villanova                 | Quiropraxia              | 19  | 9.9838.6646       | Marcia Gentil  9.9304.7680                | É bom!                             |
+| Médico Acupuntura             |                                  |                          | 19  | 9.9662.3390       | Daniela 2M                                |                                    |
+| Médico Acupuntura             |                                  | Joyce                    | 19  | 9.9768.4981       | Nori 2M                                   |                                    |
+| Médico Acupuntura             | Fabi                             |                          | 19  | 9.9293.9704       | Bia Pas 9.8181.9639                       |                                    |
+| Médico Acupuntura             | Isis                             |                          | 19  | 9.9955.6214       | Tha 9.8270.2994                           | Não vai se arrepender              |
+| Médico Acupuntura             | Leve Saúde e Bem Estar           | Erika                    | 19  |                   | Ana Paula 2M                              |                                    |
+| Medico Cardiologista          | Clinica Batistuci                |  Batistuci Dra.          | 19  | 3801.3812         | Mariana 9.9700.2602                       | Excelente                          |
+| Medico Cardiologista          | Clinica Pro Cárdio               |                          |     |                   | Wagner 9.8413.6555                        |                                    |
+| Médico Cardiologista          | CardioCenter                     | Dr. Paulo Vinicius       | 19  | 9.7600.0051       | Bianca L 9.9714.4609                      |                                    |
+| Médico Cir. Plástico          | Carlos Scarfon                   | Campinas                 | 11  | 9.8825.1515       | Fabiana 9.7109.5363                       |                                    |
+| Médico Dermatologista         | Alittá Clinique                  | Dra Thais Bradesco       | 19  | 3318.0313         | Ari 9.9826.3500                           |                                    |
+| Médico Dermatologista         | Clinica Vitessi                  | Dra Carolina             | 19  | 3834.93           | Nori 9.9602.1039                          |                                    |
+| Médico Dermatologista         | Dra.  Fernanda Furlanetti        | 9.9171.7782              | 19  | 9.8976.3577       | Graziella 9.8363.3801/thais9.9221.3439    | Bom/ótima e´perto                  |
+| Médico Dermatologista         | Elemir DR.                       | Campinas?                | 19  | 3262.0656         | Silvania 9.9542.4887                      |                                    |
+| Médico Dermatologista         | Emir Rogerio Oliveira Dr.        | 3875.9935                | 19  | 9.8968.5100       | Gentil 9.9304.7680/Luiz Fer               | Top/Patrícia é ótimo               |
+| Médico Dermatologista         | Juricema Perrony Dra.            | 3329.27                  | 19  | 9.7419.1739       | 9.7109.5363/Joyce 9.9983.9019             | Torre medical                      |
+| Médico Dermatologista         | Reinaldo Cekannauskas Dr.        |                          | 19  |                   | Sandra 9.9984.7799/Cris9.9760.1290        |                                    |
+| Médico Dermatologista         | Reinaldo Dr.                     | R.Pedro Gonçalves 429    | 19  | ?3834.5046        | Gabriela 9.9222.5526                      |                                    |
+| Médico Drenagem Linfati       | Joana Blank /Mariana             | 9.9436.0427              | 19  | 9.74192849        | Thais 9.8270..2994                        |                                    |
+| Médico Drenagem Linfati       | Ravazzi Estética Humaniz         | Livia                    | 19  | 9.9999.2804       | Dra Patricia MB.. 9.8155.8081             | Top                                |
+| Médico Endócrino              | Lygia Delboni Marches            |                          | 19  | 3392.7524         | Bernadete 2M                              | Excelente                          |
+| Médico Fisioterapia           | Ana Paula Haidamus               |                          | 19  | 9.9662.4761       | Daniela 9.9638.1424                       | Moradora?                          |
+| Médico Gastro                 | CCat Jaqueline                   | Dr. Lincoln              | 19  | 9.9737.0101       | Leo 9.8915.5436                           | É fera  me ajudou                  |
+| Médico Gastro                 | Hosp. Vera Cruz /São Camilo      | Dra Aline /Dr. Augus     | 19  |                   | Beti 9.9976.4748/Andre9.8202.2062         |                                    |
+| Médico Ginecologista          | Alexandre Rossani Dr.            | Torre medical            | 19  |                   | Tha 9.8291.4949                           |                                    |
+| Médico Ginecologista          | Cassio Campinas Dr.              | Vera Cruz /Maternidade   | 19  | 9.7412.3316       | Sindica                                   | Competente                         |
+| Médico Ginecologista          | Centro Otorrino/Ofalmo           | Dra Andrea Moura         | 19  | 9.7153.7709       | Thais P 9.9122.9999                       |                                    |
+| Médico Ginecologista          | Mmonica Martins Dra.             |                          | 19  |                   | Margaret 9.9118.6849                      | Competente                         |
+| Medico Massag. SPA            | buddhaspa.com.br                 | Cerqueira César 300      | 19  | 9.9806.3040       | Criss 9.9760.1290/Bruna 9.9609.0180       | Danielle Moradora/adoro top        |
+| Médico Massagem               | Bete Massagem                    | Elizabeth                | 19  | 9.8195.0110       | Nori 2M                                   |                                    |
+| Medico Massoterapeuta         | Leve Saúde                       | Rua Xingu  138           | 19  |                   | Ana Paula 9. 9662.4761                    |                                    |
+| Médico Nefrologia             | Marcelo Pinelli                  | Av. Fabio Ferraz Bi      | 19  | 3318.2928         | Bernadete/Nádia H 2M                      | Detalhista                         |
+| Médico Neuro                  | Andreia C. Pires                 |                          | 19  | ?9.8199.9121      | Sara 2M/ Renata                           |                                    |
+| Médico Neuro                  | Clinica Candelária               | Daniel                   | 19  |                   | Patrícia                                  |                                    |
+| Médico Neuro                  | Gilmar G Telas                   |                          | 19  | 9.9449.1033       | Silvanete/Andreia Sindica  2M             |                                    |
+| Médico Neuro Pediatra         | Maria Luiza Ardinghi             | campinas                 | 19  | 9.9143.786        | Gabriela 2M/Luciane                       |                                    |
+| Médico Nutróloga              | Campinas 9.8184.6655             | Dra.  Flávia Manbrini    | 19  | 9.8404.0203       | Ferrari 2M                                |                                    |
+| Médico Nutrólogo              | Medicina integrativa             | Lincoln Hashimoto        | 19  | ?9.9976.4748      | Beti 2M                                   |                                    |
+| Medico Oftalmol.              | Jarbas/José márcio/Gabriela Drs. |                          | 19  |                   | Osmar Ribeira 9.9910.8010                 |                                    |
+| Medico Oftalmol.              | Osmar Morador                    |                          | 19  | 9.9910.8010       | Graziela 2M                               |                                    |
+| Médico Oftalmol.              |  Laercio Mitsuaki Dr.            |                          | 19  | 3834.3948         | Michela 2M                                | Top                                |
+| Medico Ortopedista            | Cirurgião Cliniti.com.br         | Raphael Netto            | 11  | 9.9760.6135       | Criss 9. 9760.1290                        |                                    |
+| Médico Ortopedista            | Axcar.com.br                     |                          | 19  |                   | Eng. Edu 2M                               |                                    |
+| Médico Ortopedista            | Carlos Matos cirurgião           | Campinas                 | 19  | 9.9959..9137      | Daniel 9.7353..9192                       | Operou o filho                     |
+| Médico Ortopedista            | Domingues Ordem Pro              |                          | 19  | 9.9697.3088       | Gentil 2M                                 | Gostou                             |
+| Médico Ortopedista            | Ortolife Rafael Barnal           |                          | 19  | 9.972.3038        | Gentil /Mariusa 31 9136.0059              |                                    |
+| Médico Ortopedista            | Ricardo Lara Campos              |                          | 19  | 3894;5568         | Eng. Edu 2M                               | otimo                              |
+| Médico Ortopedista            | Rubens Martinhão Dr.             |                          | 19  |                   | Dra. Patrícia M B 9.8155.8081             |                                    |
+| Médico osteopata              | André                            |                          | 19  | 9.8217.7229       | Beti 9.9976.4748                          | Muito bom                          |
+| Médico osteopata              | Daniel Paduan                    |                          | 19  | 9.9888 1817       | Gentil /alan 9.9144.9475                  | Afianço                            |
+| Médico osteopata              | Erica Acupuntura Dra             |                          | 19  | 9.7120.4011       | Tha.. 9.8270.2994                         | Afianço                            |
+| Médico Otorrino               | Américo 3017.0640 Dr.            | R. Tuiuti, 752 C.Nova    | 19  | ?9.9826.3500      | Gabriela 9.9222.5526                      |                                    |
+| Médico Otorrino               | Carlos Guidi Dr.                 |                          | 19  | 9.8423.7775       | Michela 9.8595.2626/Mariana               | Muito bom                          |
+| Médico Otorrino               | Edilson Zancanella Dr.           | Núcleo Persono           | 19  | 9.9620.5599       | Andreia Bergamo 2M                        | Professor Unicamp                  |
+| Médico Otorrino               |  Frederico Dr.                   | Núcleo Persono           | 19  |                   | Dra. Patrícia M B 9.8155.8081             |                                    |
+| Médico Otorrino               | Frederico/Américo Drs.           | Núcleo Persono           | 19  | 3875.5599         | Dra. Patrícia M B 9.8155.8081             | Américo Otimo(Thais)               |
+| Médico Otorrino               | Gui (Wilson) Dr.                 |                          | 19  | 9.9795.4002       | Bruno F 9.9976.4748/sindica               |                                    |
+| Médico Otorrino               | Hednaldo Bastos Dr.              |                          | 19  |                   | Thais 9.8270.2994                         |                                    |
+| Médico Otorrino               | Pró Medica Dra. Ilana            | 9.9406.2626              | 19  | 9.7415.1890       | Bruna 9.9609.0180                         | Adoro                              |
+| Medico Pediatra               | Ana E. Wagner                    | Medical                  | 19  | 9.9889.1303       | Dra. Patrícia 9.8155.8081 e outros        | Excelente                          |
+| Medico Pediatra               | Juliana Loureiro Dra.            |                          | 19  | 9.8998.8213       | Thais 9.9122.9999                         | Humana, excelente                  |
+| Medico Pilates                | Débora                           |                          | 19  | 9.8162.3568       | Margaret 9.9118.6849                      | Ótima                              |
+| Medico Pilates                | Espaço zen                       | Juliana                  | 19  | 9.9678.5936       | Luiz M 9.9862.4678                        |                                    |
+| Medico Pilates                | Pro Evolution                    |                          |     |                   | Renata 2M                                 |                                    |
+| Médico Pilates                | Ama Pilates                      |                          | 19  | 9.9470.9848       | Nori 9.9602.1039                          |                                    |
+| Médico Pilates                | Ana Salomão                      |                          | 19  | 9.9948.2072       | Maria 98163.6224/Osmar                    | Ótima                              |
+| Médico Pilates                | Débora                           | Débora                   | 91  | 8162.3568         | Margaret                                  |                                    |
+| Médico Pilates                | Endy Pilates                     |                          | 19  | 9.9482.7197       | Andreia Sindica                           | Maravilhosa Tudo Novo              |
+| Médico Pilates                | Pilates Zen                      | Juliana                  | 19  | 9.9678.5936       | Luiz Ma 2M                                |                                    |
+| Médico Pilates                | Priscila Pazelli                 | Pri                      | 19  | 9.7541.3838       | Bianca L 2M                               |                                    |
+| Médico Pilates                | Raquel Fisio e Pilates           | Raquel                   | 19  | 9.9109.4585       | Graziella 2M 9.8363.3801                  |                                    |
+| Médico Pneumologista          | Aurélio Dr.                      | Campinas                 | 19  | 9.9106.4882       | Thais P 9.9122.9999                       | Excelente                          |
+| Médico Pneumologista          | Cliniti Luciane Pneumk           | Dra. Luciane             | 19  | 9.9835.6686       | Mariana 9.9700.2602                       | Excelente                          |
+| Médico Pneumologista          | Conmed Laura Deltregia           | Dr. Deltregia Filha      | 19  | 9.8364.0084       | Gentil 9.9304.7680/Candida/Paulo          | São Ótimos                         |
+| Médico Pneumologista          | Julia Duek                       | Comed clinica            | 19  |                   | Heloisa 9.9830.4366                       | Excelente                          |
+| Médico Pneumologista          | Paulo Deltregia                  | Comed clinica            | 19  |                   | Patrícia 98155.8081/osmar                 | É otimo                            |
+| Medico Proctologista          | Marido Dra. Andrea Moura         |                          |     |                   | Thais  9.9122.9999                        |                                    |
+| Médico Pronto Socorro         | Vera Cruz                        |                          |     |                   |                                           | Ótimo                              |
+| Médico Psiquiatra             | Ápice Medicina                   | Dra. Larriany            | 19  | 9.9726.8575       | Bianca 9.9714.4609                        |                                    |
+| Médico Psiquiatra             | Torre Medical                    | Dr. Marcus Mello         | 19  | 9.9726.8575       | Thais 9.8270.2994                         | Unimed                             |
+| Médico Quiropraxia            | Cavalieri Acupuntura             | Hipnoterapia             | 19  | 3835.5064         | Andreia Sindica/Ana Paula                 | Erika Maravilhosa                  |
+| Médico Reumatol. Coluna       |  Jose Rob. Provenza Dr.          | Cerqueira Cezar,315      | 19  | 3894.5766         | Mariana 2M                                | TOP                                |
+| Médico Urologista             | Carlos Sierra                    | Campinas                 | 19  |                   | Fabiana 9.7109.5363                       |                                    |
+| Médico Urologista             | Gustavo Bordenali                |                          | 19  | 3875.2655         | Andreia/ Eng. Du 9.9774.3011              |                                    |
+| Médico Urologista             | Khaled Ahmed Dr.                 | 3328.3776                | 19  | 9.9250.0468       | Johnny 9.8848.5418                        | É ótimo                            |
+| Médico Urologista             | Thiago Rodrigues                 | Em frente Frans Café     |     |                   | Paulo Vi 9.8203.5994                      |                                    |
+| Médico Vascular               | Stefano                          |                          | 19  | 9.9316.9842       | Mariusa 31 9136.0059                      |                                    |
+| Médico Vascular               | Taís Mori Dra.                   | 3016.5888                | 19  | 9.9943.9492       | Cintia 9.9131.0153                        |                                    |
+| Móveis                        | Design Império                   | Moveis e madeiras        | 19  | 9.9763.0443       | Bruno B 9.9289.3700                       |                                    |
+| Móveis                        | Renova  Mad. Lei                 |                          | 19  |                   | Bruno B 9.9289.3700                       |                                    |
+| Móveis Montador               | Anderson                         |                          | 19  | 9.8938.4999       | Homero 11 9.5385.0202                     | Só horas de folga                  |
+| Móveis Montador               | Ivail                            |                          | 19  | 98,299.45         | Graziella Budacs 9.7829.1699              |                                    |
+| Móveis Montador               | João                             |                          | 19  | 9.8256.3026       | Bianca L 9.9714.4609                      |                                    |
+| Móveis Montador               | Leôncio                          |                          | 19  | 9.8283.9525       | Lilian Fo                                 | Nunca usei                         |
+| Móveis Montador               | Roberto                          | 9.9381.1031              | 19  | 9.9315.3087       | Beti... 9.9976.4748                       |                                    |
+| Móveis Montador               | SOS Home Eduardo                 |                          | 19  | 9.7411.1755       | Bianca Luc... 9.974.4609                  |                                    |
+| Móveis Montador               | Valdir marceneiro                |                          | 19  | 9.9860.8978       | Mariusa 31 9136.0059                      |                                    |
+| Móveis Móveis                 | Decoratto                        | 3894.6688                | 19  | 9.9371.7133       | Homero 11 953850202                       | Excelente                          |
+| Móveis piscina e outros       | Tessaro Home e Garden            | Campinas                 | 19  | 3326.2549         | Bianca Lucchesi 9.9714.4609               |                                    |
+| Moveis Planejados             | Alan Paciente                    |  Ex func. Oliver         | 19  | 9.9266.1213       | Patrícia 9.8155.8081                      | Qualidade e preço justo            |
+| Moveis Planejados             | Antônio                          |                          | 19  | 9.9808.3391       | Rosa 9.8135.0175                          |                                    |
+| Moveis Planejados             | Geniel                           |                          | 19  | 9.5629.3080       | Luciane 9.9988.5399                       | Preços justos super indico         |
+| Moveis Planejados             | Natacha Ochsendorf               |                          | 19  | 9.9123.3667       | Gabriela 9.9222.5526                      | Ficou otimo                        |
+| Moveis Planejados             | Thiago Marceneiro                |                          | 14  | 9.9827.0731       | Silvania 9.9542.4887                      | Prazo Certo                        |
+| Móveis Planejados             | Lumina                           | Zuleika                  | 19  | 9.9429..3511      | Wilson/Homero                             | Recomendamos                       |
+| Móveis Reforma                | Época Reforma                    |                          | 19  | 9.9168.3732       | Marcelo 2m/Osmar 9.9910.8010              | Muito bom e outro não indica       |
+| Móveis Reforma                | Lilian (Cadeiras Mesas)          |                          | 19  | 9.9280.4875       | Nori 9.9602.1039                          | Ótimo Trabalho Sala Jantar         |
+| Móveis Reforma                | Roca                             |                          | 19  |                   | 9.550.2121 Pri                            | Boa                                |
+| Moveis Reforma/ Montag.       | SOS Home Eduardo                 | https://adobe.ly/3m8cztk | 19  | 9.7411.1755       | Silvania 9.9542.4887/Felipe               | show/Fera                          |
+| Musica cantor                 | Dinhinho                         |                          | 19  | 9.9363.2154       | Marcelo9.9701.3110                        | Muito Bom                          |
+| Musica cantor                 | Luik e Rafael                    | Nathan 9.8368.7513       | 19  | 9.9284.4643       | Monyse 9.9289.0195                        | Muito Bom                          |
+| Musica cantor                 | Michel Samba                     |                          | 19  | 9.9158.5951       | Ari 9.4309.0866                           | Muito Bom                          |
+| Nutricionista                 | Alessandra Cavalari              |                          | 19  | 9.9359.1109       | Nori 9.9602.1039                          | É Show                             |
+| Nutricionista                 | Amália Novais                    |                          | 19  | 9.7497.7707       | Silvania 9.9542.4887                      |                                    |
+| Nutricionista                 | Carla Rebouças                   |                          | 19  | 9.8439.7142       | Tha 9.8270.2994                           |                                    |
+| Nutricionista                 | Nutriqualy                       | Tatiana                  | 19  | 9.9283.5476       | Sindica                                   |                                    |
+| Nutricionista ?               | Cris                             |                          | 19  | 9.6997.0007       | Gabriela 9.9222.5526                      |                                    |
+| Obra                          | Homero Victor Scaletti           | 3875.9299                | 19  | 9.9166.3519       | Gentil  2M                                |                                    |
+| Obra Arquiteta                | Fernanda Delgado                 |                          | 19  | 9.7405.3481       | Gláucio /9.8236.5819                      |                                    |
+| Obra Bloquete p/ calcada      | Caio Santa Rita                  |                          | 19  | 9.9289.3442       | Eng. DU 9.9774.3011                       |                                    |
+| Obra Bloquete p/ calcada      | Combloco Claudio                 | 3894.7001                | 19  | 9.9381.9123       | Dennys9.9800.9298                         |                                    |
+| Obra Calculista Engenheiro    | Omicro                           | Fran                     | 19  | 9.8148.6077       | Gentil P 2M                               |                                    |
+| Obra Construtor               | Empreiteira Garcia               | Alexandre Garcia         | 19  | 9.7407.4239       | Gentil 2M                                 |                                    |
+| Obra construtora              | Encelho                          |                          | 19  |                   | Gabriella 9.9222.5526/Sindica/            |                                    |
+| Obra construtora              | Scanton                          |                          | 19  |                   | Margare 9.9118.6849 Eng.DU9.9774.3011     | /Boa empresa                       |
+| Obra Fundação/Sondagem        | HVS                              | Marcela                  | 19  | 9.9104.2739       | Eng. DU 9.9774.3011                       |                                    |
+| Obra Gesso                    | Gabriel                          |                          | 19  | 9.9631.4001       | Sandra 9.9984.7799                        |                                    |
+| Obra Gesso                    | Gilmar                           | Erik Batista             | 19  | 9.7402.0748       | Margare 9.9118.6489/Renato 9.9148.3322    | Muito bom                          |
+| Obra Gesso                    | Ney                              |                          | 19  | 9.9741.1173       | Silvania  9.95425.4887 Tha9.8270.2994     |                                    |
+| Obra Gesso                    | Reginaldo                        |                          | 19  | 9.8255.2602       | Margaret 9.9118.6849                      | Muito bom                          |
+| Obra Gesso                    | Ucélio                           |                          | 19  | 9.7141.1046       | Luciane 9.9988.5399                       |                                    |
+| Obra Gesso                    | Zé Gesso                         | 9.8454.7038              | 19  | 9.9833.2569       | Gabriela 9.9222.5526                      |                                    |
+| Obra Hidráulica  Projetos     | Empreiteira Garcia               | Ricardo Soares           | 19  | 9.7415.00019      | Gentil                                    |                                    |
+| Obra Impermeabilização        | Casa da Vedação                  | Anderson                 | 19  | 9.7412.2132       | Dirceu 9.992.2657                         | Especializado                      |
+| Obra Lajes                    | Ferrari – João                   |                          | 19  | 9.7409.1084       | Homero 11 9.52850202                      | Atendeu bem                        |
+| Obra Medição/Eletr.           | Michel Tabarini                  |  Demarcação              | 19  | 9.7150.1816       | Marcelo 2M                                |                                    |
+| Obra Portas  instalador       | Livil up                         | 11 9 9610 2178           | 11  | 9 9620 2178       | Marcelo 2M                                |                                    |
+| Obra Poste                    | Poste Certo                      | Samira 3801.601          | 19  | 9.9701.0708       | Heloisa As.. 9.9830.4366                  | Atendeu bem                        |
+| Obra Projetos                 | Wilson Engel                     |                          | 19  | 9.9112.9199       | Johnny 2M                                 |                                    |
+| Obra Rodapé Carpete           | Piso Vinilico                    | Roberto                  | 19  | 9.7408.8980       | Bia Pa... 9.8181.9639                     |                                    |
+| Obra serviços gerais          | Cezar RS faz tudo                |                          | 19  | 9.6253.3532       | Thais 9.8270.2994                         |                                    |
+| Obra Topografia               | Cleber (São José0                | 9.9779.3629              | 19  | 9.9204.6188       | Eng. DU 9.9774.3011                       |                                    |
+| Obra Topografia               | Luís Carlos                      |                          | 19  | 9.9219.7786       | Eng. DU 9.9774.3011                       |                                    |
+| Organização                   | roseliyamauti.com.br             | Personal Organizer       | 19  | 9.8339.7673       | Roseli                                    | Moradora                           |
+| Papel de Parede               | AC Papeis Parede Persianas       |                          | 19  | 9.9409.5510       | Thais 9.8270.2994                         |                                    |
+| Papel de Parede               | Da Vinci decorações              |                          | 19  | 2516.303          | Cândida  9.9701.4062                      |                                    |
+| Papel de Parede               | Decor Colors Patricia            |                          | 19  | 9.9342.1806       | Thais                                     |                                    |
+| Papel de Parede               | Suzana Susi decorações           |                          | 11  | 9.9600.7415       | Silvan... 9.9542.4887                     |                                    |
+| Papel de Parede               | Teresa Cortinas                  |                          | 19  | 9.9745.2181       | Rosali... 9.8135.0175                     |                                    |
+| Papel Parede                  | Super Jardim                     | Candelária 1863          | 19  | 9.9148.3322       | Renato  /Renata/Mariliz98819.0087         | Morador/Maravilhosa bem indicada   |
+| Passadeira                    | Silvinha                         |                          | 19  | 9.8163.8136       | Tha 9.8270.2994                           |                                    |
+| Passadeira                    | Thais                            |                          | 19  | 9.9392.7869       | Silvania 2M                               |                                    |
+| Passadeira de Roupas          | Celia                            |                          | 19  | 9.7156.5019       | Graziella 2M                              |                                    |
+| Passadeira de Roupas          | Marli                            | Cobra 25,00 a hora       | 19  | 9.8902.2801       | Lilian Fo 9.9220.9996                     | É boa                              |
+| Passadeira de Roupas          | Silvia                           |                          | 19  | 9.8163. 8136      | Thais 9.9221.3439                         |                                    |
+| Passadeira de Roupas          | Val Passa Express                |                          | 19  | 9.8144.4774       |                                           |                                    |
+| Pedreiro   Piso               | Elismar                          |                          | 19  | 9.9236.6598       | Uesli obra lado                           |                                    |
+| Pedreiro   Piso               | Geninho                          |                          | 19  | 9.9613.5618       | Leand.. 9.7237.7634/Nori                  | Muito bom/Tudo com ele             |
+| Pedreiro   Piso               | Milton colocador                 |                          | 19  | 9.9891.4675       | Conheci na obra 2M                        | 45,00m2                            |
+| Pedreiro   Piso /Azulejo      | Aldo                             |                          | 19  | 9.8272.5314       | Mariusa 31 9136.0059/Fernan..             | Excelente                          |
+| Pedreiro   Piso /Azulejo      | Edgar revestimentos              |                          | 19  | 9.9845.7521       | Marcelo9.9701.3010                        |                                    |
+| Pedreiro   Piso e outros      | Cosmo                            |                          | 19  | 9.9890.1006       | Luciene 9.9988.5399                       | Confiança e Cuidadoso              |
+| Pedreiro - Reboco             | José                             |                          | 19  | 9.9477.7732       | Obra vizinha 2M                           | Bom preço                          |
+| Pedreiro bancada Porcelanato  | Andre Marmoraria                 |                          | 19  | 9.7402.9553       | Marga...9.9118.6849                       |                                    |
+| Pedreiro bancada Porcelanato  | Brigu                            |                          | 19  | 9.9194.3844       | Thais                                     |                                    |
+| Pedreiro bancada Porcelanato  | Marmoraria Geraldini             |                          | 19  |                   | Margareth Leite9.9118.6849                |                                    |
+| Pedreiro bancada Porcelanato  | Portobelo                        | Luiz Morador             | 19  |                   | Luciane 9.9988.5399                       |                                    |
+| Pet                           | Agro Pet’s Indaiá                |                          | 19  | 9.9840.6883       | Marcelo 9.9701.3010                       |                                    |
+| Pet                           | Cristal Pet Móvel                |                          | 19  | 9.9774.4192       | Nori 9.9602.1039/Luciane 9.9988.5399      | Excelente/super indico             |
+| Pet                           | Lea PET                          |                          | 19  | 9.9105.6865       | Marcelo 2M                                |                                    |
+| Pet                           | Lila Pet Car                     |                          | 19  | 9.8367.1900       | Valdete 2M                                |                                    |
+| Pet                           | Madame  PET                      |                          | 19  | 9.8936.1257       | Daniela 2M                                |                                    |
+| Pet                           | Shanadu                          |                          | 19  | 9.9108..6332      | Mariliz 2M                                |                                    |
+| Pet                           | Studio Dog Pet Shop              |                          | 19  | 9.9712.2002       | 9.9712.2002enat 2M                        |                                    |
+| Pet                           | Transfirma Cão PET               |                          | 19  | 9.9929.2910       | Tha 9.8291.4949/Eng. DU                   | /Muito Bom                         |
+| Pet adestrador                | Cibele                           |                          | 19  | 9.9712.3545       | Ferrari 9.8184.6655                       |                                    |
+| Pet adestrador                | Marcelo                          |                          | 19  | 9.9790.5510       | Tha 9.8270.2994                           |                                    |
+| Pet adestrador                | Rafael                           |                          | 19  | 9.9738.1082       | Marcelo 9.9701.3010                       |                                    |
+| Pet cuidadora                 | Karine                           |                          | 19  | 9.8439.0211       | ?                                         |                                    |
+| Pet médico Veterinária        | Ana Helena                       |                          | 19  | 9.9676.2999       | Gabriela 9.9222.5526                      |                                    |
+| Pet Médico Veterinário        | Vet Prado                        |                          | 19  | 9.9888.3886       | Grazie...9.7829.1699                      |                                    |
+| Pet Móvel                     | Josi Pet Móvel                   |                          | 19  | 9.8938.4836       | Marcia                                    | Ótima                              |
+| Pet Móvel                     | Lila Pet Care                    | Claudio                  | 19  | 9.8367.1900       | Cintia 2M                                 |                                    |
+| Pet Móvel                     | Vet Van Re Luppi                 |                          | 19  | 9.9691.8282       | Marcelo 2M                                |                                    |
+| Pet passeador                 | Audrey                           | 9. 8950.0999             | 19  | 9.8176.6205       | Maria C 2M                                |                                    |
+| Pet passeador /Sister         | Serviço passeado e etc           | Gabrirelle Martins       | 19  | 9.9556.6599       | Gabiih... 9.9556.6599                     |                                    |
+| Pintor                        | Carlão                           |                          | 19  | 9.9446.1086       | Marga...9.9118.6849                       | Muito bom casa e loja              |
+| Pintor                        | Dadiva                           |                          | 19  | 9.9156.1235       | França 9.9214.3895                        |                                    |
+| Pintor                        | Douglas laqueador                |                          | 19  | 9.9634.2070       | Marcelo 9.9701.3010                       |                                    |
+| Pintor                        | Gilmar                           |                          | 19  | 9.8172.2046       | Júlio                                     |                                    |
+| Pintor                        | Guilherme                        |                          | 19  | 9.9618.5603       | Mariusa 31 9136.0059/Milena               |                                    |
+| Pintor                        | João Pedro                       |                          | 19  | 9.9610.7225       | José 9.4772.6758                          |                                    |
+| Pintor                        | Paulinho                         |                          | 19  | 9.8917.2336       | Homero 2M                                 |                                    |
+| Pintor                        | Rogerio                          |                          | 19  | 9.9451.2231       | Tha... 9.8270.2994                        |                                    |
+| Pintor                        | Rubens                           |                          | 19  | 9.9704.9888       | Monyse 9.9289.0195                        |                                    |
+| Pintor                        | Valdir                           |                          | 19  | 9.9666.4419       | Homero 2M                                 |                                    |
+| Pintor Mão de obra            | Indaiá Tintas                    | Laura                    | 19  | 9.9948.0660       | Francine 9.8231.4343                      | Adorei                             |
+| Pintor?                       | Viviane                          |                          | 19  | 9.9854.0797       | Flavia G 9.4179.4042                      |                                    |
+| Piscina manutenção            | Adelson                          |                          | 19  | 9.9995.8939       | Marcelo 2M                                |                                    |
+| Piscina manutenção            | Alan (Aníbal aquecedores)        |                          | 19  | 9.9627.2763       | Felipe/Jaime  9.9488.6964                 |                                    |
+| Piscina manutenção            | Alan bombas                      |                          | 19  | 9.7410.5665       | Alfalux 9.82221.9581                      |                                    |
+| Piscina Manutenção            | Allan Zanini                     | motor /aquecedor         | 19  | 9.7410.5665       | Jaime 2m/Bianca 9.9714.4609               | Excelente Profissional             |
+| Piscina manutenção            | Hidrautec Tiago                  | Vazamentos               | 19  | 9.9749.9603       | Marcelo 9.9701.3010                       |                                    |
+| Piscina manutenção            | José Sales                       |                          | 19  | 9.9195.5454       | Marcelo 2M                                |                                    |
+| Piscina manutenção            | Piscina.com                      |                          | 19  |                   | Lucas 9.8168.7852/Bruna 9.9609.0180       |                                    |
+| Piscina manutenção            | Tudo piscinas                    |                          | 19  | 9.8959.3632       | Marcelo 2M                                |                                    |
+| Piscina Produtos              | Itaici                           | Rogério                  | 19  | 9.9842.2238       | José 9. 4772.6758                         |                                    |
+| Piscineiro                    | Adelson                          |                          | 19  | 9.9995.8939       | Marcelo/Michela 9.8595.2626               |                                    |
+| Piscineiro                    | Cicero                           |                          | 19  | 9.7149.4174       | Patrícia 9.8155.8081/                     | Confiança                          |
+| Piscineiro                    | Elias                            |                          | 19  | 9.9196.6446       | Ana Paula 2M                              |                                    |
+| Piscineiro                    | Jean Marcel                      |                          | 19  | 9.8762.8001       | Bianca 9.9714.4609                        |                                    |
+| Piscineiro                    | Marco Marido da Paty             |                          | 19  | 9.8743.1126       | Elaine..9.8355.0284                       |                                    |
+| Piscineiro                    | Marcos Souza                     |                          | 19  | 9.8821.9734       | Fabio Oliveira                            |                                    |
+| Piscineiro                    | Ney                              | 9.4772.6758?             | 19  | 9.894.6701        | Dennys/Osmar 9.9910.8010/José             |                                    |
+| Piscineiro                    | Rafael                           |                          | 19  | 9.9174.4783       | Lucas / Evandro/Ronaldo/Mary              | Ronaldo ótimos não faltam          |
+| Piscineiro                    | Reginaldo                        |                          | 19  |                   | Mariusa /Margaret 9.9118.6849             |                                    |
+| Piscineiro                    | Robson                           |                          | 19  |                   | Mariusa /Margaret 9.9118.6849             |                                    |
+| Piscineiro                    | Rodrigo Bersan                   |                          | 19  | 9.9746.7644       | Daniela / Monyse 9.9289.0195              |                                    |
+| Piscineiro                    | Silva Piscinas                   | Silvio                   | 19  | 9.9506.2245       | Custo...9.9155.2731                       | Faz em casas                       |
+| Piscineiro                    | Tuca                             | 9.9655.2174              | 19  | 9.9777.8047       | Joyce 9.9983.9109/Renata                  | Muito Boa 3 anos                   |
+| Piscineiro/ jardim            | João Carlos                      |                          | 19  | 9.8166.0520       | Tha 9.8291.4949                           |                                    |
+| Piso Fulget                   | Arte Moderna                     | Rafa Dias                | 19  | 9.8325.5635       | Thais 9.8270.2994                         |                                    |
+| Piso Fulget e limpeza         | Uni piso Luiz Fulget             |                          | 19  | 97023.774         | Homero 11 9.5305.0202                     |                                    |
+| Piso intertravado grama       | Adalton                          | Adalton                  | 19  | 9.7107.5809       |  Cartão c/irmão2M/Bruno 2m                | Excelente                          |
+| Piso laminado/vinifico        | IndaiaFlor                       |                          |     |                   | Daniele 9.9.99928.1714                    | Qualidade e prazo                  |
+| Piso Piscina                  | Pedra caxambu Indicada           |                          |     |                   | Gui.Zini 2M                               |                                    |
+| Piso Piscina                  | revesto.com.br                   | Antiderrap/térmico       |     |                   | Gera 2M                                   |                                    |
+| Plotagem /Copias              | Casa das Copias                  |                          | 19  | 9.8277.4145       | Margare.. 9.9118.6849                     | Muito Bom                          |
+| Plotagem /Copias              | Ploter e Cia                     |                          | 19  | 9.9977.1816       | Margare.. 9.9118.6849                     | Muito Bom                          |
+| Portaria Duas Marias          |                                  | 9.9989.4379              | 19  | 9.8346.0215       | Tha Carf 2M                               |                                    |
+| Portas                        | Exclusiva Portas                 | Aline                    | 19  | 9.9774.6463       | CassioT 9.9988.5399                       | Melhor custo beneficio             |
+| Portas                        | Pormade Hassam                   |                          | 19  | 9.9131.4092       | Marcelo/sindica/Eng. DU997743011          | Gostamos/ /                        |
+| Propaganda ?                  | ETC I10                          | Cassio Tavares           | 19  | 9.8232.6561       | Fabiana 9.8777.7276                       |                                    |
+| Publicidade Marketing         |                                  |                          | 19  | 9.8851.1903       | Marcelo 9.9701.3010                       |                                    |
+| Quadros instalador            | Fernandinho                      |                          | 19  | 9.9846.4803       | Monyse 9.9289.0195                        |                                    |
+| Rede proteção Piscina         | Redes e Varais                   |                          | 11  | 9.9004.4131       | Gera 9.9933.3824                          |                                    |
+| Revisora de textos            | Kaka                             |                          | 16  | 9.9124.4506       | Grazie....9.7829.1699                     | excelente                          |
+| Roupas venda Domicílio        | Chez Bag Delivery                | @chezvioleta             | 19  |                   | Flavia G 9.4179.4042                      | Pijamas biquínis lindas            |
+| SAAE Indaiat. Fixo/0800       |                                  |                          | 19  | 3834.94           | 0800 77 22 195                            |                                    |
+| SAAE Indaiat. WhatsApp        |                                  |                          | 19  | 9.9615.8035       | Só mensagem de texto                      |                                    |
+| SAAE Indaiatuba  agua         |                                  |                          | 19  | 9.9615.8035       | Andreia Bergamo Dent. 2M                  |                                    |
+| Saúde  Farmácia Delivery      | Farma Vida Re Pitarelo           |                          | 19  |                   | 2M                                        |                                    |
+| Saúde Clinica Idosa           | Benveni_residencial_             | Idosos? utm_             | 19  | Médium=copy       | Link dona Priscila Novaes                 | Bianca2M                           |
+| Saúde Cuidadora               |                                  | Luciana                  | 67  | 9672.3326         | Andreia Sindica 2M                        |                                    |
+| Saúde Cuidadora               | @renata cacarrascoza             |                          | 19  | 9.8199.9121       | Andreia Sindica 2M                        |                                    |
+| Saúde Cuidadora               | Nenzinho novo                    |                          | 19  | 9.9544.7306       | Valdete 2M                                |                                    |
+| Saúde Exames Laboratoriais    | Confiance                        | Watts 3727.3393          | 19  | 3727.3393         | Bianca L 2M                               | Prefere                            |
+| Saúde Exames Laboratoriais    | Controlab                        |                          | 19  |                   | Bianca L 2M                               |                                    |
+| Saúde Exames Laboratoriais    | Dra. Edna Jaguaribe              |                          | 19  | 9.9588.1539       | Rosa 2M                                   |                                    |
+| Saúde Exames Laboratoriais    | MF diagnósticos                  |                          | 19  |                   | Nádia H (melhor Indaiatuba)               |                                    |
+| Saúde Farmácia Delivery       | Drogal                           |                          | 19  | 800.347           | Margarete 2M                              |                                    |
+| Saúde Malhas Pós Cirurgia     | Prime Yoga Indaiatuba            | Cintas modeladoras       | 19  | 9.9972.1099       | Joyce 9.9983.9019                         | Fixo 3835.2256                     |
+| Saúde Nutricionista           | Alessandra Cavalari              |                          | 19  | 9.9359.1109       | Nori 9.9602.1039                          | Gosto muito da leka                |
+| Saúde Nutricionista           | Ortolife nutricionista e         | Educador fisico          | 19  | 9.9972.3038       | Beti 9.9976.4748                          |                                    |
+| Saúde Personal training       | Carol Borba 4 life               |                          | 19  | 9.9276.0697       | Ferrari 9.8184.6655                       |                                    |
+| Saúde Personal training       | Luciane                          |                          | 19  | 9.9655.2615       | Monyse 9.9289.0195                        |                                    |
+| Saúde Personal training       | Marcelo Teigon                   |                          | 19  | 9.9253.6935       | Gabrie..9.9222.5526                       |                                    |
+| Saúde Personal training       | Patrick                          |                          | 19  | 9.9147.6162       | Valdete 9.9390.4764/Jaime9.94886964       | Muito bom                          |
+| Saúde Personal training       | Priscila Pazelli                 | Formada ed. Física       | 19  | 9.7541.3838       | Bianca L 9.9714.4609                      |                                    |
+| Saúde Personal training       | Robinho                          |                          | 19  | 9.9203.5104       | Sara 9.4309.0866                          |                                    |
+| Saúde Personal training       | Robson                           | 9.9250.0497              | 19  | 9.9251.0497       | Sindica/thais 9.8270.2994                 | Faz Bioimpedancia                  |
+| Saúde Personal training       | Sheila                           |                          | 19  | 9.9154.9622       | Gabrie... 9.9222.5526                     |                                    |
+| Saúde Personal training       | Thiago Pereira                   |                          | 11  | 9.9909.0722       | Silvania 9.4309.0866/99542.4887           | Fica 2ª a 6ª 7 as 8 no cond.       |
+| Saúde Plano                   | https://tinyurl.com/3zmu223r     | Irmã da Criss            |     |                   | Criss 9.9760.1290                         |                                    |
+| Saúde SPA                     | Despertar                        |                          | 19  | 9.9262.8802       | Elaine Mônaco                             |                                    |
+| Saúde Vacinas                 | Imuno Vacin                      |                          | 19  | 9.9491.5696       | Sara 2M/ Graziela/Francine9.8231.4343     | Gosta muito                        |
+| Saúde Remédios                | ww.midoterra.com/                | Mayaranardi/             | 19  | 9.4761.8915       | Mayara 94761.8915                         | Anti Inflamatórios bogo            |
+| Saúde Vacinas                 | Ymuno Master                     |                          | 19  | 9.9150.5521       | Thais 2M                                  |                                    |
+| Segurança                     | Astha                            | Brito                    | 19  | 9.9613.2209       | Gentil 2M/Sergio/Eng. DU                  | Muito bom                          |
+| Segurança                     | Atlas Monitoramento              | Carlos                   | 19  | 9.8856.3936       | Júlio                                     |                                    |
+| Segurança                     | Gibin                            | Júlio                    | 19  | 9.8177.0240       | Dirceu 9.9892.2657                        |                                    |
+| Segurança                     | Microvolts                       | Isac                     | 19  | 9.9297.8898       | Bianca 9.9714.4609                        | gosto                              |
+| Segurança                     | Super SEG                        |                          | 19  | 3875.7124         | Renata 9.8199.9121                        | Godtei  Intelbras Osmar não indica |
+| Segurança                     | Unit                             | 9.9205.2901              | 19  | 9.9983.9019       | Joyce 9.9983..9019                        |                                    |
+| Segurança                     | Unit Segurança                   | Leôncio Costa            | 19  | 9.7403.8523       | Fabiana 9.8777.7276                       | Ótimo custo                        |
+| Seguro                        | Renan Bergamo                    |                          | 19  | 9.9377.2262       | 2M Andrea Bergamo                         |                                    |
+| Seguro                        | SJD Corretora                    | Jackson                  | 11  | 9. 9472.1855      | Jaime 2M amigo                            | Competente                         |
+| Seguros                       | BDA                              |                          | 19  | 9.7092.5870       | Thais 2M                                  |                                    |
+| Seguros                       | BlindSeg                         | Valdecir                 | 19  | 9.9720.3049       | Gabriela 2M                               |                                    |
+| Seguros                       | Fernandocorretor                 |                          | 19  | 9.5192.0059       | José 9.4772.6758                          | Donos                              |
+| Seguros                       | Giom Corretora                   | www.giomseguro           | 19  |                   | Bianca 2M                                 |                                    |
+| Seguros                       | Glotler                          | Drielle                  | 19  | 9.7100.0078       | Margaret 2M 9.9118.6849                   | Muito Boa                          |
+| Seguros                       | Ideale                           | Renan/Thais              | 19  | 9.9287.9019       | Thais/Anfreia Bergamo                     | Donos                              |
+| Seguros                       | Indaseg Cris                     | 3875.9949                | 19  | 9.8168.2244       | Wilson                                    | Donos                              |
+| Seguros                       | Osmil Casagrande                 | 3875.1573                | 19  | 9.9266.2927       | Luiz W. 9.9177.0371                       | Há muitos anos                     |
+| Seguros                       | Paulo Teixeira                   |                          | 19  | 9.9757.0737       | Gera 9.9933.3824                          |                                    |
+| Seguros                       | Pigato                           |                          | 19  | 9.9710.0641       | Monyse 9.9289.0195/ Eng. DU               | Ótimo Profissional                 |
+| Seguros                       | Rubens SOS                       |                          | 19  | 9.8906.0201       | Nori 2M                                   |                                    |
+| Seguros                       | Tania                            |                          | 19  | 9.9653.2656       | Bianca 9.9714.6758                        |                                    |
+| Seguros Corretora             | Ramazza                          | Alécio                   | 19  | 9.8956.0366       | Patrícia 2M                               | Trab. tempos                       |
+| Serralheiria                  | Edivaldo                         | Guarda Corpo Escada      | 19  | 9.9715.7942       | Silvanet 9.9722.2254                      | Muito Bom                          |
+| Serralheiria                  | Jandeir                          |                          | 19  | 9.8986.4454       | Gláucio 9.8612.0805                       |                                    |
+| Serralheiria                  | Silvio                           |                          | 19  | 9.9108.2740       | Joyce 9.9983.9019                         |                                    |
+| Serralheiria/ Conserto.       | GP Porta/Janela Autom            | Fernando/Genildo         | 19  | 9.7415.0061       | Rosa 9.9826.3500/Margareth leite          | Honestos /profissionais            |
+| Serralheiria/ Conserto.       | Sandro Zanuleto                  | Porta Autom              | 19  | 9.7412.3102       | Silvania2M/Andreia/Gabriela               | Bom preço                          |
+| Serralheiria/Conserto         | Ailton assist. Pvc/Alum          | Porta Autom.             | 19  | 9.7826.9342       | 2M                                        |                                    |
+| Serralheria                   | Alufran.aluminios@               | yahoo.com.br             | 19  |                   | França9.9214.3895                         |                                    |
+| Serralheria                   | Betamelo                         |                          | 19  | 9.9764.9227       | ?9.9783.0143                              |                                    |
+| Serralheria                   | Dallavalle                       | Alex                     | 19  | 9.9831.6655       | Thais 9.8270.2994                         |                                    |
+| Serralheria                   | Iverson Salto                    |                          | 19  | 9.7312.5548       | Sandro 9.8875.5300                        | Muito bom                          |
+| Serralheria                   | RC Serralheria                   |                          | 19  |                   | Nori 9.9602.1039                          | Gostei Muito                       |
+| Serralheria                   | Robinho                          |                          | 19  | 9.9616.5303       | Thais 9.8270.2994                         |                                    |
+| Serralheria /Esquadrias       | Diego                            | Persianas elétrica       | 19  | 9.82.386822       | André 2M                                  | Preço Justo                        |
+| Serralheria /Esquadrias       | Gilson                           | Guarda Corpo             | 19  | 9.9661.7506       | Gentil P 9.9304.7680                      |                                    |
+| Serralheria /Esquadrias       | Inovaty Esq. Alumínio            | Paulo Cesar              | 19  | 9.9786.1827       | Cassio Tavares 2M                         | Bom preço Valinhos                 |
+| Serralheria /Esquadrias       | Jandeir                          |                          | 19  | 9.8986.4454       | Gláucio 9.8612.0805                       |                                    |
+| Serralheria /Esquadrias       | Prisma Esq.                      | Vagner                   | 19  | 9.9769.8086       | Marcelo @M                                |                                    |
+| Serralheria/Esquadrias        | Alexandre Garcia                 | Telhado                  | 19  | 9.7407.4239       | Margarete 9.9118.6849                     |                                    |
+| Serralheria/Esquadrias        | Da Vinci Decorações              | Reparo controle          | 19  | 2516.303          | Mariusa                                   |                                    |
+| Serralheria/Esquadrias        | Fernando Alumipro                | Campinas                 | 19  | 9.7404.3834       | André 9.9431.0001/Gentil                  | Preço justo ótimo                  |
+| Serralheria/Esquadrias        | Genildo                          |                          | 19  | 9.9269.1503       | Margarete 9.9118.6849/Paulo VI            | Top/Fera pontual/Melhores          |
+| Serralheria/Esquadrias        | Oscar Allinn                     |                          | 19  | 9.9844.0630       | Tha 9.8270.2994                           |                                    |
+| Serralheria/Esquadrias        | Paulo Cesar                      |                          | 19  | 9.9786.1827       | Cassio 9.8232..6561                       |                                    |
+| Serralheria/Esquadrias        | PH                               | Rosi                     | 19  | 9.8243.0002       | Douglas 9.8783.9333                       | Ferrari não recomenda              |
+| Serralheria/Esquadrias        | Quality                          |                          | 19  | 9.9325.1330       | Homero /Milena 9.9976.4748                | Pos Ok/Milena Não recomenda        |
+| Serralheria/Esquadrias        | Rhema Alumin clidemar            | Reparo Controle          | 19  | 9.7408.20036      | Daniela  9.9638..1424                     |                                    |
+| Serralheria/Esquadrias        | Sandro Zanutello                 | Reparo controle          | 19  | 9.7412.3102       | Gabriela 9.9222.5526                      | Rápido                             |
+| Serralheria/Vidros            | Juliano Vidros                   |                          | 19  | 9.9795.7888       | Marcia 9.9186.2225                        | Ótimos não é + Barato              |
+| Serviços faz tudo reforma     | Geninho                          |                          | 19  | 9.9613.5618       | Nori 9.9602.1039                          | Gosto muito                        |
+| Sindica Duas Marias           | Andreia                          |                          | 19  | 9.9909.8550       | 2M                                        |                                    |
+| Site Duas Marias              | https://duas-marias.github.io    | Gabriel                  | 19  | 9.8204.7225       | Gabriel 9.8204.7225                       |                                    |
+| Tapeçaria                     | Angel Darly viz                  | Guarda sol piscina       | 19  | 9.8964.5385       | Marga...99118.7101                        | e reformas                         |
+| Tapeçaria                     | Domingos                         |                          | 19  | 9.8781..4978      | Marcelo 2M                                | Muito bom                          |
+| Tapeçaria                     | Irmael                           |                          | 19  | 9.9410.6988       | Thais 9.8270.2994                         |                                    |
+| Tapeçaria                     | Israel                           |                          | 19  | 9.9410.6988       | Tha 9.8270.2994/Gentil                    |                                    |
+| Tapeçaria                     | Kennedy                          | Isael                    | 19  | 3885.0768         | Gentil  99304.7680                        | Top                                |
+| Tapeçaria                     | Líder Léia Oliveira              | 9.8931.6000              | 19  | 9.8919.7770       | José Antônio 9.4772.6758/Silvania         | Muito bom/gostei/Ótimo             |
+| Tapeçaria                     | Marivaldo                        | Guarda sol piscina       | 19  | 9.9358.0214       | Thais 9.8270.2994                         |                                    |
+| Tapeçaria                     | Salvador King Estofado           |                          | 19  | 9.9636.4020       | Andreia Bergamo                           |                                    |
+| Tapeçaria                     | Sueli                            |                          | 19  | 9.8135.0240       | Rosa9.8135.0175                           |                                    |
+| Tapetes                       | Rosana                           |                          | 19  | 9.8986.3484       | Ari 9.9826.3500                           |                                    |
+| Telas de Proteção piscina     | Ceraca de Piscina Ativa          | Marta                    | 11  | 9.8571.7325       | Monys 9.9289.0195                         |                                    |
+| Telas Proteção                | Redes Paraiso                    | Claudionor               | 19  | 3834.8079         | Gentil 2M                                 |                                    |
+| Telas Proteção Mosquit.       | CTO                              |                          | 19  | 3801.97           | Osmar Ribeira 9.9910.8010                 |                                    |
+| Telas Proteção Mosquit.       | CTO                              |                          | 19  | 3801.97           | Osmar Ribeira 9.9910.8010                 |                                    |
+| Toldos                        | Esplanada                        | Edson                    | 19  | 9.9763.0860       | Rosa / Marcelo/Graziela/Felipe            | Gostei/preço                       |
+| Toldos                        | Mundial                          | Josiane 3816.7551        | 19  | 9.7410.0323       | Gentil P 9.9304.7680                      | Top                                |
+| Toldos                        | Toldos Esplanada                 | Edson                    | 19  |                   | Gentil Pacioni e13U2M                     | Ótimo                              |
+| Transporte                    | Fiorati                          |                          | 19  | 9.9705.4080       | Gera 2M                                   |                                    |
+| Transporte                    | Safe Ride                        | Crianças Idosos Pets     | 19  | 9.8138.2903       | Luciane 9.9988.5399                       | Confiança                          |
+| Transporte mudança            | Alessandro                       |                          | 19  | 9.7402.3570       | Silvania 9.9542.4887                      |                                    |
+| Transporte mudança            | carlinhosmudancas .com.br        |                          | 19  |                   | Mariliz 2M                                |                                    |
+| Transporte mudança            | Silvio Transportes               |                          | 19  | 9.9132.7860       | Bianca L 9.9714.4609                      |                                    |
+| Transporte taxi               | Carlos                           |                          | 19  | 9.9449.5456       | 11 9.8777.7276                            |                                    |
+| Transporte taxi               | Décio                            |                          | 19  | 9.9779.5556       | Mariana Tiengo 9.9700.2602                |                                    |
+| Transporte Taxi               | Elton                            |                          | 19  | 9.9216.4655       | Ari 9.9826.3500                           |                                    |
+| Transporte Taxi               | Fabio                            |                          | 35  | 9248.0284         | Lilian 9.9220.9996                        |                                    |
+| Transporte taxi               | Jarto                            |                          | 19  | 9.9115.0069       | Maria 9.8163.6224                         | Confiança experiente em São Paulo  |
+| Transporte taxi               | Júlio                            | Faz SP                   | 11  | 9.6889.2631       | Graziela Budacs 9.7829.1699               | Confiança virou amigo              |
+| Transporte Taxi               | Luiz Carlos Transfer             | campinas                 | 19  | 9.9205.7098       | Fabian.. 9.7109.5363                      |                                    |
+| Transporte taxi               | Magalhães                        |                          | 19  | 9.9789.2388       | Gera 2M                                   |                                    |
+| Transporte Taxi               | Moraes                           |                          | 19  | 9.9267.9795       | Mariusa 319.9686.1263/Milena              |                                    |
+| Transporte Taxi               | Reginaldo Viracopos /            | Guarulhos                | 19  | 9.9609.6690       | Sara 9.4309.0866                          | Confiança                          |
+| Transporte Taxi               | Sebastião                        |                          | 19  | 9.9789.2388       | Andreia Sindica                           |                                    |
+| Transporte Taxi               | Solange                          |                          | 19  | 9.7406.1580       | Andreia Sindica/Nori/Graziela             | Gostamos                           |
+| Transporte Taxi               | Tarcísio                         |                          | 19  | 9.9214.4704       | Sidneia 2M                                | Vai p/SP                           |
+| Transporte Taxi Uber          | Valdeci                          | Atende SP                | 38  | 9137.2332         | Edielson 9.8599.2146                      |                                    |
+| Transporte Taxi Van           | Carlinhos                        |                          | 19  | 9.7573.4486       | Sideneia 2M                               | Vai p/SP                           |
+| Transporte Van                | Claudia (tia)                    |                          | 19  | 9.9185.7696       | Silvanet 2M                               |                                    |
+| Transporte Van                | Emanuelle                        | Manu                     | 19  | 9.9348.0608       | Alexandre                                 |                                    |
+| Transporte Van                | Marcia Rosini                    |                          | 19  | 9.8213.3366       | Moon 9.3448..2233                         |                                    |
+| Transporte Van                | Robson Van                       |                          | 19  | 9.9282.1336       | Erika 9.9601.8340                         | Gostei do atendimento              |
+| Transporte Van                | Ronaldo                          |                          | 19  | 9.7417.3787       | 9.8777.7276                               |                                    |
+| Transporte Van                | Solange                          |                          | 19  | 9.9283.7841       | Silvanet 2M                               |                                    |
+| Varal doméstico               | Varais Mazzoneto                 | Campinas                 | 19  | 3237.7625         | Andreia Sindica                           |                                    |
+| Veículos  Baterias            | Fabio                            | Atende domicilio         | 19  | 9.9832.3008       | Sandro 9.8875.5300                        | Competente preço baixo             |
+| Veículos  Estética Autom.     | Auto Giro                        |                          | 19  | 9.9739.3917       | Andreia Sindica                           |                                    |
+| Veículos  Estética Autom.     | Euro Park centro autom.          | 3016.5588                | 19  | 9.9289.7610       | Elaine Mônaco 9.8355.0284                 |                                    |
+| Veículos  Funilaria Pintura   | Chavão                           | R. Cx D’agua,62          | 19  |                   | Bianca 9.9714.4609/Wilson                 | Qualidade , excelente              |
+| Veículos  Funilaria Pintura   | Julinho Bella                    |                          | 19  | 9.9786.3937       | Bianca 9.9714.4609                        |                                    |
+| Veículos  Lava rápido         | Auto Giro estética auto          | Atende no condomínio     | 19  | 9.9739.3917       | Fabio 9.9837.0707/Graziela                |                                    |
+| Veículos  Lava rápido         | Renato                           |                          | 19  | 9.9611.9754       | Silvania 9.9542.4887                      |                                    |
+| Veículos  Mecânica            | EuroBar                          | Visconde Indaiatuba      | 19  |                   | Wilson                                    |                                    |
+| Veículos  Mecânica            | Mecânica São Paulo Rodrigo       | Pastilhas freio etc..    | 19  | 3834.2646         | Wilson                                    |                                    |
+| Veículos  Mecânica            | Rodabem                          | Parque ecológico         | 19  | 9.9247.4922       | Silvania9.9542.4887                       | Ao lado do mason du park           |
+| Veículos  Mecânica            | Valdinei                         |                          | 19  | 9.9391.3214       | Lucas 9.8168.7852                         | Me atende muito Bem                |
+| Veículos alinham. Balanc      | 360KM                            | Dario                    | 19  | 3392.9022         | Renato 9.9148.3322                        |                                    |
+| Veículos Auto Escola          | Casa grande                      |                          | 19  | 9.9362.8716       | Gui.Zini 2M                               |                                    |
+| Veículos Auto Escola          | Nato Auto Escola                 |                          | 19  | 3894.373          | Andreia Sindica                           |                                    |
+| Vende tudo                    |                                  | 9.8804.60069             | 19  | 9.9499.9498       | Ana Paula 9.9662.4761                     |                                    |
+| Vidraçaria                    |                                  |                          | 19  | 9.9800.6372       | Thais 9.8270.2994                         |                                    |
+| Vidraçaria                    | Central                          | Suzana 3834.3786         | 19  | 9.9788.4002       | Silvani...9.9542.4887                     |                                    |
+| Vidraçaria                    | Gil arte vidros                  |                          | 19  | 9.9707.4352       | França 9.9214.3895                        | ótimo                              |
+| Vidraçaria                    | Indaiatuba Glass                 |                          | 19  | 9.9312.2432       | Rafa 9.8196.7101                          |                                    |
+| Vidraçaria                    | Mendes                           | Vinicius Perecin         | 19  | 9.8540.8774       | Marcelo 9.9701.3010                       |                                    |
+| Vidraçaria                    | São Luiz                         | 3875.6569                | 19  | 9.8965.2090       | Daniela 9. 9720.6177/Osmar                | Bom serviço/Boa exper.             |
+| Vidraçaria                    | SP                               |                          | 19  | 9.9800.6372       | Monyse9.9289.0195/Thais9.9221.3439        | atendimento e preço/ótimos         |
+| Vidraçaria Espelhos           | Aline Vidros                     |                          | 19  | 9.7411.0807       | Margare... 9.9118.6849                    |                                    |
+| Vidraçaria Espelhos           | Juliano Vidros                   |                          | 19  | 9.9795.7888       | Marcia 9.9186.2225                        | Ótimos profissionais               |
+| Vidraçaria Espelhos           | Ronaldo Cabral                   |                          | 19  | 9.7420.2908       | Renato                                    | Trab. bem                          |
+| Vidraçaria Espelhos           | Vertical Vidros                  | Raquel                   | 19  | 9.7402.4702       | Mariliz 9.8819.0087                       |                                    |
+| Vinhos                        | Baco Wine Shop                   |                          | 19  | 99990.5759        | Maria C. 9.6737.0870                      |                                    |
+| Vinhos                        | Giana Dicorpo                    |                          | 19  | ?9683.0874        | Nádia H 9.9447.8873                       |                                    |
+| Vinhos                        | Overwine                         | Silvia                   | 19  | 9.8280.0120       | Nori 9.9602.1039                          |                                    |
+| Vinhos                        | RR Valinhos do sul               | Roberto                  | 19  | 9.91.94.0296      | Ferrari                                   | Muito bom                          |
+| Vinhos ?                      | Gui Moradora                     |                          | 19  | 9.9131.6203       | Sandro 9.8875.5300                        |                                    |
+| Wi –FI aparelho               | Deco TP link                     | Opera com 4 aparelhos    |     |                   | Paulo Visela 9.8203.5994                  | Maravilhoso sugiro não cabear      |
+| Wi –FI aparelho               | Roteador Tecnologia mesh         |                          |     |                   | Gabriel 9.8204.7255                       | Recomendado                        |
+| Yoga                          | Jean Emana                       |                          | 19  | 9.8908.1184       | Graziella 9.7829.1699                     | Ele sua aula e espaço ótimos       |
+| Zelador Duas Marias           | Celio                            |                          | 19  | 9.9128.4373       | Homero 2M                                 |                                    |
+| Zoológico                     | Campinas                         |                          |     |                   | Airton 9.9894.7271/Thais                  |                                    |
+| Zoológico                     | Sorocaba                         |                          |     |                   | Nori 9.9602.1039                          | Ótimo                              |
+| Zooparque                     | Itatiba                          |                          |     |                   | Airton 9.9894.7271/Michela                | 9.8595.2626/Otimo Nori             |
+
+
+- Dicas Dengue: Meio copo de cloro e uma colher de sal, colocar nos ralos 2ª e 6ª feira 	
+- Horário de ônibus Indautuba : Indaiatuba.sp.gov.br /horários-de-onibus		
+- Desapegos novos e usados entre no grupo link :https://chat.whatsupp.com/FNxEs1lL4GN1JWKk7P600c	Andreia Bergamo	
+
+Versão 2.6 19/12/2022 17:27
